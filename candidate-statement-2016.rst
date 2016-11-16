@@ -4,22 +4,14 @@ Introduction
 My number one goal in my capacity here is to facilitate the most fulfilling,
 rich, and empowering experience for as many of our students that I can, both in
 and out of the department. In particular, I want to foster the joy of
-engineering and learning, student **led** learning driven by intrinsic
-motivation, and inclusive multidisciplinary approaches to solving problems.
+engineering and learning, intrinsically motivated student **led** learning, and
+inclusive multidisciplinary approaches to solving problems.
 
 To do this, my academic role is centered around undergraduate education in our
 department, Mechanical and Aerospace Engineering. I teach between four and six
 courses an academic year, develop our capacity for and success in engineering
 education, serve the university in educational related needs, and represent the
 university and myself in a professional capacity internationally.
-
-Formally, my position, Lecturer With Potential Security of Employment, is
-expected to demonstrate effectiveness and impact at meeting these goals as
-assessed by three primary aspects which are detailed in the `UCD APM 285`_:
-*Teaching and Learning*, *Professional Achievement and Activities*, and
-*University and Public Service*.
-
-.. _UCD APM 285: http://manuals.ucdavis.edu/apm/285.htm
 
 My long term goals can be categorized in terms of the broadness of impact:
 
@@ -56,25 +48,36 @@ National and International
    texts for engineering subjects, widely sharing my and our departments
    leadership in modernizing engineering education.
 
-For the time period of July 1, 2015 to June 30, 2016 I detail below the
-activities that I will be working on in each of the above three topics. Note
-that I officially started on September 21st, 2015. Due to my activities being
-different than research faculty, I've included many hyperlinks to the results
-of my work. Please follow them if you have further interest.
+Formally, my position, Lecturer With Potential Security of Employment, is
+expected to demonstrate effectiveness and impact at meeting the above goals as
+assessed by three primary aspects which are detailed in the `UCD APM 285`_:
+*Teaching and Learning*, *Professional Achievements and Activities*, and
+*University and Public Service*.
+
+.. _UCD APM 285: http://manuals.ucdavis.edu/apm/285.htm
+
+For the time period of July 1, 2015 to June 30, 2016 [#]_. I detail below the
+activities that have contributed to each of the above three topics. Due to my
+activities being different than research faculty, I've included many hyperlinks
+to the results of my work. Please follow them if you have further interest.
+
+.. [#]  Note that I officially started on September 21st, 2015 but particpated
+        in some activities to prepare for the position in the 2015 summer
+        months which are included herein.
 
 Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. This year
 I taught five courses: `EME 150A`_ (Mechanical Design) in the Fall and two
-sections each of `EME 185AB`_ (Mechanical Systems Design Project) in the winter
-and spring quarters, all of which were new course preparations. Between the
-course evaluations and extra feedback I collect throughout my classes, I had,
-on average, favorable reviews. This year I focused primarily on
-developing and enhancing the courses.
+sections each of `EME 185A/B`_ (Mechanical Systems Design Project) in the
+winter and spring quarters, all of which were new course preparations. Between
+the course evaluations and extra feedback I collect throughout my classes, I
+had, on average, favorable reviews. This year I focused primarily on developing
+and enhancing the courses as part of my classroom innovations long-term goal.
 
 .. _EME 150A: http://moorepants.github.io/eme150a/
-.. _EME 185AB: http://moorepants.github.io/eme185/
+.. _EME 185A/B: http://moorepants.github.io/eme185/
 
 .. Not that my course evaulations are poor, but this article provides
    interesting insights on what coruse evaluations may actually mean:
@@ -84,12 +87,12 @@ EME 150A [Mechanical Design]
 ----------------------------
 
 Along with teaching EME150A for the first time, I developed a number of
-innovations for the course. The course is a mixture of applied strength of
+enhancements for the course. The course is a mixture of applied strength of
 materials (static and dynamic failure) and an introduction to the design of
 mechanical structures. For the former, I developed lectures influenced by two
 previous professors' materials that were enhanced by inserting one to two
 active learning mini-activities in most lectures along with quizzes every other
-week. The course content can be viewed at the `class website`_.
+week. The course materials can be viewed at the `class website`_.
 
 .. _class website: http://moorepants.github.io/eme150a/
 
@@ -97,14 +100,15 @@ This was accompanied by `homework problems`_ I developed myself and three pilot
 finite element analysis lessons that were developed by my teaching assistant,
 which received positive reviews. The students were assessed with two exams, the
 first of which a midterm reflection was used to improve preparation for the
-final [2]_. I introduced a `new design project`_ in partnership with Unitrans
+final\ [#]_. I introduced a `new design project`_ in partnership with Unitrans
 to increase the connections with the followup EME 185 course. The students
 worked in teams to develop a conceptual design for a transit bus front mounted
-bicycle rack. Teams were selected using CATME_ [3]_, a field trip to asses a
-bus and collect client needs at the Unitrans maintenance facility, students had
-to process and interpret real data from bus motions, four memos were used for
-design feedback and technical writing improvement, peer reviews of report
-drafts, and peer reviews using CATME_. Most of the use of the tools and methods
+bicycle rack. Teams were selected using CATME_ [#]_, students attended a field
+trip to asses a bus and collect client needs at the Unitrans maintenance
+facility, students had to process and interpret real data from bus
+accelerometer data for dynamic analysis, four memos were used for design
+feedback and technical writing improvement, peer reviews of report drafts, and
+teammate peer reviews using CATME_. Most of the tools and methods I employed
 are backed by evidence based education research and are summarized in detail in
 my `blog post`_ about the class.
 
@@ -113,11 +117,11 @@ my `blog post`_ about the class.
 .. _CATME: http://info.catme.org/
 .. _blog post: http://www.moorepants.info/blog/eme150a-fall-2015.html
 
-.. [2] An exam reflection is a research backed technique to improve learning on
+.. [#] An exam reflection is a research backed technique to improve learning on
    followup exams, see Ambrose, Susan A., Michael W. Bridges, Michele DiPietro,
    Marsha C. Lovett, and Marie K. Norman. How Learning Works: 7 Research-Based
    Principles for Smart Teaching. Jossey-Bass, 2010.
-.. [3] CATME is a tool for optimally choosing team members based on survey data
+.. [#] CATME is a tool for optimally choosing team members based on survey data
    that accounts for many things such as gender, motivation, and schedules
    and for conducting peer reviews that is backed by research in team work, see
    the website for citations.
@@ -125,9 +129,9 @@ my `blog post`_ about the class.
 EME 185 [Mechanical Systems Design Project]
 -------------------------------------------
 
-Starting in the Fall, I worked to develop improvements for the new combined EME
-185A/B course which I co-teach with Prof. Steve Velinsky. The course details
-can be found on my `EME185 course website`_. I enhanced the pre-class project
+Starting in the Fall, I worked to develop improvements for the new combined
+EME\ 185A/B course which I co-teach with Prof. Steve Velinsky. The course details
+can be found on my `EME185 course website`_. I enhanced the Fall quarter project
 solicitation and connections with companies, non-profits, and research
 institutes by tapping into the Career and Internship Center, the CTSC
 collaboration with Biomedical Engineering, and the CoE corporate relations
@@ -135,7 +139,8 @@ office with a improved `online presence`_ and personal solicitation that
 generated approximately `45 proposals`_.  Of the 45, 33 projects were
 ultimately selected for my sections, which I oversaw for the two quarters. This
 included companies and organizations such as NIKE, Micro-Vu, Schilling
-Robotics, LLNL, InSciTech, UCD WCEC, Felt Bicycles, Sandia, ICUEMOTION, etc.
+Robotics, LLNL, InSciTech, UCD WCEC, Felt Bicycles, Sandia National Labs,
+ICUEMOTION, etc.
 
 .. _online presence: http://www.moorepants.info/mech-cap/
 .. _EME185 course website: http://moorepants.github.io/eme185/
@@ -143,30 +148,31 @@ Robotics, LLNL, InSciTech, UCD WCEC, Felt Bicycles, Sandia, ICUEMOTION, etc.
 
 The students greatly appreciated the fact that they were able to be matched to
 a project they were passionate about. I use a custom algorithm that uses survey
-data and student's project preferences to form teams, à la CATME_, which I plan
+data and students' project preferences to form teams, à la CATME_, which I plan
 to develop into a tool to share with the education community. The participating
 organizations funded approximately $45k for prototype development with about
 $7k raised for general course use.
 
 During the course, we utilized the new `MAE Innovative Design Studio`_ that I
 created for running new design ideation, selection, and planning activities
-which is the initial stage of moving to a activity based course as opposed to
-lectures. Additionally, my TA and I introduced a new two part Arduino-based
-`microcontroller lesson`_ to introduce students to sensing, computing, and
-actuation for enhanced mechanical designs. The result was that a large
-percentage of projects included microcontrollers in their design. We also
-included a popular lecture on 3D printing led by three graduate students and an
-young engineers industry panel. The students were assessed through five memos,
-four reports, two design reviews, and two presentations. I developed a
-comprehensive set of rubrics for assessment to track the improvement in
-technical communication over the two courses for each of these items.
+which is the initial stage of moving to an activity based course as opposed to
+a lecture based one. Additionally, my TA and I introduced a new two part
+Arduino-based `microcontroller lesson`_ to introduce students to sensing,
+computing, actuation, and control for enhanced mechanical designs. The result
+was that a large percentage of projects included microcontrollers in their
+design. We also included a popular lecture on 3D printing led by three guest
+graduate students and a young engineers industry panel. The students were
+assessed through five memos, four reports, two design reviews, and two
+presentations. I developed a comprehensive set of rubrics for assessment to
+track the improvement in technical communication over the two courses for each
+of these items.
 
-Lastly, this year was the first year in an international exchange with
-mechanical design students at Meijo University in Nagoya. Ten students and two
-professors visited UCD and participated in our design reviews, gave
+Lastly, this year was the first year of an international exchange with
+mechanical design students at Meijo University in Nagoya, Japan. Ten students
+and two professors visited UCD and participated in our design reviews, gave
 presentations on their design projects, led an interactive cultural exchange
-with our students, participated in Engineering Week activities, and did local
-tourism.
+with our students, participated in Engineering Week activities, and enjoyed
+local tourism.
 
 .. _MAE Innovative Design Studio: https://goo.gl/photos/oUbzCDjCaM9ReCMF8
 .. _microcontroller lesson: http://moorepants.github.io/eme185/pages/microcontroller-tutorial-materials-and-information.html
@@ -174,12 +180,13 @@ tourism.
 Other
 -----
 
-In addition to my primary teaching duties, I gave guest lectures in Prof.
-Eke's multibody dynamics graduate course, Prof. Lin's Computer Science Senior
-Design course, and Dr. Kornbluth's Design for Development course.
+In addition to my primary teaching duties, I developed and gave guest lectures
+in Prof.\ Eke's multibody dynamics graduate course (MAE\ 223), Prof. Lin's
+computer science Senior design course (ECS\ 193), and Dr\. Kornbluth's design
+for development course (TTP\ 298A).
 
 Outside of teaching courses, I led and participated in a number teaching and
-learning activities. I led a collaborative effort the development of the `MAE
+learning activities. I led the collaborative effort the development of the `MAE
 Innovative Design Studio`_ to provide an project based active learning space
 for our project and design classes (EME 150A, EAE 130, EME 185, etc). I
 introduced a new competition team, the `California Solar Regatta`_, where our
@@ -272,3 +279,14 @@ media accounts where I post engineering and scholarly materials.
 
 .. _article on bicycle dynamics: http://www.nature.com/news/the-bicycle-problem-that-nearly-broke-mathematics-1.20281
 .. _blog: http://moorepants.info/blog
+
+Acknowledgements
+================
+
+I know this document is supposed to be about my accomplishments but I think it
+is important to note the people that contributed to the success of the above
+mentioned activities. The MAE staff has been superb in their support and help,
+especially with the MAE Design Studio work. My TAs for the first year were
+excellent. I couldn't have done any of the extra classroom innovations without
+their help and great ideas. I've had two excellent undergraduate assistants:
+Brennan Someting and Vivian Tran. My external colleagues.
