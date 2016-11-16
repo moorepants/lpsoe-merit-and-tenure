@@ -1,25 +1,23 @@
 Introduction
 ============
 
-My primary goal in my capacity as a teaching faculty in the Mechanical
-Engineering department is to facilitate the most fulfilling, rich, and
-empowering experience for as many of our students that I can, both in and out
-of the department. In particular, I want to foster the joy of engineering and
-learning, intrinsically motivated student **led** learning, and inclusive
-multidisciplinary approaches to solving problems.
+My number one goal [my primary goal/ultimate goal?] in my capacity as a teaching faculty in the Mechanical Engineering department is to facilitate the most fulfilling,
+rich, and empowering experience for as many of our students that I can, both in
+and out of the department. In particular, I want to foster the joy of
+engineering and learning, intrinsically motivated student **led** learning, and
+inclusive multidisciplinary approaches to solving problems.
 
-To achieve this goal, my academic role is centered around undergraduate
-education in our department. I teach between four and six courses per academic
-year, develop our capability for and success in engineering education, serve
-the university in educational related needs, and represent the university and
-myself in a professionally domestically and internationally.
+To achieve this goal, my academic role is centered around undergraduate education in our
+department, Mechanical and Aerospace Engineering[this is a little awkward. if you mention ME up above, you don't have to mention here]. I teach between four and six
+courses per academic year, develop our capacity for and success in engineering
+education, serve the university in educational related needs [what does this mean?], and represent the
+university and myself in a professional manner?[can't think of a good way but you use capacity 2x in this sentence] internationally.
 
-My long term goals span from my classroom to other's. These goals can be
-categorized in terms of their broadness of impact:
+My long term goals involve developing innovative curricula to enhance both teaching and learning. These goals can be categorized in terms of their broadness of impact:
 
-Classroom innovations
-   For the classes I teach and am involved with I will continuously develop new
-   methods to improve student learning. These methods will be based on research
+Classroom innovations 
+   For the classes I teach and am involved with I will continuously
+   develop new methods to improve student learning. These methods will be based on research
    backed evidence and my own assessments, thus requiring continuous
    experimentation.
 Department wide
@@ -59,7 +57,7 @@ assessed by three primary aspects which are detailed in the `UCD APM 285`_:
 
 For the time period of July 1, 2015 to June 30, 2016 [#]_. I detail below the
 activities that have contributed to each of the above three topics. Due to my
-activities being different than research faculty, I've included many hyperlinks
+activities being different than research faculty[how about "as some of these actions differ from that of research faculty"?], I have included hyperlinks
 to the results of my work. Please follow them if you have further interest.
 
 .. [#]  Note that I officially started on September 21st, 2015 but particpated
@@ -70,12 +68,12 @@ Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. This year
-I taught five courses: `EME 150A`_ (Mechanical Design) in the Fall and two
+I taught five courses, all of which were new course preparations: `EME 150A`_ (Mechanical Design) in the Fall and two
 sections each of `EME 185A/B`_ (Mechanical Systems Design Project) in the
-winter and spring quarters, all of which were new course preparations. Between
-the course evaluations and extra feedback I collect throughout my classes, I
+winter and spring quarters [you've capped Fall, so either capp both winter/spring or lower all]. Between
+the course evaluations and extra feedback I collected throughout my classes, I
 had, on average, favorable reviews. This year I focused primarily on developing
-and enhancing the courses as part of my classroom innovations long-term goal.
+and enhancing these courses as part of my classroom innovations long-term goal.
 
 .. _EME 150A: http://moorepants.github.io/eme150a/
 .. _EME 185A/B: http://moorepants.github.io/eme185/
@@ -90,17 +88,17 @@ EME 150A [Mechanical Design]
 Along with teaching EME150A for the first time, I developed a number of
 enhancements for the course. The course is a mixture of applied strength of
 materials (static and dynamic failure) and an introduction to the design of
-mechanical structures. For the former, I developed lectures influenced by two
-previous professors' materials that were enhanced by inserting one to two
-active learning mini-activities in most lectures along with quizzes every other
-week. The course materials can be viewed at the `class website`_.
+mechanical structures. Lectures I developed for the former topic were influenced by two
+previous professors' materials and enhanced by inserting one to two
+active learning mini-activities along with quizzes every other
+week. The course materials can be viewed on? the `class website`_.
 
 .. _class website: http://moorepants.github.io/eme150a/
 
-This was accompanied by `homework problems`_ I developed myself and three pilot
-finite element analysis lessons that were developed by my teaching assistant,
-which received positive reviews. The students were assessed with two exams, the
-first of which a midterm reflection was used to improve preparation for the
+These activities were accompanied by `homework problems`_ I developed myself and three pilot
+finite element analysis lessons that were developed (generated? created? )by my teaching assistant. (both these supplamental assignments?)
+received positive reviews. The students were assessed with two exams--the
+first employed a midterm reflection to improve preparation for the
 final\ [#]_. I introduced a `new design project`_ in partnership with Unitrans
 to increase the connections with the followup EME 185 course. The students
 worked in teams to develop a conceptual design for a transit bus front mounted
