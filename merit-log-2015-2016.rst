@@ -1,0 +1,100 @@
+July 1, 2015 to June 30, 2016
+
+Teaching and Learning
+---------------------
+
+EME 150A
+
+- [x] new bus bike rack design project with Unitrans (field trip, deisgn review,
+  real data)
+- [x] Catme for group selection (note diversity)
+- [x] FEA pilot
+- [x] peer review of project papers
+- [x] developed all homework problems
+- open access notes and materials
+- weekly feedback
+- [x] post midterm reflection
+- review of course with CEE
+- 15 minute teaching chunks (lecturing + activity)
+- use of Piazza
+- [x] first time teaching
+
+EME 185A/B
+
+- [x] first time teaching
+- [x] project solitication website
+- [x] worked with Pam Swartwood
+- [x] worked with CoE corporate relations
+- [x] worked with Tony Passerini ant CTSC
+- [x] developed arduino active learning workshop with TA
+- [x] combined Steve and my classes
+- [x] developed design activities
+- [x] Meijo visit
+- ECE combine project
+- [x] design of rubrics for reports
+- [x] organized industry panel
+- D-lab collab
+- survey for barbara and lee
+- met with all students each week
+
+Guest lectures
+
+- [x] mae 223: pydy
+- [x] ecs 193: git
+- [x] ttp 298A: d-lab
+
+Mentoring
+
+- als-trike project: 199
+- Aaron Shaw Spring 199
+- ALS Trike students
+- Two GSoC students summer 2016
+- mentored one gsoc student for 2015 summer
+- mentored ECS 193 project
+- Deb's student
+
+Other
+
+- [x] pydy talk in Steve R's lab
+- created and ran the hacker within
+- [x] swc workshop in nairobi, kenya
+- [x] visited Olin to learn about SCOPE
+- mentored a two GSoC students for 2016 summer
+- [x] solar regatta
+- [x] mae design studio
+- eelc
+- hired engineering education assistant
+- citris grant
+- blum grants
+- [x] als trike
+- submitted big idea
+- squat or not proposal
+
+Professional Achievements and Activities
+----------------------------------------
+
+- [x] Attended FYEE 2015
+- [x] Gave a workshop and talk at SciPy 2015
+- [x] Editor for the journal of open engineering
+- reviewer for scipy proceedings
+- co-mentor deb's student
+- [x] 2016 gsoc grants
+- gsoc mentor: one student 2015
+- gsoc mentor: two students 2016
+- [x] sympy/pydy dev
+- [x] bmd publishing chair
+- [x] bmd scientific commitee
+- consulted for aip software
+- [x] review for euro journal of sports science
+- [x] review for bulsink paper: advances in mech eng
+- igtsc presentatoin
+- thunderhill visit
+- ICSC organizing committee
+
+Service
+-------
+
+- nature interview
+- CoE interview for senior design
+- met with all HIP search folks
+- met with ECE lpsoe candidates

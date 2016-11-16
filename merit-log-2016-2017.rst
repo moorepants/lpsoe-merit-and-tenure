@@ -1,0 +1,43 @@
+=============================
+July 1, 2016 to June 30, 2017
+=============================
+
+Teaching and Learning
+---------------------
+
+eme150a
+
+   - prototyping lesson
+
+eng122
+
+   - 1/4 in class time spent learning through computation
+   - development of interactive Jupyter notebook series that is start of a
+     textbook
+
+eme185
+
+   - enhance and lengthen arduino lesson
+   - grow project solicitation
+
+mentoring
+
+- Farhad Ghadamli's MS comittee
+
+other
+
+- gave 1 day R workshop to LPSOEs
+- participating in eelc
+
+Professional Achievement and Activities
+---------------------------------------
+
+- organizing ICSC 2017
+- gave workshop at SciPy 2016
+
+University and Public Service
+-----------------------------
+
+Internal
+
+External
