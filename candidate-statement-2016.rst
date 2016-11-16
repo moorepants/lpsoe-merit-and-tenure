@@ -122,8 +122,8 @@ my `blog post`_ about the class.
    Principles for Smart Teaching. Jossey-Bass, 2010.
 .. [#] CATME is a tool for optimally choosing team members based on survey data
    that accounts for many things such as gender, motivation, and schedules
-   and for conducting peer reviews that is backed by research in team work, see
-   the website for citations.
+   and for conducting peer reviews that is backed by research in team work (see
+   the website for citations).
 
 EME 185 [Mechanical Systems Design Project]
 -------------------------------------------
@@ -139,27 +139,27 @@ generated approximately `45 proposals`_.  Of the 45, 33 projects were
 ultimately selected for my sections, which I oversaw for the two quarters. This
 included companies and organizations such as NIKE, Micro-Vu, Schilling
 Robotics, LLNL, InSciTech, UCD WCEC, Felt Bicycles, Sandia National Labs,
-ICUEMOTION, etc.
+ICUEMOTION, etc. the participating
+organizations funded approximately $45k for prototype development and about
+$7k for general course use.
 
 .. _online presence: http://www.moorepants.info/mech-cap/
 .. _EME185 course website: http://moorepants.github.io/eme185/
 .. _45 proposals: http://moorepants.github.io/eme185/pages/projects.html
 
-The students greatly appreciated the fact that they were able to be matched to
-a project they were passionate about. I use a custom algorithm that uses survey
+ [when assigning students to projects, I used [employed?] a custom algorithm that uses survey
 data and students' project preferences to form teams, à la CATME_, which I plan
-to develop into a tool to share with the education community. The participating
-organizations funded approximately $45k for prototype development with about
-$7k raised for general course use.
+to develop into a tool to share with the education community.[This method was overall very successful?] and students greatly appreciated being matched to
+a project they were passionate about.
 
 During the course, we utilized the new `MAE Innovative Design Studio`_ that I
 created for running new design ideation, selection, and planning activities
 which is the initial stage of moving to an activity based course as opposed to
-a lecture based one. Additionally, my TA and I introduced a new two part
+a lecture based one (please see section "Other" for more details). Additionally, my TA and I introduced a new two part
 Arduino-based `microcontroller lesson`_ to introduce students to sensing,
 computing, actuation, and control for enhanced mechanical designs. The result
 was that a large percentage of projects included microcontrollers in their
-design. We also included a popular lecture on 3D printing led by three guest
+design [yeah, so this is great! maybe premise with a more flashy transition? like, "this additional lesson proved fruitful and resulted in a large percentage of projects..."]. We also included a popular lecture on 3D printing led by three guest
 graduate students and a young engineers industry panel. The students were
 assessed through five memos, four reports, two design reviews, and two
 presentations. I developed a comprehensive set of rubrics for assessment to
@@ -167,7 +167,7 @@ track the improvement in technical communication over the two courses for each
 of these items.
 
 Lastly, this year was the first year of an international exchange with
-mechanical design students at Meijo University in Nagoya, Japan. Ten students
+mechanical design students at Meijo University in Nagoya, Japan [that you coordinated, rigth???]. Ten students
 and two professors visited UCD and participated in our design reviews, gave
 presentations on their design projects, led an interactive cultural exchange
 with our students, participated in Engineering Week activities, and enjoyed
@@ -184,7 +184,7 @@ in Prof.\ Eke's multibody dynamics graduate course (MAE\ 223), Prof. Lin's
 computer science Senior design course (ECS\ 193), and Dr\. Kornbluth's design
 for development course (TTP\ 298A).
 
-Outside of teaching courses, I led and participated in a number teaching and
+Outside of teaching courses, I led and participated in a number of teaching and
 learning activities. I led the collaborative effort the development of the `MAE
 Innovative Design Studio`_ to provide an project based active learning space
 for our project and design classes (EME 150A, EAE 130, EME 185, etc). I
@@ -192,7 +192,7 @@ introduced a new competition team, the `California Solar Regatta`_, where our
 students came in 2nd in design for their first showing. I mentored and traveled
 with three of my students who received $6k from the Blum Center in internal
 grants to implement their `senior design project in Cambodia`_ with a local
-NGO, Wetlands Work! I mentored one student under a 199 course in the
+NGO, Wetlands Work!. I mentored one student under a 199 course in the
 preliminary design of an electric tricycle for an ALS patient that was awarded
 a $3.5k CITRIS grant and a $15k tricycle donation from Outrider USA. This
 project led into an early start collaborative senior design project between BME
