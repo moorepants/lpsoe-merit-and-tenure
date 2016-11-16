@@ -1,23 +1,25 @@
 Introduction
 ============
 
-My number one goal [my primary goal/ultimate goal?] in my capacity as a teaching faculty in the Mechanical Engineering department is to facilitate the most fulfilling,
-rich, and empowering experience for as many of our students that I can, both in
-and out of the department. In particular, I want to foster the joy of
-engineering and learning, intrinsically motivated student **led** learning, and
-inclusive multidisciplinary approaches to solving problems.
+My primary goal in my capacity as a teaching faculty in the Mechanical
+Engineering department is to facilitate the most fulfilling, rich, and
+empowering experience for as many of our students that I can, both in and out
+of the department. In particular, I want to foster the joy of engineering and
+learning, intrinsically motivated student **led** learning, and inclusive
+multidisciplinary approaches to solving problems.
 
-To achieve this goal, my academic role is centered around undergraduate education in our
-department, Mechanical and Aerospace Engineering[this is a little awkward. if you mention ME up above, you don't have to mention here]. I teach between four and six
-courses per academic year, develop our capacity for and success in engineering
-education, serve the university in educational related needs [what does this mean?], and represent the
-university and myself in a professional manner?[can't think of a good way but you use capacity 2x in this sentence] internationally.
+To achieve this goal, my academic role is centered around undergraduate
+education in our department. I teach between four and six courses per academic
+year, develop our capability for and success in engineering education, serve
+the university in educational related needs, and represent the university and
+myself in a professionally domestically and internationally.
 
-My long term goals involve developing innovative curricula to enhance both teaching and learning. These goals can be categorized in terms of their broadness of impact:
+My long term goals span from my classroom to other's. These goals can be
+categorized in terms of their broadness of impact:
 
-Classroom innovations 
-   For the classes I teach and am involved with I will continuously
-   develop new methods to improve student learning. These methods will be based on research
+Classroom innovations
+   For the classes I teach and am involved with I will continuously develop new
+   methods to improve student learning. These methods will be based on research
    backed evidence and my own assessments, thus requiring continuous
    experimentation.
 Department wide
