@@ -1,35 +1,35 @@
 Introduction
 ============
 
-My number one goal in my capacity here is to facilitate the most fulfilling,
+My number one goal [my primary goal/ultimate goal?] in my capacity as a teaching faculty in the Mechanical Engineering department is to facilitate the most fulfilling,
 rich, and empowering experience for as many of our students that I can, both in
 and out of the department. In particular, I want to foster the joy of
 engineering and learning, intrinsically motivated student **led** learning, and
 inclusive multidisciplinary approaches to solving problems.
 
-To do this, my academic role is centered around undergraduate education in our
-department, Mechanical and Aerospace Engineering. I teach between four and six
-courses an academic year, develop our capacity for and success in engineering
-education, serve the university in educational related needs, and represent the
-university and myself in a professional capacity internationally.
+To achieve this goal, my academic role is centered around undergraduate education in our
+department, Mechanical and Aerospace Engineering[this is a little awkward. if you mention ME up above, you don't have to mention here]. I teach between four and six
+courses per academic year, develop our capacity for and success in engineering
+education, serve the university in educational related needs [what does this mean?], and represent the
+university and myself in a professional manner?[can't think of a good way but you use capacity 2x in this sentence] internationally.
 
-My long term goals can be categorized in terms of the broadness of impact:
+My long term goals involve developing innovative curricula to enhance both teaching and learning. These goals can be categorized in terms of their broadness of impact:
 
-Classroom innovations
-   For the classes I teach and am involved with  will be continuously
-   developing new methods to improve learning which are based on prior research
-   backed evidence and my own assessments. This requires continuous
+Classroom innovations 
+   For the classes I teach and am involved with I will continuously
+   develop new methods to improve student learning. These methods will be based on research
+   backed evidence and my own assessments, thus requiring continuous
    experimentation.
 Department wide
    At the department level, I hope to share my classroom innovations with
    fellow faculty members and provide assistance on parallel and synergistic
    activities.  Additionally, I want to facilitate stronger collaborations
-   among faculty that teach the same courses. Lastly, I hope to lead department
-   wide initiatives to improve our curriculum through broader implementation of
-   changes to classes. For example, I have interests in developing cohesive
+   among faculty that teach the same courses [why?]. Lastly, [still working on this 2021] I hope to lead department
+   wide initiatives to improve our curriculum and provide studentss with a wider set of practical skills as they enter the workforce. .through broader implementation of
+   changes to classes (that will enhance students' set of practical skills . For example, I have interests in developing a cohesive
    design experience that permeates each year in the curriculum, which will
    build intrinsic motivation and the practical engineering skills employers
-   need. I also would like to play a role in introducing computational learning
+   need [whoa hard to read and super fluffy?]. I also would like to play a role in introducing computational learning
    throughout our curriculum to ensure each of students learns modern
    computational skills for today's job market and academic research.
 College wide
