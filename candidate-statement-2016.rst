@@ -24,29 +24,28 @@ Department wide
    At the department level, I hope to share my classroom innovations with
    fellow faculty members and provide assistance on parallel and synergistic
    activities.  Additionally, I want to facilitate stronger collaborations
-   among faculty that teach the same courses [why?]. Lastly, [still working on this 2021] I hope to lead department
-   wide initiatives to improve our curriculum and provide studentss with a wider set of practical skills as they enter the workforce. .through broader implementation of
-   changes to classes (that will enhance students' set of practical skills . For example, I have interests in developing a cohesive
-   design experience that permeates each year in the curriculum, which will
-   build intrinsic motivation and the practical engineering skills employers
-   need [whoa hard to read and super fluffy?]. I also would like to play a role in introducing computational learning
+   among faculty that teach the same courses [why?]. Lastly, I hope to lead department
+   wide initiatives to improve our curriculum through broader implementation of
+   changes to classes [I don't know how to fix this, but it's a bit clunky. I think what you're tryign to say is that you want to improve the curriculum so the students leave the university with a broader/enhanced set of skills relevent for entering the workforce]. For example, I have interests in developing a cohesive
+   [senior?] design experience that permeates each year in the curriculum [this doens't make sense to me. permeates each year how?], which will
+   build intrinsic motivation [to do what]and the practical engineering skills employers
+   need. I also would like to play a role in introducing computational learning
    throughout our curriculum to ensure each of students learns modern
-   computational skills for today's job market and academic research.
+   computational skills relevant for today's job market and academic research.
 College wide
    There are a number of opportunities to develop engineering curricula that
-   crosses department boundaries. For example, the senior design courses could
-   be greatly enhanced for students and participating companies by offering
-   multidisciplinary design projects that are solved by teams of engineers from each
-   department.
+   cross department boundaries. For example, [original was passive] offering
+   multidisciplinary design projects that are solved by teams of engineers from different
+   department could [can?] greatly ehnahce the senior design courses for both the students and participating company sponsors/mentors.
 University Wide
-   University wide, I hope to build more connections around open access
-   textbooks, computational and data science efforts, in particular for
+   I would like to build more connections beyond the college of engineering around open access
+   textbooks, computational,[comma or no?] and data science efforts [what's this mean?]. I think you need to explain how open access will benefit the university, researchers, etc. Maybe this next sentence can be the explainer?]. [Improving accessability to data and information is beneficial?] in particular for
    education researchers, and bringing engineering in to solve international
    development problems.
 National and International
    My external work will focus on the development of interactive modular open
-   texts for engineering subjects, widely sharing my and our departments
-   leadership in modernizing engineering education.
+   texts for engineering subjects, widely sharing my and our department's
+   leadership in modernizing engineering education. [how will this benefit deparmtent?]
 
 Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
