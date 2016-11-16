@@ -45,9 +45,8 @@ Guest lectures
 
 Mentoring
 
-- als-trike project: 199
-- Aaron Shaw Spring 199
-- ALS Trike students
+- als-trike project (spring A.S)
+- ALS Trike students (summer)
 - Two GSoC students summer 2016
 - mentored one gsoc student for 2015 summer
 - mentored ECS 193 project
