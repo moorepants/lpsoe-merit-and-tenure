@@ -69,7 +69,7 @@ assessed by three primary aspects which are detailed in the `UCD APM 285`_:
 
 For the time period of July 1, 2015 to June 30, 2016 [#]_. I detail below the
 activities that have contributed to each of the above three topics. Due to my
-activities being different than research faculty, I've included many hyperlinks
+activities being different than research faculty[how about "as some of these actions differ from that of research faculty"?], I have included hyperlinks
 to the results of my work. Please follow them if you have further interest.
 
 .. [#]  Note that I officially started on September 21st, 2015 but particpated
@@ -80,12 +80,13 @@ Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. This year
-I taught five courses: `EME 150A`_ (Mechanical Design) in the fall and two
-sections each of `EME 185A/B`_ (Mechanical Systems Design Project) in the
-winter and spring quarters, all of which were new course preparations. Between
-the course evaluations and extra feedback I collect throughout my classes, I
-had, on average, favorable reviews. This year I focused primarily on developing
-and enhancing the courses as part of my classroom innovations long-term goal.
+I taught five courses, all of which were new course preparations: `EME 150A`_
+(Mechanical Design) in the Fall and two sections each of `EME 185A/B`_
+(Mechanical Systems Design Project) in the winter and spring quarters [you've
+capped Fall, so either capp both winter/spring or lower all]. Between the
+course evaluations and extra feedback I collected throughout my classes, I had,
+on average, favorable reviews. This year I focused primarily on developing and
+enhancing these courses as part of my classroom innovations long-term goal.
 
 .. _EME 150A: http://moorepants.github.io/eme150a/
 .. _EME 185A/B: http://moorepants.github.io/eme185/
@@ -100,17 +101,17 @@ EME 150A [Mechanical Design]
 Along with teaching EME150A for the first time, I developed a number of
 enhancements for the course. The course is a mixture of applied strength of
 materials (static and dynamic failure) and an introduction to the design of
-mechanical structures. For the former, I developed lectures influenced by two
-previous professors' materials that were enhanced by inserting one to two
-active learning mini-activities in most lectures along with quizzes every other
-week. The course materials can be viewed at the `class website`_.
+mechanical structures. Lectures I developed for the former topic were influenced by two
+previous professors' materials and enhanced by inserting one to two
+active learning mini-activities along with quizzes every other
+week. The course materials can be viewed on? the `class website`_.
 
 .. _class website: http://moorepants.github.io/eme150a/
 
-This was accompanied by `homework problems`_ I developed myself and three pilot
-finite element analysis lessons that were developed by my teaching assistant,
-which received positive reviews. The students were assessed with two exams, the
-first of which a midterm reflection was used to improve preparation for the
+These activities were accompanied by `homework problems`_ I developed myself and three pilot
+finite element analysis lessons that were developed (generated? created? )by my teaching assistant. (both these supplamental assignments?)
+received positive reviews. The students were assessed with two exams--the
+first employed a midterm reflection to improve preparation for the
 final\ [#]_. I introduced a `new design project`_ in partnership with Unitrans
 to increase the connections with the followup EME 185 course. The students
 worked in teams to develop a conceptual design for a transit bus front mounted
@@ -134,8 +135,8 @@ my `blog post`_ about the class.
    Principles for Smart Teaching. Jossey-Bass, 2010.
 .. [#] CATME is a tool for optimally choosing team members based on survey data
    that accounts for many things such as gender, motivation, and schedules
-   and for conducting peer reviews that is backed by research in team work, see
-   the website for citations.
+   and for conducting peer reviews that is backed by research in team work (see
+   the website for citations).
 
 EME 185 [Mechanical Systems Design Project]
 -------------------------------------------
@@ -151,27 +152,27 @@ generated approximately `45 proposals`_.  Of the 45, 33 projects were
 ultimately selected for my sections, which I oversaw for the two quarters. This
 included companies and organizations such as NIKE, Micro-Vu, Schilling
 Robotics, LLNL, InSciTech, UCD WCEC, Felt Bicycles, Sandia National Labs,
-ICUEMOTION, etc.
+ICUEMOTION, etc. the participating
+organizations funded approximately $45k for prototype development and about
+$7k for general course use.
 
 .. _online presence: http://www.moorepants.info/mech-cap/
 .. _EME185 course website: http://moorepants.github.io/eme185/
 .. _45 proposals: http://moorepants.github.io/eme185/pages/projects.html
 
-The students greatly appreciated the fact that they were able to be matched to
-a project they were passionate about. I use a custom algorithm that uses survey
+ [when assigning students to projects, I used [employed?] a custom algorithm that uses survey
 data and students' project preferences to form teams, à la CATME_, which I plan
-to develop into a tool to share with the education community. The participating
-organizations funded approximately $45k for prototype development with about
-$7k raised for general course use.
+to develop into a tool to share with the education community.[This method was overall very successful?] and students greatly appreciated being matched to
+a project they were passionate about.
 
 During the course, we utilized the new `MAE Innovative Design Studio`_ that I
 created for running new design ideation, selection, and planning activities
 which is the initial stage of moving to an activity based course as opposed to
-a lecture based one. Additionally, my TA and I introduced a new two part
+a lecture based one (please see section "Other" for more details). Additionally, my TA and I introduced a new two part
 Arduino-based `microcontroller lesson`_ to introduce students to sensing,
 computing, actuation, and control for enhanced mechanical designs. The result
 was that a large percentage of projects included microcontrollers in their
-design. We also included a popular lecture on 3D printing led by three guest
+design [yeah, so this is great! maybe premise with a more flashy transition? like, "this additional lesson proved fruitful and resulted in a large percentage of projects..."]. We also included a popular lecture on 3D printing led by three guest
 graduate students and a young engineers industry panel. The students were
 assessed through five memos, four reports, two design reviews, and two
 presentations. I developed a comprehensive set of rubrics for assessment to
@@ -179,7 +180,7 @@ track the improvement in technical communication over the two courses for each
 of these items.
 
 Lastly, this year was the first year of an international exchange with
-mechanical design students at Meijo University in Nagoya, Japan. Ten students
+mechanical design students at Meijo University in Nagoya, Japan [that you coordinated, rigth???]. Ten students
 and two professors visited UCD and participated in our design reviews, gave
 presentations on their design projects, led an interactive cultural exchange
 with our students, participated in Engineering Week activities, and enjoyed
@@ -196,7 +197,7 @@ in Prof.\ Eke's multibody dynamics graduate course (MAE\ 223), Prof. Lin's
 computer science Senior design course (ECS\ 193), and Dr\. Kornbluth's design
 for development course (TTP\ 298A).
 
-Outside of teaching courses, I led and participated in a number teaching and
+Outside of teaching courses, I led and participated in a number of teaching and
 learning activities. I led the collaborative effort the development of the `MAE
 Innovative Design Studio`_ to provide an project based active learning space
 for our project and design classes (EME 150A, EAE 130, EME 185, etc). I
@@ -204,7 +205,7 @@ introduced a new competition team, the `California Solar Regatta`_, where our
 students came in 2nd in design for their first showing. I mentored and traveled
 with three of my students who received $6k from the Blum Center in internal
 grants to implement their `senior design project in Cambodia`_ with a local
-NGO, Wetlands Work! I mentored one student under a 199 course in the
+NGO, Wetlands Work!. I mentored one student under a 199 course in the
 preliminary design of an electric tricycle for an ALS patient that was awarded
 a $3.5k CITRIS grant and a $15k tricycle donation from Outrider USA. This
 project led into an early start collaborative senior design project between BME
