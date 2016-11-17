@@ -1,3 +1,6 @@
+.. |_| unicode:: 0xA0
+   :trim:
+
 Introduction
 ============
 
@@ -12,7 +15,7 @@ To achieve this goal, my academic role is centered around undergraduate
 education in our department. I teach between four and six courses per academic
 year, develop our capability for and success in engineering education, serve
 the university in educational related needs, and represent the university and
-myself in a professionally domestically and internationally.
+myself professionally domestically and internationally.
 
 My long term goals span from my classroom to other's. These goals can be
 categorized in terms of their broadness of impact:
@@ -25,29 +28,36 @@ Classroom innovations
 Department wide
    At the department level, I hope to share my classroom innovations with
    fellow faculty members and provide assistance on parallel and synergistic
-   activities.  Additionally, I want to facilitate stronger collaborations
-   among faculty that teach the same courses [why?]. Lastly, I hope to lead department
-   wide initiatives to improve our curriculum through broader implementation of
-   changes to classes [I don't know how to fix this, but it's a bit clunky. I think what you're tryign to say is that you want to improve the curriculum so the students leave the university with a broader/enhanced set of skills relevent for entering the workforce]. For example, I have interests in developing a cohesive
-   [senior?] design experience that permeates each year in the curriculum [this doens't make sense to me. permeates each year how?], which will
-   build intrinsic motivation [to do what]and the practical engineering skills employers
-   need. I also would like to play a role in introducing computational learning
-   throughout our curriculum to ensure each of students learns modern
-   computational skills relevant for today's job market and academic research.
+   activities. Additionally, I want to facilitate stronger collaborations among
+   faculty that teach the same courses to provide consistent experiences for
+   our students and reduce instructor workload. Lastly, I hope to lead
+   department wide initiatives to improve our curriculum through systematic
+   changes across multiple courses. For example, I have interests in developing
+   a cohesive design experience that permeates each year in the curriculum.
+   This will build intrinsic motivation to learn and the practical engineering
+   skills employers need. I also would like to play a role in introducing
+   computational learning throughout our curriculum to ensure each of our
+   students learns modern computational skills relevant for today's job market
+   and academic research.
 College wide
    There are a number of opportunities to develop engineering curricula that
-   cross department boundaries. For example, [original was passive] offering
-   multidisciplinary design projects that are solved by teams of engineers from different
-   department could [can?] greatly ehnahce the senior design courses for both the students and participating company sponsors/mentors.
+   cross department boundaries. For example, we could offer multidisciplinary
+   design projects that are solved by teams of engineers from different
+   department that can greatly ehnahce the senior design courses for both the
+   students and participating company sponsors/mentors.
 University Wide
-   I would like to build more connections beyond the college of engineering around open access
-   textbooks, computational,[comma or no?] and data science efforts [what's this mean?]. I think you need to explain how open access will benefit the university, researchers, etc. Maybe this next sentence can be the explainer?]. [Improving accessability to data and information is beneficial?] in particular for
-   education researchers, and bringing engineering in to solve international
-   development problems.
+   I would like to build connections beyond the college of engineering
+   around open access textbooks and computational and data science
+   efforts [what's this mean?]. I think you need to explain how open access
+   will benefit the university, researchers, etc. Maybe this next sentence can
+   be the explainer?]. [Improving accessability to data and information is
+   beneficial?] in particular for education researchers, and bringing
+   engineering in to solve international development problems.
 National and International
    My external work will focus on the development of interactive modular open
    texts for engineering subjects, widely sharing my and our department's
-   leadership in modernizing engineering education. [how will this benefit deparmtent?]
+   leadership in modernizing engineering education. [how will this benefit
+   deparmtent?]
 
 Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
@@ -70,7 +80,7 @@ Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. This year
-I taught five courses: `EME 150A`_ (Mechanical Design) in the Fall and two
+I taught five courses: `EME 150A`_ (Mechanical Design) in the fall and two
 sections each of `EME 185A/B`_ (Mechanical Systems Design Project) in the
 winter and spring quarters, all of which were new course preparations. Between
 the course evaluations and extra feedback I collect throughout my classes, I
@@ -131,8 +141,8 @@ EME 185 [Mechanical Systems Design Project]
 -------------------------------------------
 
 Starting in the Fall, I worked to develop improvements for the new combined
-EME\ 185A/B course which I co-teach with Prof. Steve Velinsky. The course details
-can be found on my `EME185 course website`_. I enhanced the Fall quarter project
+EME |_| 185A/B course which I co-teach with Prof. Steve Velinsky. The course details
+can be found on my `EME185 course website`_. I enhanced the fall quarter project
 solicitation and connections with companies, non-profits, and research
 institutes by tapping into the Career and Internship Center, the CTSC
 collaboration with Biomedical Engineering, and the CoE corporate relations
