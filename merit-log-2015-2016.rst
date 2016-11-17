@@ -97,3 +97,4 @@ Service
 - CoE interview for senior design
 - met with all HIP search folks
 - met with ECE lpsoe candidates
+- taught computer class in Kenyan village
