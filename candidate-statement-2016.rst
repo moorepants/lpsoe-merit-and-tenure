@@ -53,19 +53,13 @@ outside of the department. In particular, I want to foster the joy of
 engineering and learning, intrinsically motivated student **led** learning, and
 inclusive multidisciplinary approaches to solving problems.
 
-To achieve these goals, my academic role is centered around undergraduate
-education in our department. I teach between four and six courses per academic
-year, develop our capability for and success in engineering education, serve
-the university in educational related needs, and represent the university and
-myself at a professional level both domestically and internationally.
-
-My long term goals span from my classroom to other's. These goals can be
-categorized in terms of their broadness of impact:
+More specifically my long term goals span from my classroom to others. These
+goals can be categorized in terms of their broadness of impact:
 
 Classroom innovations
-   For the classes I teach and am involved with I will continuously develop new
-   methods to improve student learning. These methods will be based on research
-   backed evidence and my own assessments, thus requiring continuous
+   For the classes I teach and am involved with, I will continuously develop
+   new methods to improve student learning. These methods will be based on
+   research backed evidence and my own assessments, thus requiring continuous
    experimentation.
 Department wide
    At the department level, I hope to share my classroom innovations with
@@ -96,7 +90,15 @@ National and international
    My external work will focus on the development of interactive modular open
    texts and teaching materials for engineering subjects, widely sharing my and
    our department's leadership in modernizing engineering education to the
-   engineering education community.
+   engineering education community. I also plan to conduct some domain specific
+   research and consulting to maintain my engineering proficiency and provide
+   materials for the classroom.
+
+To achieve these goals, my academic role is centered around undergraduate
+education in our department. I teach between four and six courses per academic
+year, develop our capability for and success in engineering education, serve
+the university in educational related needs, and represent the university and
+myself at a professional level both domestically and internationally.
 
 Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
@@ -184,7 +186,7 @@ Starting in the fall, I worked to develop improvements for the new combined EME
 |_| 185A/B course which I co-teach with Prof. Steve Velinsky. The course
 details can be found on my `EME185 course website`_. I enhanced the fall
 quarter project solicitation and connections with companies, non-profits, and
-research institutes by tapping into the Career and Internship Center, the CTSC
+research institutes by tapping into the Internship and Career Center, the CTSC
 collaboration with Biomedical Engineering, and the CoE corporate relations
 office with a improved `online presence`_ and personal solicitation that
 generated approximately `45 proposals`_.  Of the 45, 33 projects were
@@ -266,8 +268,8 @@ about 75 graduate students over the year.
 .. _The Hacker Within: http://www.thehackerwithin.org/davis/
 
 Outside of the university, I was able to visit Olin College in September for
-their SCOPE_ [4]_ day and learn about their innovative senior design program
-among many other aspects of their engineering educations methods. I taught a
+their SCOPE_ [#]_ day and learn about their innovative senior design program
+among many other aspects of their engineering education methods. I taught a
 two-day `Software Carpentry Workshop`_ at iHub in Nairobi, Kenya in June. I
 mentored two Google Summer of Code students in the summer of 2015 and two in
 summer of 2016 that developed SymPy modules for enhancements used in MAE |_|
@@ -278,8 +280,8 @@ summer of 2016 that developed SymPy modules for enhancements used in MAE |_|
 .. _The Hacker Within: http://www.thehackerwithin.org/davis/
 .. _Bicycle and Motorcycle Dynamics Conference: http://www.bmd2016mke.org/
 
-.. [4] SCOPE stands for "Senior Capstone Progam" of which Olin's is one the
-       most innovative in the country.
+.. [#] SCOPE stands for "Senior Capstone Progam in Engineering" of which Olin's
+       is one the most innovative in the country.
 
 Professional Achievements and Activities
 ========================================
