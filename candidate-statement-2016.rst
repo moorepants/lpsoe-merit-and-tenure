@@ -249,7 +249,7 @@ Kornbluth's design for development course (TTP |_| 298A).
 
 Outside of teaching courses, I led and participated in a number of teaching and
 learning activities. I led the collaborative effort of the development of the `MAE
-Innovative Design Studio`_ to provide an group oriented active learning space
+Innovative Design Studio`_ to provide a group oriented active learning space
 for our project and design classes (EME |_| 150A, EAE |_| 130, EME |_| 185,
 etc). I introduced a new competition team, the `California Solar Regatta`_,
 where our students came in 2nd in design for their first showing. I mentored
