@@ -241,7 +241,7 @@ Other
 
 In addition to my primary teaching duties, I developed and gave guest lectures
 in Prof. |_| Eke's multibody dynamics graduate course (MAE |_| 223), Prof.
-Lin's computer science Senior design course (ECS |_| 193), and Dr. |_|
+Lin's computer science senior design course (ECS |_| 193), and Dr. |_|
 Kornbluth's design for development course (TTP |_| 298A).
 
 Outside of teaching courses, I led and participated in a number of teaching and
