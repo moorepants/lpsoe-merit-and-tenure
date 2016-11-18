@@ -350,8 +350,10 @@ I know this document is supposed to be about my accomplishments but I think it
 is important to note the people that contributed to the success of the above
 mentioned activities. The MAE staff has been superb in their support and help,
 especially with the MAE Design Studio work. In particular Felicia Smith, Dave
-Richardson, Loan-Anh Nguyen, Rob Kamisky, and Jacob Kitada played important
-roles. My TAs for the first year were excellent: Matthew Lefort and Farhad
-Ghadamli. I couldn't have done any of the extra classroom innovations without
+Richardson, Jacob Kitada, Loan-Anh Nguyen, and Rob Kamisky played important
+roles. My teaching assistants, Matthew Lefort and Farhad Ghadamli, were
+excellent. I couldn't have done any of the extra classroom innovations without
 their help and great ideas. I've had two excellent undergraduate assistants:
-Vivian Tran and Braden Tinucci.
+Vivian Tran and Braden Tinucci. Both Michael Hill and Steven Velinsky have been
+especially helpful and attentive mentors. I also appreciate the dedication and
+time contributed by all of the EME |_| 185 project sponsors.
