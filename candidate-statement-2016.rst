@@ -30,8 +30,7 @@ Professional Achievements and Activities
    - Presented a research presentation and half-day workshop at SciPy 2015.
    - Developed a research presentation and demo for the International Society
      of Biomechanics Technical Group on Computer Simulation conference.
-   - Co-authored a journal preprint: "SymPy: Symbolic Computing in Python" (now
-     in press).
+   - Co-authored a journal preprint: "SymPy: Symbolic Computing in Python".
    - Served as an editor of the Journal of Open Engineering.
    - Served on organizing committee and scientific committee of the 2016
      Bicycle and Motorcycle Dynamics conference.
@@ -55,8 +54,9 @@ outside of the department. In particular, I want to foster the joy of
 engineering and learning, intrinsically motivated student **led** learning, and
 inclusive multidisciplinary approaches to solving problems.
 
-More specifically, my long term goals span from my classroom to the wider university setting and beyond. These
-goals can be categorized in terms of their broadness of impact:
+More specifically, my long term goals span from my classroom to the wider
+university setting and beyond. These goals can be categorized in terms of their
+broadness of impact:
 
 Classroom innovations
    For the classes I teach and am involved with, I will continuously develop
@@ -153,16 +153,19 @@ be viewed on the `course website`_.
 These activities were accompanied by `homework problems`_ I developed myself
 and three pilot finite element analysis lessons that were created by my
 teaching assistant, the latter of which received very positive reviews. The
-students were assessed with two exams where the first employed a self reflection component to
-improve preparation for the final\ [#]_. I introduced a `new design project`_
-in partnership with Unitrans to increase the connections with the followup EME
-|_| 185 course. The students worked in teams, which were selected using a program called CATME, to develop a conceptual design for
-a transit bus front mounted bicycle rack. Students visited the Unitrans maintanence facility to asses a bus and collect client needs and had to process and interpret real
-data from bus accelerometer data for dynamic analysis. Four memos were used (assigned?) for
-design feedback and technical writing improvement in addition to peer reviews of report
-drafts, while teammate peer reviews were conducted using CATME_. Most of the tools and methods I
-employed are backed by evidence based education research and are summarized in
-detail in my `blog post`_ about the class.
+students were assessed with two exams where the first employed a self
+reflection component to improve preparation for the final\ [#]_. I introduced a
+`new design project`_ in partnership with Unitrans to increase the connections
+with the followup EME |_| 185 course. The students worked in teams, which were
+selected using a program called CATME_\ [#]_, to develop a conceptual design
+for a transit bus front mounted bicycle rack. Students visited the Unitrans
+maintanence facility to asses a bus and collect client needs and had to process
+and interpret real data from bus accelerometer data for dynamic analysis. Four
+memos were assigned for design feedback and technical writing improvement in
+addition to peer reviews of report drafts, while teammate peer reviews were
+conducted using CATME_. Most of the tools and methods I employed are backed by
+evidence based education research and are summarized in detail in my `blog
+post`_ about the class.
 
 .. _homework problems: http://moorepants.github.io/eme150a/pages/homework.html
 .. _new design project: http://moorepants.github.io/eme150a/pages/project-part-two-unitrans-bicycle-rack-design.html
@@ -326,13 +329,13 @@ Summer of Code to support nine undergraduate students through SymPy_ and the
 Python Software Foundation for the summer of 2016. I mentored two students in
 2015 and two students in 2016 through this program. I also play a lead
 developer role in the open source software packages SymPy_ and PyDy_ which have
-thousands of users worldwide. I co-authored an `in-press paper`_ this year
+thousands of users worldwide. I co-authored a `preprint`_ this year
 titled "SymPy: Symbolic Computing in Python" about this package and its impact
-to science.
+to science which has been submitted to PeerJ.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
-.. _in-press paper: https://peerj.com/preprints/2083/
+.. _preprint: https://peerj.com/preprints/2083/
 
 University and Public Service
 =============================
