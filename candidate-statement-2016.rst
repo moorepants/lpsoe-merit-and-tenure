@@ -4,9 +4,10 @@
 Summary
 =======
 
-My candidate statement may be a bit long due to the fact that my non-teaching
-activities are not easily represented in the MIV database. Due to this, the
-highlights are summarized below and the details follow the summary.
+My candidate statement is long due to the fact that my non-teaching activities
+are not easily represented in the MIV database and I wanted to include some
+explanation of expected duties for my position. Due to this, the highlights are
+summarized below and the details follow the summary.
 
 Teaching and Learning
    - Taught five courses: one section of EME |_| 150A and two sections each of
@@ -24,7 +25,7 @@ Teaching and Learning
    - Mentored three students who received a grant of $6k to travel to Cambodia
      to implement their senior design project.
    - Mentored five students (BME, MAE, ECS) of the ALS Electric Tricycle design
-     project with $18k award.
+     project with $18k of funding.
 Professional Achievements and Activities
    - Presented a research presentation and half-day workshop at SciPy 2015.
    - Developed a research presentation and demo for the International Society
@@ -39,7 +40,8 @@ Professional Achievements and Activities
    - Secured $64k of funding for Google Summer of Code internships for SymPy
      and the Python Software foundation.
 University and Public Service
-   - Met with MAE and ECE faculty candidates and provided feedback.
+   - Met with MAE and ECE faculty candidates and provided feedback to the
+     search committees.
    - Interviewed by Nature.
    - Taught computer skills workshop in rural Kenya.
 
@@ -104,14 +106,13 @@ Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
 assessed by three primary aspects which are detailed in the `UCD APM 285`_:
 *Teaching and Learning*, *Professional Achievements and Activities*, and
-*University and Public Service*.
+*University and Public Service*. For the time period of July 1, 2015 to June
+30, 2016 [#]_, I detail below the activities that have contributed to each of
+the above three topics. As some of these actions differ from that of research
+faculty, I have included hyperlinks to the results of my work. Please follow
+them if you have further interest.
 
 .. _UCD APM 285: http://manuals.ucdavis.edu/apm/285.htm
-
-For the time period of July 1, 2015 to June 30, 2016 [#]_, I detail below the
-activities that have contributed to each of the above three topics. As some of
-these actions differ from that of research faculty, I have included hyperlinks
-to the results of my work. Please follow them if you have further interest.
 
 .. [#]  Note that I officially started on September 21st, 2015 but particpated
         in some activities to prepare for the position in the 2015 summer
@@ -259,7 +260,9 @@ start collaborative senior design project between BME and MAE with nine
 students which I mentored throughout the summer. I participated in the
 `Engineering Education Learning Community`_ along with other LPSOEs and created
 and ran `The Hacker Within`_ with the Data Science Institute which reached
-about 75 graduate students over the year.
+about 75 graduate students over the year. I also created an undergraduate
+position titled "Engineering Education Assistant" and hired one student into
+this position to help me with educational initiatives.
 
 .. _California Solar Regatta: https://goo.gl/photos/k6zFEtyXPB35eHr66
 .. _senior design project in Cambodia: https://www.ucdavis.edu/one-health/one-month-in-a-floating-village
@@ -310,19 +313,22 @@ I became an editor of `The Journal of Open Engineering`_ and reviewed papers
 for both the Journal of Sports Science and Advances in Mechanical Engineering.
 I served on the `2016 Bicycle and Motorcycle Dynamics Conference`_ organizing
 committee as the Publishing Chair where I managed `the proceedings`_ and also
-on the scientific committee where I reviewed paper submissions.
+on the scientific committee where I reviewed paper submissions. I am
+co-organizing the 2017 International Cycling Safety Conference which will be
+held at UC Davis with Profs. Deb Niemeier and Mont Hubbard.
 
 .. _The Journal of Open Engineering: http://www.tjoe.org/
 .. _2016 Bicycle and Motorcycle Dynamics Conference: http://www.bmd2016mke.org/
 .. _the proceedings: https://figshare.com/collections/Proceedings_of_the_2016_Bicycle_and_Motorcycle_Dynamics_Conference/3460590
 
-I was co-granted awards totalling $64k from Google Summer of Code to support
-nine undergraduate students through SymPy_ and the Python Software Foundation
-for the summer of 2016. I mentored two students in 2015 and two students in
-2016 through this program. I also play a lead developer role in the open source
-software packages SymPy_ and PyDy_ which have thousands of users worldwide. I
-co-authored an `in-press paper`_ this year titled "SymPy: Symbolic Computing in
-Python" about this package and its impact to science.
+I was co-granted funds as a mentoring organization totalling $64k from Google
+Summer of Code to support nine undergraduate students through SymPy_ and the
+Python Software Foundation for the summer of 2016. I mentored two students in
+2015 and two students in 2016 through this program. I also play a lead
+developer role in the open source software packages SymPy_ and PyDy_ which have
+thousands of users worldwide. I co-authored an `in-press paper`_ this year
+titled "SymPy: Symbolic Computing in Python" about this package and its impact
+to science.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
@@ -358,4 +364,5 @@ excellent. I couldn't have done any of the extra classroom innovations without
 their help and great ideas. I've had two excellent undergraduate assistants:
 Vivian Tran and Braden Tinucci. Both Michael Hill and Steven Velinsky have been
 especially helpful and attentive mentors. I also appreciate the dedication and
-time contributed by all of the EME |_| 185 project sponsors.
+time contributed by all of the EME |_| 185 project sponsors. And finally, I
+thank the SymPy and PyDy development teams.

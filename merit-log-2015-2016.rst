@@ -49,8 +49,8 @@ Mentoring
 - [x] ALS trike students (summer)
 - [x] Two GSoC students summer 2016
 - [x] mentored two gsoc student for 2015 summer
-- mentored ECS 193 project
-- Deb's student
+- mentored ECS 193 project (symengine)
+- mentored Deb's student
 
 Other
 
@@ -63,9 +63,10 @@ Other
 - [x] eelc
 - [x] citris grant
 - [x] blum grants
-- hired engineering education assistant
+- [x] hired engineering education assistant
 - submitted big idea
 - squat or not proposal
+- thunderhill visit
 
 Professional Achievements and Activities
 ----------------------------------------
@@ -81,9 +82,8 @@ Professional Achievements and Activities
 - [x] review for euro journal of sports science
 - [x] review for bulsink paper: advances in mech eng
 - [x] igtsc presentatoin
+- [x] ICSC organizing committee
 - consulted for aip software
-- thunderhill visit
-- ICSC organizing committee
 
 Service
 -------
