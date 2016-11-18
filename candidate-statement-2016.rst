@@ -45,19 +45,14 @@ College wide
    design projects that are solved by teams of engineers from different
    department that can greatly ehnahce the senior design courses for both the
    students and participating company sponsors/mentors.
-University Wide
-   I would like to build connections beyond the college of engineering
-   around open access textbooks and computational and data science
-   efforts [what's this mean?]. I think you need to explain how open access
-   will benefit the university, researchers, etc. Maybe this next sentence can
-   be the explainer?]. [Improving accessability to data and information is
-   beneficial?] in particular for education researchers, and bringing
-   engineering in to solve international development problems.
-National and International
+University wide
+   I would like to build connections beyond the College of Engineering where
+   open access textbooks (e.g. UCD LibreTexts), scientific computing,
+   multidisplinary design projects, and data science provide the common links.
+National and international
    My external work will focus on the development of interactive modular open
    texts for engineering subjects, widely sharing my and our department's
-   leadership in modernizing engineering education. [how will this benefit
-   deparmtent?]
+   leadership in modernizing engineering education.
 
 Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
@@ -213,7 +208,7 @@ preliminary design of an electric tricycle for an ALS patient that was awarded
 a $3.5k `CITRIS grant`_ and a $15k tricycle donation from Outrider USA. This
 project led into an early start collaborative senior design project between BME
 and MAE with nine students which I mentored throughout the summer. I
-participated in the Engineering `Education Learning Community`_ along with
+participated in the `Engineering Education Learning Community`_ along with
 other LPSOEs and created and ran `The Hacker Within`_ with the Data Science
 Institute which reached about 75 graduate students over the year.
 
