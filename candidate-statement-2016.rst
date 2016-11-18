@@ -1,21 +1,63 @@
 .. |_| unicode:: 0xA0
    :trim:
 
+Summary
+=======
+
+My candidate statement may be a bit long due to the fact that my non-teaching
+activities are not easily represented in the MIV database. Due to this, the
+highlights are summarized below and the details follow the summary.
+
+Teaching and Learning
+   - Taught five courses: one section of EME |_| 150A and two sections each of
+     EME |_| 185A/B.
+   - Implemented a new design project in EME 150A along with several evidence
+     based teaching practices.
+   - Solicited 45 proposals, advised 33 projects, with $52k worth of funded
+     prototypes for EME |_| 185A/B.
+   - In EME |_| 185A/B implemented comprehensive grading rubrics, a
+     microcontroller lesson, a 3D printing lesson, and an industry panel.
+   - Developed the new MAE Innovative Design Studio for our design classes.
+   - Organized the first design cultural exchange with Meijo University in
+     Nagoya, Japan.
+   - Started and advised the California Solar Regatta student project team.
+   - Mentored three students who received a grant of $6k to travel to Cambodia
+     to implement their senior design project.
+   - Mentored five students (BME, MAE, ECS) of the ALS Electric Tricycle design
+     project with $18k award.
+Professional Achievements and Activities
+   - Presented a research presentation and half-day workshop at SciPy 2015.
+   - Developed a research presentation and demo for the International Society
+     of Biomechanics Technical Group on Computer Simulation conference.
+   - Co-authored a journal preprint: "SymPy: Symbolic Computing in Python" (now
+     in press).
+   - Served as an editor of the Journal of Open Engineering.
+   - Served on organizing committee and scientific committee of the 2016
+     Bicycle and Motorcycle Dynamics conference.
+   - Served on the organizing committee of the 2017 International Cycling
+     Safety Conference (@ UCD).
+   - Secured $64k of funding for Google Summer of Code internships for SymPy
+     and the Python Software foundation.
+University and Public Service
+   - Met with MAE and ECE faculty candidates and provided feedback.
+   - Interviewed by Nature.
+   - Taught computer skills workshop in rural Kenya.
+
 Introduction
 ============
 
 My primary goal in my capacity as a teaching faculty in the Mechanical
 Engineering department is to facilitate the most fulfilling, rich, and
-empowering experience for as many of our students that I can, both in and out
-of the department. In particular, I want to foster the joy of engineering and
-learning, intrinsically motivated student **led** learning, and inclusive
-multidisciplinary approaches to solving problems.
+empowering experience for as many of our students that I can, both in and
+outside of the department. In particular, I want to foster the joy of
+engineering and learning, intrinsically motivated student **led** learning, and
+inclusive multidisciplinary approaches to solving problems.
 
-To achieve this goal, my academic role is centered around undergraduate
+To achieve these goals, my academic role is centered around undergraduate
 education in our department. I teach between four and six courses per academic
 year, develop our capability for and success in engineering education, serve
 the university in educational related needs, and represent the university and
-myself professionally domestically and internationally.
+myself at a professional level both domestically and internationally.
 
 My long term goals span from my classroom to other's. These goals can be
 categorized in terms of their broadness of impact:
@@ -34,25 +76,27 @@ Department wide
    department wide initiatives to improve our curriculum through systematic
    changes across multiple courses. For example, I have interests in developing
    a cohesive design experience that permeates each year in the curriculum.
-   This will build intrinsic motivation to learn and the practical engineering
-   skills employers need. I also would like to play a role in introducing
-   computational learning throughout our curriculum to ensure each of our
-   students learns modern computational skills relevant for today's job market
-   and academic research.
+   This can catalyze students' intrinsic motivation to learn and develop the
+   practical engineering skills employers need. I also would like to play a
+   role in introducing computational learning throughout our curriculum to
+   ensure each of our students acquires modern computational skills relevant
+   for today's job market and academic research.
 College wide
    There are a number of opportunities to develop engineering curricula that
    cross department boundaries. For example, we could offer multidisciplinary
    design projects that are solved by teams of engineers from different
-   department that can greatly ehnahce the senior design courses for both the
+   departments that can greatly enhance the senior design courses for both the
    students and participating company sponsors/mentors.
 University wide
    I would like to build connections beyond the College of Engineering where
    open access textbooks (e.g. UCD LibreTexts), scientific computing,
-   multidisplinary design projects, and data science provide the common links.
+   multi-disciplinary design projects, and data science provide the common
+   links.
 National and international
    My external work will focus on the development of interactive modular open
-   texts for engineering subjects, widely sharing my and our department's
-   leadership in modernizing engineering education.
+   texts and teaching materials for engineering subjects, widely sharing my and
+   our department's leadership in modernizing engineering education to the
+   engineering education community.
 
 Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
@@ -62,7 +106,7 @@ assessed by three primary aspects which are detailed in the `UCD APM 285`_:
 
 .. _UCD APM 285: http://manuals.ucdavis.edu/apm/285.htm
 
-For the time period of July 1, 2015 to June 30, 2016 [#]_. I detail below the
+For the time period of July 1, 2015 to June 30, 2016 [#]_, I detail below the
 activities that have contributed to each of the above three topics. As some of
 these actions differ from that of research faculty, I have included hyperlinks
 to the results of my work. Please follow them if you have further interest.
@@ -79,8 +123,9 @@ I taught five courses, all of which were new course preparations: `EME 150A`_
 (Mechanical Design) in the fall and two sections each of `EME 185A/B`_
 (Mechanical Systems Design Project) in the winter and spring quarters. Between
 the course evaluations and extra feedback I collected throughout my classes, I
-had, on average, favorable reviews. This year I focused primarily on developing
-and enhancing these courses as part of my classroom innovations long-term goal.
+had, on average, favorable reviews. This year, I focused primarily on
+developing and enhancing these courses as part of my classroom innovations
+long-term goal.
 
 .. _EME 150A: http://moorepants.github.io/eme150a/
 .. _EME 185A/B: http://moorepants.github.io/eme185/
@@ -92,7 +137,7 @@ and enhancing these courses as part of my classroom innovations long-term goal.
 EME 150A [Mechanical Design]
 ----------------------------
 
-Along with teaching EME 150A for the first time, I developed a number of
+Along with teaching EME |_| 150A for the first time, I developed a number of
 enhancements for the course. The course is a mixture of applied strength of
 materials (static and dynamic failure) and an introduction to the design of
 mechanical structures. Lectures I developed were influenced by two previous
@@ -108,11 +153,11 @@ teaching assistant, the later of which received very positive reviews. The
 students were assessed with two exams where the first employed a reflection to
 improve preparation for the final\ [#]_. I introduced a `new design project`_
 in partnership with Unitrans to increase the connections with the followup EME
-185 course. The students worked in teams to develop a conceptual design for a
-transit bus front mounted bicycle rack. Teams were selected using CATME_ [#]_,
-students attended a field trip to asses a bus and collect client needs at the
-Unitrans maintenance facility, students had to process and interpret real data
-from bus accelerometer data for dynamic analysis, four memos were used for
+|_| 185 course. The students worked in teams to develop a conceptual design for
+a transit bus front mounted bicycle rack. Teams were selected using CATME_
+[#]_, students attended a field trip to asses a bus and collect client needs at
+the Unitrans maintenance facility, students had to process and interpret real
+data from bus accelerometer data for dynamic analysis, four memos were used for
 design feedback and technical writing improvement, peer reviews of report
 drafts, and teammate peer reviews using CATME_. Most of the tools and methods I
 employed are backed by evidence based education research and are summarized in
@@ -135,7 +180,7 @@ detail in my `blog post`_ about the class.
 EME 185 [Mechanical Systems Design Project]
 -------------------------------------------
 
-Starting in the Fall, I worked to develop improvements for the new combined EME
+Starting in the fall, I worked to develop improvements for the new combined EME
 |_| 185A/B course which I co-teach with Prof. Steve Velinsky. The course
 details can be found on my `EME185 course website`_. I enhanced the fall
 quarter project solicitation and connections with companies, non-profits, and
@@ -162,17 +207,18 @@ appreciated being matched to a project they were passionate about.
 During the course, we utilized the new `MAE Innovative Design Studio`_\ [#]_
 that I created for running new design ideation, selection, and planning
 activities which is the initial stage of moving to an activity based course as
-opposed to a lecture based one. Additionally, my TA and I introduced a new two
-part Arduino-based `microcontroller lesson`_ to introduce students to sensing,
-computing, actuation, and control for enhanced mechanical designs. This
-additional lesson proved fruitful and the result was that a large percentage of
-projects included microcontrollers in their design. We also included a popular
-lectures on 3D printing led by three guest graduate students and a young
-engineer's industry panel. The students were assessed through five memos, four
-reports, two design reviews, two presentations, and three peer reviews taken
-through CATME_. I developed a comprehensive set of rubrics for assessment to
-track the improvement in technical communication over the two courses for each
-of these items that tie into writing outcome improvements in other MAE courses.
+opposed to a lecture based one. Additionally, my TA and I introduced a new
+two-part Arduino-based `microcontroller lesson`_ to introduce students to
+sensing, computing, actuation, and control for enhanced mechanical designs.
+This additional lesson proved fruitful and the result was that a large
+percentage of projects included microcontrollers in their design. We also
+included popular lectures on 3D printing led by three guest graduate students
+and a young engineers industry panel. The students were assessed through five
+memos, four reports, two design reviews, two presentations, and three peer
+reviews, the later taken through CATME_. I developed a comprehensive set of
+rubrics for assessment to track the improvement in technical communication over
+the two courses for each of these items that tie into writing outcome
+improvements in other MAE courses.
 
 .. [#] See the next section for more details about the design studio.
 
@@ -196,21 +242,22 @@ Lin's computer science Senior design course (ECS |_| 193), and Dr. |_|
 Kornbluth's design for development course (TTP |_| 298A).
 
 Outside of teaching courses, I led and participated in a number of teaching and
-learning activities. I led the collaborative effort the development of the `MAE
-Innovative Design Studio`_ to provide an project based active learning space
+learning activities. I led the collaborative effort of the development of the `MAE
+Innovative Design Studio`_ to provide an group oriented active learning space
 for our project and design classes (EME |_| 150A, EAE |_| 130, EME |_| 185,
 etc). I introduced a new competition team, the `California Solar Regatta`_,
 where our students came in 2nd in design for their first showing. I mentored
-and traveled with three of my students who received $6k from the Blum Center in
-internal grants to implement their `senior design project in Cambodia`_ with a
-local NGO, Wetlands Work!. I mentored one student under a 199 course in the
-preliminary design of an electric tricycle for an ALS patient that was awarded
-a $3.5k `CITRIS grant`_ and a $15k tricycle donation from Outrider USA. This
-project led into an early start collaborative senior design project between BME
-and MAE with nine students which I mentored throughout the summer. I
-participated in the `Engineering Education Learning Community`_ along with
-other LPSOEs and created and ran `The Hacker Within`_ with the Data Science
-Institute which reached about 75 graduate students over the year.
+and planned to travel with three of my students who received $6k from the Blum
+Center in internal grants to implement their `senior design project in
+Cambodia`_ with a local NGO, Wetlands Work!. I mentored one student under a 199
+course in the preliminary design of an electric tricycle for an ALS patient
+that was awarded a $3.5k `CITRIS grant`_ and a $15k Outrider USA electric
+tricycle donation from an independent donor. This project led into an early
+start collaborative senior design project between BME and MAE with nine
+students which I mentored throughout the summer. I participated in the
+`Engineering Education Learning Community`_ along with other LPSOEs and created
+and ran `The Hacker Within`_ with the Data Science Institute which reached
+about 75 graduate students over the year.
 
 .. _California Solar Regatta: https://goo.gl/photos/k6zFEtyXPB35eHr66
 .. _senior design project in Cambodia: https://www.ucdavis.edu/one-health/one-month-in-a-floating-village
@@ -223,8 +270,8 @@ their SCOPE_ [4]_ day and learn about their innovative senior design program
 among many other aspects of their engineering educations methods. I taught a
 two-day `Software Carpentry Workshop`_ at iHub in Nairobi, Kenya in June. I
 mentored two Google Summer of Code students in the summer of 2015 and two in
-summer of 2016 that developed SymPy modules for 2D beam bending (EME 150A
-enhancement) and O(N) multibody dynamics methods (MAE 223 enhancement).
+summer of 2016 that developed SymPy modules for enhancements used in MAE |_|
+223 and EME |_| 150A.
 
 .. _SCOPE: http://www.olin.edu/collaborate/scope/
 .. _Software Carpentry Workshop: https://goo.gl/photos/KVxpBkvitVCvxtjT8
@@ -248,8 +295,10 @@ Education conference I attended talks from leaders in engineering education and
 networked to get familiar with my new career path. At `SciPy 2015`_ I gave `a
 talk`_ on trajectory optimization and system identification with direct
 collocation of biomechanical systems and `a half day workshop`_ on multibody
-dynamics and control with Python. Additionally, I acted as a reviewer for the
-submissions at SciPy.
+dynamics and control with Python.  Additionally, I acted as a reviewer for the
+submissions at SciPy. I developed a talk on the same topic as SciPy for the
+International Society of Biomechanics Technical Group on Computer Simulation
+conference.
 
 .. _SciPy 2015: http://scipy2015.scipy.org
 .. _a talk: https://youtu.be/ZJiYs2HuQy8
@@ -266,11 +315,12 @@ on the scientific committee where I reviewed paper submissions.
 .. _the proceedings: https://figshare.com/collections/Proceedings_of_the_2016_Bicycle_and_Motorcycle_Dynamics_Conference/3460590
 
 I was co-granted awards totalling $64k from Google Summer of Code to support
-nine undergraduate students through SymPy_ and the Python Software Foundation.
-I mentored two students in 2015 and two students in 2016 through this program.
-I also play a lead developer role in the open source software packages SymPy_
-and PyDy_ which have thousands of users worldwide. I co-authored an `in-press
-paper`_ this year about this package and its impact to science.
+nine undergraduate students through SymPy_ and the Python Software Foundation
+for the summer of 2016. I mentored two students in 2015 and two students in
+2016 through this program. I also play a lead developer role in the open source
+software packages SymPy_ and PyDy_ which have thousands of users worldwide. I
+co-authored an `in-press paper`_ this year titled "SymPy: Symbolic Computing in
+Python" about this package and its impact to science.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
@@ -299,7 +349,9 @@ Acknowledgements
 I know this document is supposed to be about my accomplishments but I think it
 is important to note the people that contributed to the success of the above
 mentioned activities. The MAE staff has been superb in their support and help,
-especially with the MAE Design Studio work. My TAs for the first year were
-excellent. I couldn't have done any of the extra classroom innovations without
+especially with the MAE Design Studio work. In particular Felicia Smith, Dave
+Richardson, Loan-Anh Nguyen, Rob Kamisky, and Jacob Kitada played important
+roles. My TAs for the first year were excellent: Matthew Lefort and Farhad
+Ghadamli. I couldn't have done any of the extra classroom innovations without
 their help and great ideas. I've had two excellent undergraduate assistants:
-Brennan Someting and Vivian Tran. My external colleagues.
+Vivian Tran and Braden Tinucci.
