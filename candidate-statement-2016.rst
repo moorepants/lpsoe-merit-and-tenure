@@ -259,7 +259,7 @@ Cambodia`_ with a local NGO, Wetlands Work!. I mentored one student under a 199
 course in the preliminary design of an electric tricycle for an ALS patient
 that was awarded a $3.5k `CITRIS grant`_ and a $15k Outrider USA electric
 tricycle donation from an independent donor. This project led into an early
-start collaborative senior design project between BME and MAE with nine
+start collaborative senior design project between BME and MAE with five
 students which I mentored throughout the summer. I participated in the
 `Engineering Education Learning Community`_ along with other LPSOEs and created
 and ran `The Hacker Within`_ with the Data Science Institute which reached
