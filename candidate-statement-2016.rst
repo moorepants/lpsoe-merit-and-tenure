@@ -55,7 +55,7 @@ outside of the department. In particular, I want to foster the joy of
 engineering and learning, intrinsically motivated student **led** learning, and
 inclusive multidisciplinary approaches to solving problems.
 
-More specifically my long term goals span from my classroom to others. These
+More specifically, my long term goals span from my classroom to the wider university setting and beyond. These
 goals can be categorized in terms of their broadness of impact:
 
 Classroom innovations
@@ -152,17 +152,15 @@ be viewed on the `course website`_.
 
 These activities were accompanied by `homework problems`_ I developed myself
 and three pilot finite element analysis lessons that were created by my
-teaching assistant, the later of which received very positive reviews. The
-students were assessed with two exams where the first employed a reflection to
+teaching assistant, the latter of which received very positive reviews. The
+students were assessed with two exams where the first employed a self reflection component to
 improve preparation for the final\ [#]_. I introduced a `new design project`_
 in partnership with Unitrans to increase the connections with the followup EME
-|_| 185 course. The students worked in teams to develop a conceptual design for
-a transit bus front mounted bicycle rack. Teams were selected using CATME_
-[#]_, students attended a field trip to asses a bus and collect client needs at
-the Unitrans maintenance facility, students had to process and interpret real
-data from bus accelerometer data for dynamic analysis, four memos were used for
-design feedback and technical writing improvement, peer reviews of report
-drafts, and teammate peer reviews using CATME_. Most of the tools and methods I
+|_| 185 course. The students worked in teams, which were selected using a program called CATME, to develop a conceptual design for
+a transit bus front mounted bicycle rack. Students visited the Unitrans maintanence facility to asses a bus and collect client needs and had to process and interpret real
+data from bus accelerometer data for dynamic analysis. Four memos were used (assigned?) for
+design feedback and technical writing improvement in addition to peer reviews of report
+drafts, while teammate peer reviews were conducted using CATME_. Most of the tools and methods I
 employed are backed by evidence based education research and are summarized in
 detail in my `blog post`_ about the class.
 
@@ -218,7 +216,7 @@ percentage of projects included microcontrollers in their design. We also
 included popular lectures on 3D printing led by three guest graduate students
 and a young engineers industry panel. The students were assessed through five
 memos, four reports, two design reviews, two presentations, and three peer
-reviews, the later taken through CATME_. I developed a comprehensive set of
+reviews, the latter taken through CATME_. I developed a comprehensive set of
 rubrics for assessment to track the improvement in technical communication over
 the two courses for each of these items that tie into writing outcome
 improvements in other MAE courses.
