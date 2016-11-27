@@ -106,11 +106,11 @@ Formally, my position, Lecturer With Potential Security of Employment, is
 expected to demonstrate effectiveness and impact at meeting the above goals as
 assessed by three primary aspects which are detailed in the `UCD APM 285`_:
 *Teaching and Learning*, *Professional Achievements and Activities*, and
-*University and Public Service*. For the time period of July 1, 2015 to June
-30, 2016 [#]_, I detail below the activities that have contributed to each of
-the above three topics. As some of these actions differ from that of research
-faculty, I have included hyperlinks to the results of my work. Please follow
-them if you have further interest.
+*University and Public Service*. For the time period of **July 1, 2015 to June
+30, 2016**\ [#]_, I detail below the activities that have contributed to each
+of the above three topics. As some of these actions differ from that of
+research faculty, I have included hyperlinks to the results of my work. Please
+follow them if you have further interest.
 
 .. _UCD APM 285: http://manuals.ucdavis.edu/apm/285.htm
 
