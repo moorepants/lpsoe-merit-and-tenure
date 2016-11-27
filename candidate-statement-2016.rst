@@ -114,7 +114,7 @@ them if you have further interest.
 
 .. _UCD APM 285: http://manuals.ucdavis.edu/apm/285.htm
 
-.. [#]  Note that I officially started on September 21st, 2015 but particpated
+.. [#]  Note that I officially started on September 21st, 2015 but participated
         in some activities to prepare for the position in the 2015 summer
         months which are included herein.
 
@@ -133,7 +133,7 @@ long-term goal.
 .. _EME 150A: http://moorepants.github.io/eme150a/
 .. _EME 185A/B: http://moorepants.github.io/eme185/
 
-.. Not that my course evaulations are poor, but this article provides
+.. Not that my course evaluations are poor, but this article provides
    interesting insights on what coruse evaluations may actually mean:
    http://www.npr.org/sections/ed/2014/09/26/345515451/student-course-evaluations-get-an-f
 
@@ -159,7 +159,7 @@ reflection component to improve preparation for the final\ [#]_. I introduced a
 with the followup EME |_| 185 course. The students worked in teams, which were
 selected using a program called CATME_\ [#]_, to develop a conceptual design
 for a transit bus front mounted bicycle rack. Students visited the Unitrans
-maintanence facility to asses a bus and collect client needs and had to process
+maintenance facility to asses a bus and collect client needs and had to process
 and interpret real data from bus accelerometer data for dynamic analysis. Four
 memos were assigned for design feedback and technical writing improvement in
 addition to peer reviews of report drafts, while teammate peer reviews were
