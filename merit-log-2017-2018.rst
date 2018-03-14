@@ -1,0 +1,79 @@
+=============================
+July 1, 2017 to June 30, 2018
+=============================
+
+Teaching and Learning
+---------------------
+
+eng122
+
+- wrote text book
+- developed software
+- flipped class to active learning
+- setup server
+- developed comp. homeworks
+- developed new project
+
+mae223
+
+- first time teaching
+- heavy introduction of soffware
+
+eme185
+
+- solicitied X projects
+- 100 students, 22 projects
+- added in gantt chart lesson
+- added in FEA lesson
+
+mentoring
+
+- Abe McKay
+- Scott Kresie
+
+other
+
+- davis swc group
+- took students to cambodia
+- Abe's trip to kenya
+
+Professional Achievement and Activities
+---------------------------------------
+
+- lead organizer of ICSC 2017
+
+books
+
+- resonance draft
+
+papers
+
+- opty paper
+- icsc conference papers: 2
+
+blogposts
+
+- resonance
+
+talks
+
+- education graduate group talk on resonance
+
+software
+
+workshops
+
+- sympy code gen (july 2017)
+- comp thinking in stem with Downey
+
+University and Public Service
+-----------------------------
+
+Internal
+
+- mae undergaduate committee
+- visiting day presentation and discussions
+
+External
+
+- presented for high school with barbara
