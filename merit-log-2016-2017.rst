@@ -7,7 +7,7 @@ Teaching and Learning
 
 eme150a
 
-   - prototyping lesson
+   - prototyping lesson (blog post)
 
 eng122
 
@@ -19,25 +19,50 @@ eme185
 
    - enhance and lengthen arduino lesson
    - grow project solicitation
+   - better client feedback
+
+mae297
+
+   - made website
+   - posted videos
 
 mentoring
 
 - Farhad Ghadamli's MS comittee
+- Scott Kresie (starting Jan)
+- Abe McKay (starting Feb)
+- Andrew Shoats
+- solar boat team
+- Vivian Tran
 
 other
 
-- gave 1 day R workshop to LPSOEs
+- gave 1 day R workshop to LPSOEs (August)
 - participating in eelc
+- EELC blog
+- guest lecture in EME 1
+- guest lecture in Kurt's class
+- mentored education assistant
+- guest scorer in Jean's ENG 3
 
 Professional Achievement and Activities
 ---------------------------------------
 
-- organizing ICSC 2017
-- gave workshop at SciPy 2016
+- lead organizer for ICSC 2017
+- gave SymPy workshop at SciPy 2016
+- reviewed 10 SciPy tutorials
+- sympy paper
 
 University and Public Service
 -----------------------------
 
 Internal
 
+- Served on department undergraduate group
+- ABET assessments in EME 185B
+- Alternate on CoE IT Committee
+
 External
+
+- Sent interview email to Huffington Post
+- Delta Stewardship Council SWC workshop
