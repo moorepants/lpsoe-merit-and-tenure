@@ -20,6 +20,8 @@ eme185
    - enhance and lengthen arduino lesson
    - grow project solicitation
    - better client feedback
+   - instructor guide
+   - collaborations
 
 mae297
 
@@ -29,29 +31,35 @@ mae297
 mentoring
 
 - Farhad Ghadamli's MS comittee
-- Scott Kresie (starting Jan)
-- Abe McKay (starting Feb)
+- Scott Kresie (starting Jan 2017)
+- Abe McKay (starting Feb 2017)
 - Andrew Shoats
-- solar boat team
+- Solar boat team (2nd place)
 - Vivian Tran
 
 other
 
-- gave 1 day R workshop to LPSOEs (August)
+- gave 1 day R workshop to LPSOEs (August 2016)
 - participating in eelc
 - EELC blog
-- guest lecture in EME 1
+- guest lecture in EME 1 (Kong)
 - guest lecture in Kurt's class
-- mentored education assistant
+- mentored education assistant (Vivian)
 - guest scorer in Jean's ENG 3
 
 Professional Achievement and Activities
 ---------------------------------------
 
-- lead organizer for ICSC 2017
+- lead organizer for ICSC 2017 (~200 hrs over period)
+- Delta Stewardship Council SWC workshop
 - gave SymPy workshop at SciPy 2016
 - reviewed 10 SciPy tutorials
-- sympy paper
+- sympy paper PeerJ paper
+- BMD Conference Paper: Optimal Bicycles
+
+proposals
+
+- CEE
 
 University and Public Service
 -----------------------------
@@ -65,4 +73,3 @@ Internal
 External
 
 - Sent interview email to Huffington Post
-- Delta Stewardship Council SWC workshop

@@ -17,19 +17,22 @@ eng122
 mae223
 
 - first time teaching
-- heavy introduction of soffware
+- heavy introduction of software
 
 eme185
 
 - solicitied X projects
 - 100 students, 22 projects
+- spring: 22 hours of meetings
 - added in gantt chart lesson
 - added in FEA lesson
+- collaborations
 
 mentoring
 
 - Abe McKay
 - Scott Kresie
+- Sui Nam Chan
 
 other
 
@@ -58,13 +61,32 @@ blogposts
 talks
 
 - education graduate group talk on resonance
+- SacPy
 
 software
+
+- resonance, opty, sympy, pydy
 
 workshops
 
 - sympy code gen (july 2017)
-- comp thinking in stem with Downey
+- comp thinking in stem with Downey (Jan 2018)
+
+reviews
+
+- scipy tutorials
+- open engineering
+
+proposals
+
+- libretext
+- Meijo GA
+- Handy COSMOS
+
+editor
+
+- open engineering
+- JOSE
 
 University and Public Service
 -----------------------------

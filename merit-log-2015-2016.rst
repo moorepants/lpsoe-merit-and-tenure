@@ -1,4 +1,6 @@
+=============================
 July 1, 2015 to June 30, 2016
+=============================
 
 Teaching and Learning
 ---------------------
@@ -81,9 +83,9 @@ Professional Achievements and Activities
 - [x] bmd scientific commitee
 - [x] review for euro journal of sports science
 - [x] review for bulsink paper: advances in mech eng
-- [x] igtsc presentatoin
+- [x] igtsc presentation
 - [x] ICSC organizing committee
-- consulted for aip software
+- consulted for aip software (Pincus)
 
 Service
 -------
