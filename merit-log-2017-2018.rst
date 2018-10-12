@@ -3,99 +3,213 @@ July 1, 2017 to June 30, 2018
 =============================
 
 Teaching and Learning
----------------------
+=====================
 
-eng122
+   Teach more courses than normal faculty.
 
-- wrote text book
-- developed software
-- flipped class to active learning
-- setup server
-- developed comp. homeworks
-- developed new project
+   a. Pedagogical or curricular innovation, including: the development of new
+      instructional materials such as audio-visual units, online course
+      materials; major curricular revisions; introduction of innovative
+      teaching techniques; development of online or hybrid courses.
+   b. Use of longitudinal measurements to demonstrate impacts of the
+      candidate's teaching on students' learning outcomes, including their
+      gains in mastery of course content, changes in attitude towards content,
+      improvement in critical thinking, or development of stronger
+      communication skills.
+   c. Demonstration of reflective practice, including the informed use of data
+      to monitor and assess student learning. Descriptions of these efforts
+      should include the reasoning for adopting specific teaching approaches,
+      how feedback from students was solicited and used, and the rationale for
+      instituting changes in teaching
+   d. Peer review of teaching by faculty, including evaluation of classroom and
+      online materials. See UCD 220 for additional information on peer review
+      of teaching.
 
-mae223
+ENG 122 Fall 2017
+-----------------
 
-- first time teaching
-- heavy introduction of software
+- wrote first draft of interactive text book (a)
+- developed "resonance", a software package for learning vibrations and dynamic
+  systems (a)
+- flipped class to active learning through live computing (a)
+- created a JupyterHub server for College of Engineering use (a)
+- developed custom comp. homeworks with nbgrader (a, b)
+- developed new project (a)
 
-eme185
+MAE 223 Fall 2017
+-----------------
+
+- prepared a new course
+- heavy introduction of software and live coding (a)
+- created x notebooks (a)
+- posted all lecture videos and course notes online
+
+EME 185A/B Winter/Spring 2018
+-----------------------------
 
 - solicitied X projects
 - 100 students, 22 projects
-- spring: 22 hours of meetings
+- spring: 22 hours of meetings per week
 - added in gantt chart lesson
 - added in FEA lesson
 - collaborations
-
-mentoring
-
-- Abe McKay
-- Scott Kresie
-- Sui Nam Chan
-
-other
-
-- davis swc group
+- Took students to Japan
+- Meijo/UCD competition and visit here
+- Participated in Fall info session
+- Create software to present peer eval data to students and me
 - took students to cambodia
+
+Workshops Taught
+----------------
+
+- Co-developed and delivered sympy code gen (July 2017)
+- comp thinking in stem with Downey (January 2018)
+
+Mentoring
+---------
+
+Grad
+
+- Abe McKay (July2017-June2018 graduated with thesis June 2018)
+- Kenny Lyons (resonance project)
+- Sui Nam Chan (on committee graduated)
+- Scott Kresie (July-Oct)
+- Farhad Ghadamli (on committee graduated)
+
+Undergrad
+
+- Nikhil, Jashan GSOC Summer 2018 (started in May)
+- Andrew Shoats (ended July 29, 2017)
+- Vien Bui (undergrad researcher)
+- Trevor Metz
+- Britt Tarien
+- Bryn Cloud
+- Ada Liu
+
+Other
+-----
+
+- davis swc group (met once)
 - Abe's trip to kenya
+- Participated in EELC
 
 Professional Achievement and Activities
----------------------------------------
+=======================================
 
-- lead organizer of ICSC 2017
+   a. research and publication on pedagogy
+   b. research and publication in subject-matter discpline
+   c. activity in professionl organizations
 
-books
+- Lead organizer of ICSC 2017 (c)
 
-- resonance draft
+Books
+-----
 
-papers
+- First draft of interactive textbook: "Resonance: Learning Vibrations Through
+  Computation" (a)
 
-- opty paper
-- icsc conference papers: 2
+Papers
+------
 
-blogposts
+Journal
 
-- resonance
+- JOSS opty paper (b)
 
-talks
+Conference
 
-- education graduate group talk on resonance
-- SacPy
+- ICSC optimal bicyce paper (b)
+- ICSC handling experiments paper (b)
 
-software
+Web Articles
+------------
 
-- resonance, opty, sympy, pydy
+- resonance (a)
 
-workshops
+Talks
+-----
 
-- sympy code gen (july 2017)
-- comp thinking in stem with Downey (Jan 2018)
+- SacPy (a)
+- Education graduate group talk on resonance (a)
+- Meijo bicycle talk (b)
 
-reviews
+Software
+--------
 
-- scipy tutorials
-- open engineering
+- resonance (a)
+- opty (b)
+- sympy (a, b)
+- pydy (a, b)
+- skijumpdesign (b)
 
-proposals
+Reviews
+-------
 
-- libretext
-- Meijo GA
-- Handy COSMOS
+- scipy tutorials (c)
+- open engineering (c)
 
-editor
+Proposals
+---------
 
-- open engineering
-- JOSE
+Awarded
+
+- Meijo Global Affairs $24k (awarded) (a)
+- Handy COSMOS (awarded) (a)
+- Abe's Blum (awarded) (b)
+- Undergrad Blum (awarded) (b)
+
+Failed
+
+- NSF libretext (failed) (a)
+
+Editor
+------
+
+- open engineering (c)
+- JOSE (c)
+
+Conferences
+-----------
+
+- attended SciPy 2017 (a, b)
+- attended UCD STOL 2017 (b)
+- attended ICSC 2017 (a)
+- attended ucd assessement symposium, lead round table (b)
 
 University and Public Service
 -----------------------------
 
+a. Service (with dates and responsibilities identified) in departmental,
+   college, Academic Senate and administrative capacities. Evaluation of the
+   quality of service and contributions made in these areas is expected.
+b. Academic leadership within the University. A Lecturer SOE or Senior Lecturer
+   SOE who serves as department or program chair is entitled to the same
+   recognition accorded ladder-rank faculty who serve in this role (see APM
+   245-11). Academic leadership in other roles should be recognized similarly,
+   especially when such leadership provides evidence of innovative professional
+   contributions. Examples of such accomplishments include leadership in
+   reforming curricula, the development of innovative advising programs, or
+   creation of new programs establishing links to public schools.
+c. Community (regional, state, national, international) service based upon
+   professional expertise.
+d. Contributions to student welfare on the UC Davis campus or UC system-wide.
+e. Professionally based outreach to other educational entities such as K-12
+   schools, museums, clubs, etc.
+f. Communication to the public based on professional expertise.
+
 Internal
 
-- mae undergaduate committee
-- visiting day presentation and discussions
+- Served on the MAE undergraduate committee (a)
+- Visiting day presentation and discussions
+- Developed talk to give to prospective students at Decision Day
+- Master of Ceremony for MAE MS graduates
+- Organized student celebration for Joseph Goodwin (d)
+- Attended Greg Tanner's memorial (d)
+- Advisor of the student solar boat team
+- Reviewed Cristina's Systems Engineering proposal
 
 External
 
-- presented for high school with barbara
+- presented MAE design activities for laguna high school with barbara (e)
+- New York Times Article https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html (f)
+- Presented at SacPy (f)
+- Press about ICSC 2017 (NPR, etc) (f)

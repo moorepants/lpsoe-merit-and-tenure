@@ -5,28 +5,52 @@ July 1, 2016 to June 30, 2017
 Teaching and Learning
 ---------------------
 
+   Teach more courses than normal faculty.
+
+   a. Pedagogical or curricular innovation, including: the development of new
+      instructional materials such as audio-visual units, online course
+      materials; major curricular revisions; introduction of innovative
+      teaching techniques; development of online or hybrid courses.
+   b. Use of longitudinal measurements to demonstrate impacts of the
+      candidate’s teaching on students’ learning outcomes, including their
+      gains in mastery of course content, changes in attitude towards content,
+      improvement in critical thinking, or development of stronger
+      communication skills.
+   c. Demonstration of reflective practice, including the informed use of data
+      to monitor and assess student learning. Descriptions of these efforts
+      should include the reasoning for adopting specific teaching approaches,
+      how feedback from students was solicited and used, and the rationale for
+      instituting changes in teaching
+   d. Peer review of teaching by faculty, including evaluation of classroom and
+      online materials. See UCD 220 for additional information on peer review
+      of teaching.
+
 eme150a
 
-   - prototyping lesson (blog post)
+- prototyping lesson (a)
+  - blog post: http://engineering.ucdavis.edu/eelc/learning-mechanical-design-through-lightweight-prototyping/
+- mentored Sampad in GSoC to create beam bending module for SymPy (a)
+- unitrans visit (a)
+- lightning talks about project (b)
 
 eng122
 
-   - 1/4 in class time spent learning through computation
-   - development of interactive Jupyter notebook series that is start of a
-     textbook
+- 1/4 in class time spent learning through computation (a)
+- development of interactive Jupyter notebook series that is start of a
+  textbook (a)
 
 eme185
 
-   - enhance and lengthen arduino lesson
-   - grow project solicitation
-   - better client feedback
-   - instructor guide
-   - collaborations
+- enhance and lengthen arduino lesson (a)
+- grow project solicitation
+- better client feedback
+- first draft of instructor guide
+- collaborations
 
 mae297
 
-   - made website
-   - posted videos
+- made website
+- posted videos
 
 mentoring
 
@@ -36,40 +60,155 @@ mentoring
 - Andrew Shoats
 - Solar boat team (2nd place)
 - Vivian Tran
+- Mentored Aaron Shaw and ALS trike team
+- Mentored Brandon GSoC pydy
+- Took 3 students to cambodia
 
 other
 
-- gave 1 day R workshop to LPSOEs (August 2016)
+- gave 1 day R workshop to LPSOEs (August 25 2016)
 - participating in eelc
 - EELC blog
-- guest lecture in EME 1 (Kong)
+- guest lecture in EME 1 (Kong) Nov 28
 - guest lecture in Kurt's class
 - mentored education assistant (Vivian)
 - guest scorer in Jean's ENG 3
+- Met with Dean about engineering book
+- Toured Hooman's lab and gave feedback on skills needed from 100
+- MIV training October 3, 2016
+- MAE retreat Oct 7
+- Visited CSU senior design and met Rustin
 
 Professional Achievement and Activities
 ---------------------------------------
 
-- lead organizer for ICSC 2017 (~200 hrs over period)
-- Delta Stewardship Council SWC workshop
-- gave SymPy workshop at SciPy 2016
-- reviewed 10 SciPy tutorials
-- sympy paper PeerJ paper
-- BMD Conference Paper: Optimal Bicycles
+a. research and publication on pedagogy
+b. research and publication in subject-matter discpline
+c. activity in professionl organizations
 
-proposals
+- lead organizer for ICSC 2017 (167 hours this merit period)
+- scientific committee at BMD
+- organizing committee at BMD: publishing lead
+- invited carlos from maya pedal (Nov 1-2)
 
+Papers
+
+- An Optimal Handling Bicycle (b)
+- SymPy: symbolic computing in Python (b, maybe a)
+  - https://peerj.com/articles/cs-103/
+  - Most cited paper in PeerJ in 2017
+    (https://peerj.com/blog/post/115284879975/peerj-in-2017/)
+  - 95 citations (GScholar) January 2, 2017-July 30 2018
+  - https://badge.dimensions.ai/details/id/pub.1073860307
+  - 12,535 visitors, 16,352 views, 3616 download at PeerJ
+
+Collaborations
+
+- Anthony Scopatz USC, Kyle Neimier Oregon State
+- Delmar Larsen
+- SymPy developers
+
+Proposals
+
+- NSF SSI2: Code generation infastructure
+  - Rejected with very favorable reviews, planning to resubmit
+- GSoC
+  - Applied for GSoC 2017 as a mentor with SymPy, awarded.
 - CEE
+
+Mentoring
+
+- Abraham McKay (MSc advisor)
+- Farhad Ghadamli (MSc thesis committee)
+- Scott Kresie (Incoming graduate student)
+
+Workshops
+
+- gave PyDy tutorial at SciPy 2016
+- helper at SymPy tutorial at SciPy 2016
+- enabled bicitech blender workshop
+- Delta Stewardship Council SWC workshop
+
+Reviews
+
+- reviewed 10 SciPy tutorials
+
+Conferences
+
+- Attended BMD 2016 Milwaukee
+- Attended SciPy 2016
+- Attended UCD SOTL 2016 Nov 17-18
+
+Software
+
+- Maintainer of 13 packages on PyPi (downloads as of Oct 10)
+  - DynamicistToolkit 34345
+  - yeadon 23425
+  - BicycleParameters 17261
+  - resonance 17257
+  - pydy 15175
+  - GaitAnalysisToolKit 9343
+  - ipopt 6549
+  - opty 5610
+  - BicycleDataProcessor 4569
+  - pydy-code-gen 3747
+  - pydy-viz 3763
+  - skijumpdesign 1766
+
+- Maintainer or co-maintainer of 20 packages on Conda Forge (downloads as of Aug 8, 2018):
+  - plotly, 219k downloads
+  - cyipopt, 15k downloads
+  - pydy, 11k downloads
+  - feedgenerator, 9k downloads
+  - opty, 6k downloads
+  - pyinstrument, 6k downloads
+  - resonance, 6k downloads
+  - slycot, 6k downloads
+  - yeadon, 6k downloads
+  - control, 5k downloads
+  - simbody, 5k downloads
+  - version_information, 5k downloads
+  - dash, 3k downloads
+  - dash-core-components, 3k downloads
+  - dash-renderer, 3k downloads
+  - pyinstrument_cext, 3k downloads
+  - dash-html-components, 2k downloads
+  - dynamacisttoolkit, 1k downloads
+  - bicycleparameters, 904 downloads
+  - skijumpdesign, 513 downloads
 
 University and Public Service
 -----------------------------
 
+a. Service (with dates and responsibilities identified) in departmental,
+   college, Academic Senate and administrative capacities. Evaluation of the
+   quality of service and contributions made in these areas is expected.
+b. Academic leadership within the University. A Lecturer SOE or Senior Lecturer
+   SOE who serves as department or program chair is entitled to the same
+   recognition accorded ladder-rank faculty who serve in this role (see APM
+   245-11). Academic leadership in other roles should be recognized similarly,
+   especially when such leadership provides evidence of innovative professional
+   contributions. Examples of such accomplishments include leadership in
+   reforming curricula, the development of innovative advising programs, or
+   creation of new programs establishing links to public schools.
+c. Community (regional, state, national, international) service based upon
+   professional expertise.
+d. Contributions to student welfare on the UC Davis campus or UC system-wide.
+e. Professionally based outreach to other educational entities such as K-12
+   schools, museums, clubs, etc.
+f. Communication to the public based on professional expertise.
+
 Internal
 
-- Served on department undergraduate group
+- Served on UGEP one week
+- Served on department undergraduate committee
 - ABET assessments in EME 185B
+  - Worked with Jenny Quynn
 - Alternate on CoE IT Committee
 
 External
 
-- Sent interview email to Huffington Post
+- Professors domes dinner (d)
+- Sent interview email to Huffington Post (f)
+- Visited B. Dillion Engineering
+- Hoof and Foot Art Musuem Movie
