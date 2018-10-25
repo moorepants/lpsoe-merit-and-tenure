@@ -25,15 +25,16 @@ Teaching and Learning
       online materials. See UCD 220 for additional information on peer review
       of teaching.
 
-eme150a
+eme150a [Fall 2016]
 
 - prototyping lesson (a)
   - blog post: http://engineering.ucdavis.edu/eelc/learning-mechanical-design-through-lightweight-prototyping/
 - mentored Sampad in GSoC to create beam bending module for SymPy (a)
 - unitrans visit (a)
 - lightning talks about project (b)
+- changed reverse engineering to focus on bicycle racks
 
-eng122
+eng122 [Fall 2016 & Fall 2017]
 
 - 1/4 in class time spent learning through computation (a)
 - development of interactive Jupyter notebook series that is start of a
@@ -46,23 +47,27 @@ eme185
 - better client feedback
 - first draft of instructor guide
 - collaborations
+- further develop rubrics
 
 mae297
 
 - made website
 - posted videos
+- invited a MacArthur Fellow
 
 mentoring
 
+Graduate
 - Farhad Ghadamli's MS comittee
 - Scott Kresie (starting Jan 2017)
 - Abe McKay (starting Feb 2017)
+undergraduate
 - Andrew Shoats
-- Solar boat team (2nd place)
 - Vivian Tran
 - Mentored Aaron Shaw and ALS trike team
 - Mentored Brandon GSoC pydy
 - Took 3 students to cambodia
+- Solar boat team (2nd place)
 
 other
 

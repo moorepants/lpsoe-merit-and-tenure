@@ -43,11 +43,12 @@ MAE 223 Fall 2017
 - heavy introduction of software and live coding (a)
 - created x notebooks (a)
 - posted all lecture videos and course notes online
+- added trajectory optimization section
 
 EME 185A/B Winter/Spring 2018
 -----------------------------
 
-- solicitied X projects
+- solicited X projects
 - 100 students, 22 projects
 - spring: 22 hours of meetings per week
 - added in gantt chart lesson
@@ -75,6 +76,13 @@ Grad
 - Sui Nam Chan (on committee graduated)
 - Scott Kresie (July-Oct)
 - Farhad Ghadamli (on committee graduated)
+
+TAs
+
+- Kenneth Lyons
+- Naveen Gowrishankar
+- Scott Kresie
+- 
 
 Undergrad
 
