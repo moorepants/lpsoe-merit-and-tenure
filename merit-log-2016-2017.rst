@@ -40,6 +40,17 @@ eng122 [Fall 2016 & Fall 2017]
 - development of interactive Jupyter notebook series that is start of a
   textbook (a)
 
+ENG 122 Fall 2017
+-----------------
+
+- wrote first draft of interactive text book (a)
+- developed "resonance", a software package for learning vibrations and dynamic
+  systems (a)
+- flipped class to active learning through live computing (a)
+- created a JupyterHub server for College of Engineering use (a)
+- developed custom comp. homeworks with nbgrader (a, b)
+- developed new project (a)
+
 eme185
 
 - enhance and lengthen arduino lesson (a)
@@ -48,6 +59,30 @@ eme185
 - first draft of instructor guide
 - collaborations
 - further develop rubrics
+
+EME 185A/B Winter/Spring 2018
+-----------------------------
+
+- solicited X projects
+- 100 students, 22 projects
+- spring: 22 hours of meetings per week
+- added in gantt chart lesson
+- added in FEA lesson
+- collaborations
+- Took students to Japan
+- Meijo/UCD competition and visit here
+- Participated in Fall info session
+- Create software to present peer eval data to students and me
+- took students to cambodia
+
+MAE 223 Fall 2017
+-----------------
+
+- prepared a new course
+- heavy introduction of software and live coding (a)
+- created x notebooks (a)
+- posted all lecture videos and course notes online
+- added trajectory optimization section
 
 mae297
 
@@ -69,6 +104,39 @@ undergraduate
 - Took 3 students to cambodia
 - Solar boat team (2nd place)
 
+Mentoring
+---------
+
+Grad
+
+- Abe McKay (July2017-June2018 graduated with thesis June 2018)
+- Kenny Lyons (resonance project)
+- Sui Nam Chan (on committee graduated)
+- Scott Kresie (July-Oct)
+- Farhad Ghadamli (on committee graduated)
+
+TAs
+
+- Kenneth Lyons
+- Naveen Gowrishankar
+- Scott Kresie
+- 
+
+Undergrad
+
+- Nikhil, Jashan GSOC Summer 2018 (started in May)
+- Andrew Shoats (ended July 29, 2017)
+- Vien Bui (undergrad researcher)
+- Trevor Metz
+- Britt Tarien
+- Bryn Cloud
+- Ada Liu
+Workshops Taught
+----------------
+
+- Co-developed and delivered sympy code gen (July 2017)
+- comp thinking in stem with Downey (January 2018)
+
 other
 
 - gave 1 day R workshop to LPSOEs (August 25 2016)
@@ -83,6 +151,13 @@ other
 - MIV training October 3, 2016
 - MAE retreat Oct 7
 - Visited CSU senior design and met Rustin
+
+Other
+-----
+
+- davis swc group (met once)
+- Abe's trip to kenya
+- Participated in EELC
 
 Professional Achievement and Activities
 ---------------------------------------
@@ -182,6 +257,80 @@ Software
   - bicycleparameters, 904 downloads
   - skijumpdesign, 513 downloads
 
+- Lead organizer of ICSC 2017 (c)
+
+Books
+-----
+
+- First draft of interactive textbook: "Resonance: Learning Vibrations Through
+  Computation" (a)
+
+Papers
+------
+
+Journal
+
+- JOSS opty paper (b)
+
+Conference
+
+- ICSC optimal bicyce paper (b)
+- ICSC handling experiments paper (b)
+
+Web Articles
+------------
+
+- resonance (a)
+
+Talks
+-----
+
+- SacPy (a)
+- Education graduate group talk on resonance (a)
+- Meijo bicycle talk (b)
+
+Software
+--------
+
+- resonance (a)
+- opty (b)
+- sympy (a, b)
+- pydy (a, b)
+- skijumpdesign (b)
+
+Reviews
+-------
+
+- scipy tutorials (c)
+- open engineering (c)
+
+Proposals
+---------
+
+Awarded
+
+- Meijo Global Affairs $24k (awarded) (a)
+- Handy COSMOS (awarded) (a)
+- Abe's Blum (awarded) (b)
+- Undergrad Blum (awarded) (b)
+
+Failed
+
+- NSF libretext (failed) (a)
+
+Editor
+------
+
+- open engineering (c)
+- JOSE (c)
+
+Conferences
+-----------
+
+- attended SciPy 2017 (a, b)
+- attended UCD STOL 2017 (b)
+- attended ICSC 2017 (a)
+- attended ucd assessement symposium, lead round table (b)
 University and Public Service
 -----------------------------
 
@@ -217,3 +366,21 @@ External
 - Sent interview email to Huffington Post (f)
 - Visited B. Dillion Engineering
 - Hoof and Foot Art Musuem Movie
+
+Internal
+
+- Served on the MAE undergraduate committee (a)
+- Visiting day presentation and discussions
+- Developed talk to give to prospective students at Decision Day
+- Master of Ceremony for MAE MS graduates
+- Organized student celebration for Joseph Goodwin (d)
+- Attended Greg Tanner's memorial (d)
+- Advisor of the student solar boat team
+- Reviewed Cristina's Systems Engineering proposal
+
+External
+
+- presented MAE design activities for laguna high school with barbara (e)
+- New York Times Article https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html (f)
+- Presented at SacPy (f)
+- Press about ICSC 2017 (NPR, etc) (f)
