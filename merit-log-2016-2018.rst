@@ -1,9 +1,9 @@
 =============================
-July 1, 2016 to June 30, 2017
+July 1, 2016 to June 30, 2018
 =============================
 
 Teaching and Learning
----------------------
+=====================
 
    Teach more courses than normal faculty.
 
@@ -25,23 +25,25 @@ Teaching and Learning
       online materials. See UCD 220 for additional information on peer review
       of teaching.
 
-eme150a [Fall 2016]
+EME 150A [Fall 2016]
+--------------------
 
 - prototyping lesson (a)
   - blog post: http://engineering.ucdavis.edu/eelc/learning-mechanical-design-through-lightweight-prototyping/
-- mentored Sampad in GSoC to create beam bending module for SymPy (a)
 - unitrans visit (a)
 - lightning talks about project (b)
-- changed reverse engineering to focus on bicycle racks
+- changed reverse engineering to focus on bicycle racks (a)
+- mentored Sampad in GSoC to create beam bending module for SymPy (a)
 
-eng122 [Fall 2016 & Fall 2017]
+ENG 122 [Fall 2016]
+-------------------
 
 - 1/4 in class time spent learning through computation (a)
 - development of interactive Jupyter notebook series that is start of a
   textbook (a)
 
-ENG 122 Fall 2017
------------------
+ENG 122 [Fall 2017]
+-------------------
 
 - wrote first draft of interactive text book (a)
 - developed "resonance", a software package for learning vibrations and dynamic
@@ -51,17 +53,18 @@ ENG 122 Fall 2017
 - developed custom comp. homeworks with nbgrader (a, b)
 - developed new project (a)
 
-eme185
+EME 185A/B [Winter/Spring 2017]
+-------------------------------
 
-- enhance and lengthen arduino lesson (a)
 - grow project solicitation
 - better client feedback
 - first draft of instructor guide
 - collaborations
 - further develop rubrics
+- Visited CSU senior design and met Rustin
 
-EME 185A/B Winter/Spring 2018
------------------------------
+EME 185A/B [Winter/Spring 2018]
+-------------------------------
 
 - solicited X projects
 - 100 students, 22 projects
@@ -74,9 +77,10 @@ EME 185A/B Winter/Spring 2018
 - Participated in Fall info session
 - Create software to present peer eval data to students and me
 - took students to cambodia
+- enhance and lengthen arduino lesson (a)
 
-MAE 223 Fall 2017
------------------
+MAE 223 [Fall 2017]
+-------------------
 
 - prepared a new course
 - heavy introduction of software and live coding (a)
@@ -84,144 +88,211 @@ MAE 223 Fall 2017
 - posted all lecture videos and course notes online
 - added trajectory optimization section
 
-mae297
+MAE 297 [Spring 2018]
+---------------------
 
 - made website
 - posted videos
 - invited a MacArthur Fellow
 
-mentoring
-
-Graduate
-- Farhad Ghadamli's MS comittee
-- Scott Kresie (starting Jan 2017)
-- Abe McKay (starting Feb 2017)
-undergraduate
-- Andrew Shoats
-- Vivian Tran
-- Mentored Aaron Shaw and ALS trike team
-- Mentored Brandon GSoC pydy
-- Took 3 students to cambodia
-- Solar boat team (2nd place)
-
 Mentoring
 ---------
 
-Grad
+Graduate [6]
 
-- Abe McKay (July2017-June2018 graduated with thesis June 2018)
-- Kenny Lyons (resonance project)
-- Sui Nam Chan (on committee graduated)
-- Scott Kresie (July-Oct)
-- Farhad Ghadamli (on committee graduated)
+- Björn Dahlgren (May 2017-August 2017 GSoC)
+- Kenny Lyons (June 2017-September 2017 GSR for Resonance project)
+- Abe McKay (February 2017-June 2018 graduated with thesis June 2018)
+- Sui Nam Chan (February 2017-December 2017 MSc Committee graduated)
+- Farhad Ghadamli (November 2016-September 2017 MSc Committee graduated)
 
-TAs
+Graduate Teaching Assistants [5]
 
-- Kenneth Lyons
+- Destiny Garcia
+- Ian Garretson
 - Naveen Gowrishankar
 - Scott Kresie
-- 
+- Kenneth Lyons
 
-Undergrad
+Post-graduate [3]
 
-- Nikhil, Jashan GSOC Summer 2018 (started in May)
-- Andrew Shoats (ended July 29, 2017)
-- Vien Bui (undergrad researcher)
-- Trevor Metz
-- Britt Tarien
-- Bryn Cloud
-- Ada Liu
+- Scott Kresie (January 2017-October 2017)
+- Aaron Shaw (June 2017-present)
+- Britt Tarien (June 2018-present)
+
+Undergraduate [11]
+
+- Vien Bui
+- Bryn Cloud (June 2018-present)
+- Nikhil Pappu (May 2018-August 2018 GSoC)
+- Ada Liu (June 2018-present)
+- Trevor Metz (June 2018-present)
+- James Brandon Milam (May 2016-August 2016)
+- Jake Parkhurst
+- Sampad Saha (May 2016-August 2016)
+- Jashanpreet Singh (May 2018-August 2018 GSoC)
+- Aaron Shaw (March 2016-June 2017)
+- Andrew Shoats (January 2017-July 2017)
+- Vivian Tran
+
+Student Teams
+
+- Quadrapeligic Friendly Tricyle Team
+- Solar Boat Team (2nd Place in 2017 and 2018)
+
 Workshops Taught
 ----------------
 
-- Co-developed and delivered sympy code gen (July 2017)
-- comp thinking in stem with Downey (January 2018)
-
-other
+[7]
 
 - gave 1 day R workshop to LPSOEs (August 25 2016)
-- participating in eelc
-- EELC blog
+- gave PyDy tutorial at SciPy 2016
+- helper at SymPy tutorial at SciPy 2016
+- Delta Stewardship Council SWC workshop
+- Co-developed and delivered sympy code gen (July 2017)
+- enabled bicitech blender workshop (Nov 1-2 2017)
+- comp thinking in stem with Downey (January 2018)
+
+Guest Lectures
+--------------
+
 - guest lecture in EME 1 (Kong) Nov 28
-- guest lecture in Kurt's class
-- mentored education assistant (Vivian)
+- guest lecture in Kurt's class Winter 2017
 - guest scorer in Jean's ENG 3
-- Met with Dean about engineering book
-- Toured Hooman's lab and gave feedback on skills needed from 100
-- MIV training October 3, 2016
-- MAE retreat Oct 7
-- Visited CSU senior design and met Rustin
 
 Other
 -----
 
+- Participated in EELC
+- EELC blog
+- Met with Dean about engineering book
+- Toured Hooman's lab and gave feedback on skills needed from 100
+- MIV training October 3, 2016
+- MAE retreat Oct 7
 - davis swc group (met once)
 - Abe's trip to kenya
-- Participated in EELC
+- Took 3 students to cambodia
+- invited carlos from maya pedal (Nov 1-2)
 
 Professional Achievement and Activities
----------------------------------------
+=======================================
 
 a. research and publication on pedagogy
 b. research and publication in subject-matter discpline
 c. activity in professionl organizations
 
 - lead organizer for ICSC 2017 (167 hours this merit period)
+- Lead organizer of ICSC 2017 (c)
 - scientific committee at BMD
 - organizing committee at BMD: publishing lead
-- invited carlos from maya pedal (Nov 1-2)
+
+Books
+-----
+
+- First draft of interactive textbook: "Resonance: Learning Vibrations Through
+  Computation" (a)
 
 Papers
+------
 
-- An Optimal Handling Bicycle (b)
+Journal
+
 - SymPy: symbolic computing in Python (b, maybe a)
   - https://peerj.com/articles/cs-103/
   - Most cited paper in PeerJ in 2017
     (https://peerj.com/blog/post/115284879975/peerj-in-2017/)
-  - 95 citations (GScholar) January 2, 2017-July 30 2018
+  - 118 citations (GScholar) January 2, 2017-October 25, 2018
   - https://badge.dimensions.ai/details/id/pub.1073860307
-  - 12,535 visitors, 16,352 views, 3616 download at PeerJ
+  - 13,574 visitors, 17,731 views, 4,504 download at PeerJ
+- JOSS opty paper (b)
 
-Collaborations
+Conference
 
-- Anthony Scopatz USC, Kyle Neimier Oregon State
+- An Optimal Handling Bicycle (b)
+- ICSC optimal bicyce paper (b)
+- ICSC handling experiments paper (b)
+
+Web Articles
+
+- EELC EME 150A Blog post
+- EELC Resonance Blog Post (a)
+
+Talks
+-----
+
+- SacPy (a)
+- Education graduate group talk on resonance (a)
+- Meijo bicycle talk (b)
+- SciPy 2018 talk (by Kenny)
+- Developed talk to give to prospective students at Decision Day
+
+Collaborators
+-------------
+
+- Anthony Scopatz USC, Kyle Neimier Oregon State, Aaron Meuere
 - Delmar Larsen
 - SymPy developers
 
 Proposals
+---------
 
+Awarded [10]
+
+- CEE $22k
+- Meijo Global Affairs $24k (a)
+- Abe's Blum Grant (b)
+- Two Undergrad Blum (Purva/Samira) (b)
+- 2017 SymPy GSoC $58.5k
+- 2018 SymPy GSoC $45.5k
+- CITRIS ALS Trike $3250 June 2016
+- CITRIS Cambodia Washing Station $775 April 2017
+- Handy COSMOS (a)
+
+Failed [2]
+
+- NSF libretext (a)
+  - Also favorable reviews
 - NSF SSI2: Code generation infastructure
   - Rejected with very favorable reviews, planning to resubmit
-- GSoC
-  - Applied for GSoC 2017 as a mentor with SymPy, awarded.
-- CEE
 
-Mentoring
+Editor
+------
 
-- Abraham McKay (MSc advisor)
-- Farhad Ghadamli (MSc thesis committee)
-- Scott Kresie (Incoming graduate student)
-
-Workshops
-
-- gave PyDy tutorial at SciPy 2016
-- helper at SymPy tutorial at SciPy 2016
-- enabled bicitech blender workshop
-- Delta Stewardship Council SWC workshop
+- Open engineering (c)
+- JOSE (c)
 
 Reviews
+-------
 
-- reviewed 10 SciPy tutorials
+- reviewed 10 SciPy 2017 tutorials (c)
+- REviewed Scipy 2018 tutorials (c)
+- 1 open engineering review (c)
 
 Conferences
+-----------
+
+[7]
 
 - Attended BMD 2016 Milwaukee
 - Attended SciPy 2016
 - Attended UCD SOTL 2016 Nov 17-18
+- Attended SciPy 2017 (a, b)
+- Attended ICSC 2017 (a)
+- Attended UCD STOL 2017 (b)
+- Attended ucd assessement symposium, lead round table (b)
 
 Software
+--------
 
-- Maintainer of 13 packages on PyPi (downloads as of Oct 10)
+Development and mainterner work on:
+
+- resonance (a)
+- opty (b)
+- sympy (a, b)
+- pydy (a, b)
+- skijumpdesign (b)
+
+Maintainer of 13 packages on PyPi (downloads as of Oct 10)
   - DynamicistToolkit 34345
   - yeadon 23425
   - BicycleParameters 17261
@@ -235,7 +306,7 @@ Software
   - pydy-viz 3763
   - skijumpdesign 1766
 
-- Maintainer or co-maintainer of 20 packages on Conda Forge (downloads as of Aug 8, 2018):
+Maintainer or co-maintainer of 20 packages on Conda Forge (downloads as of Aug 8, 2018):
   - plotly, 219k downloads
   - cyipopt, 15k downloads
   - pydy, 11k downloads
@@ -257,82 +328,8 @@ Software
   - bicycleparameters, 904 downloads
   - skijumpdesign, 513 downloads
 
-- Lead organizer of ICSC 2017 (c)
-
-Books
------
-
-- First draft of interactive textbook: "Resonance: Learning Vibrations Through
-  Computation" (a)
-
-Papers
-------
-
-Journal
-
-- JOSS opty paper (b)
-
-Conference
-
-- ICSC optimal bicyce paper (b)
-- ICSC handling experiments paper (b)
-
-Web Articles
-------------
-
-- resonance (a)
-
-Talks
------
-
-- SacPy (a)
-- Education graduate group talk on resonance (a)
-- Meijo bicycle talk (b)
-
-Software
---------
-
-- resonance (a)
-- opty (b)
-- sympy (a, b)
-- pydy (a, b)
-- skijumpdesign (b)
-
-Reviews
--------
-
-- scipy tutorials (c)
-- open engineering (c)
-
-Proposals
----------
-
-Awarded
-
-- Meijo Global Affairs $24k (awarded) (a)
-- Handy COSMOS (awarded) (a)
-- Abe's Blum (awarded) (b)
-- Undergrad Blum (awarded) (b)
-
-Failed
-
-- NSF libretext (failed) (a)
-
-Editor
-------
-
-- open engineering (c)
-- JOSE (c)
-
-Conferences
------------
-
-- attended SciPy 2017 (a, b)
-- attended UCD STOL 2017 (b)
-- attended ICSC 2017 (a)
-- attended ucd assessement symposium, lead round table (b)
 University and Public Service
------------------------------
+=============================
 
 a. Service (with dates and responsibilities identified) in departmental,
    college, Academic Senate and administrative capacities. Evaluation of the
@@ -359,16 +356,6 @@ Internal
 - ABET assessments in EME 185B
   - Worked with Jenny Quynn
 - Alternate on CoE IT Committee
-
-External
-
-- Professors domes dinner (d)
-- Sent interview email to Huffington Post (f)
-- Visited B. Dillion Engineering
-- Hoof and Foot Art Musuem Movie
-
-Internal
-
 - Served on the MAE undergraduate committee (a)
 - Visiting day presentation and discussions
 - Developed talk to give to prospective students at Decision Day
@@ -380,6 +367,10 @@ Internal
 
 External
 
+- Professors domes dinner (d)
+- Sent interview email to Huffington Post (f)
+- Visited B. Dillion Engineering
+- Hoof and Foot Art Musuem Movie
 - presented MAE design activities for laguna high school with barbara (e)
 - New York Times Article https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html (f)
 - Presented at SacPy (f)
