@@ -29,18 +29,18 @@ Teaching and Learning
 EME 150A [Fall 2016]
 --------------------
 
-- prototyping lesson (a)
+- [x] prototyping lesson (a)
   - blog post: http://engineering.ucdavis.edu/eelc/learning-mechanical-design-through-lightweight-prototyping/
-- unitrans visit (a)
-- lightning talks about project (b)
-- changed reverse engineering to focus on bicycle racks (a)
-- mentored Sampad in GSoC to create beam bending module for SymPy (a)
+- [x] unitrans visit (a)
+- [x] lightning talks about project (b)
+- [x] changed reverse engineering to focus on bicycle racks (a)
+- [x] mentored Sampad in GSoC to create beam bending module for SymPy (a)
 
 ENG 122 [Fall 2016]
 -------------------
 
-- 1/4 in class time spent learning through computation (a)
-- development of interactive Jupyter notebook series that is start of a
+- [x] 1/4 in class time spent learning through computation (a)
+- [x] development of interactive Jupyter notebook series that is start of a
   textbook (a)
 
 ENG 122 [Fall 2017]
