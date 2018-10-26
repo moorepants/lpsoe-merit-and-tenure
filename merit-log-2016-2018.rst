@@ -5,7 +5,8 @@ July 1, 2016 to June 30, 2018
 Teaching and Learning
 =====================
 
-   Teach more courses than normal faculty.
+   The primary objective is to teach 1.5X courses than normal faculty and the
+   secondary objectives are as follows:
 
    a. Pedagogical or curricular innovation, including: the development of new
       instructional materials such as audio-visual units, online course
@@ -98,7 +99,7 @@ MAE 297 [Spring 2018]
 Mentoring
 ---------
 
-Graduate [6]
+Graduate [5]
 
 - Björn Dahlgren (May 2017-August 2017 GSoC)
 - Kenny Lyons (June 2017-September 2017 GSR for Resonance project)
@@ -135,7 +136,7 @@ Undergraduate [11]
 - Andrew Shoats (January 2017-July 2017)
 - Vivian Tran
 
-Student Teams
+Student Teams [2]
 
 - Quadrapeligic Friendly Tricyle Team
 - Solar Boat Team (2nd Place in 2017 and 2018)
@@ -352,26 +353,25 @@ f. Communication to the public based on professional expertise.
 Internal
 
 - Served on UGEP one week
-- Served on department undergraduate committee
-- ABET assessments in EME 185B
-  - Worked with Jenny Quynn
-- Alternate on CoE IT Committee
-- Served on the MAE undergraduate committee (a)
-- Visiting day presentation and discussions
-- Developed talk to give to prospective students at Decision Day
-- Master of Ceremony for MAE MS graduates
-- Organized student celebration for Joseph Goodwin (d)
-- Attended Greg Tanner's memorial (d)
-- Advisor of the student solar boat team
+- [x] Served on the MAE undergraduate committee (a)
+- [x] Alternate on CoE IT Committee
+- [x] ABET assessments in EME 185, worked with Jenny Quynn and steven
+- [x] Developed talk to give to prospective students at Decision Day
+- [x] Master of Ceremony for MAE MS graduates
+- [x] Organized student celebration for Joseph Goodwin (d)
 - Reviewed Cristina's Systems Engineering proposal
 
 External
 
+- [x] Attended Greg Tanner's memorial (d)
 - Professors domes dinner (d)
-- Sent interview email to Huffington Post (f)
+- [x] Sent interview email to Huffington Post (f)
+- Hoof and Foot Art Musuem Movie (e)
+- [x] presented MAE design activities for laguna high school with barbara (e)
+- [x] New York Times Article https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html (f)
+- [x] Presented at SacPy (f)
+- [x] Press about ICSC 2017 (NPR, etc) (f)
 - Visited B. Dillion Engineering
-- Hoof and Foot Art Musuem Movie
-- presented MAE design activities for laguna high school with barbara (e)
-- New York Times Article https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html (f)
-- Presented at SacPy (f)
-- Press about ICSC 2017 (NPR, etc) (f)
+- [x] Visit to Technip
+- [x] Visit to DMG Mori
+- [x] Public workshops
