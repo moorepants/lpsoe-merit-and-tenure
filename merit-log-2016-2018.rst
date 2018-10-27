@@ -5,7 +5,7 @@ July 1, 2016 to June 30, 2018
 Teaching and Learning
 =====================
 
-   The primary objective is to teach 1.5X courses than normal faculty and the
+   The primary objective is to teach ~1.5X courses than normal faculty and the
    secondary objectives are as follows:
 
    a. Pedagogical or curricular innovation, including: the development of new
@@ -46,55 +46,57 @@ ENG 122 [Fall 2016]
 ENG 122 [Fall 2017]
 -------------------
 
-- wrote first draft of interactive text book (a)
-- developed "resonance", a software package for learning vibrations and dynamic
-  systems (a)
-- flipped class to active learning through live computing (a)
-- created a JupyterHub server for College of Engineering use (a)
-- developed custom comp. homeworks with nbgrader (a, b)
-- developed new project (a)
+- [x] wrote first draft of interactive text book (a)
+- [x] developed "resonance", a software package for learning vibrations and
+  dynamic systems (a)
+- [x] flipped class to active learning through live computing (a)
+- [x] created a JupyterHub server for College of Engineering use (a)
+- [x] developed custom comp. homeworks with nbgrader (a, b)
+- [x] developed new project (a)
 
 EME 185A/B [Winter/Spring 2017]
 -------------------------------
 
-- grow project solicitation
-- better client feedback
-- first draft of instructor guide
-- collaborations
-- further develop rubrics
+- [x] grow project solicitation
+- [x] better client feedback
+- [x] first draft of instructor guide
+- [x] collaborations
+- [x] further develop rubrics
+- [x] took students to cambodia
 - Visited CSU senior design and met Rustin
 
 EME 185A/B [Winter/Spring 2018]
 -------------------------------
 
-- solicited X projects
-- 100 students, 22 projects
-- spring: 22 hours of meetings per week
-- added in gantt chart lesson
-- added in FEA lesson
-- collaborations
-- Took students to Japan
-- Meijo/UCD competition and visit here
+- [x] 100 students, 22 projects
+- [x] spring: 22 hours of meetings per week
+- [x] added in gantt chart lesson
+- [x] added in FEA lesson
+- [x] Took students to Japan
+- [x] Meijo/UCD competition and visit here
+- [x] Create software to present peer eval data to students and me
+- [x] enhance and lengthen arduino lesson (a)
+- [x] collaborations
 - Participated in Fall info session
-- Create software to present peer eval data to students and me
-- took students to cambodia
-- enhance and lengthen arduino lesson (a)
+- Ralph Hotchkins visited
+- [x] worked with Kara on assessment
 
 MAE 223 [Fall 2017]
 -------------------
 
-- prepared a new course
-- heavy introduction of software and live coding (a)
-- created x notebooks (a)
-- posted all lecture videos and course notes online
-- added trajectory optimization section
+- [x] prepared a new course
+- [x] heavy introduction of software and live coding (a)
+- [x] created x notebooks (a)
+- [x] posted all lecture videos and course notes online
+- [x] added trajectory optimization section
 
 MAE 297 [Spring 2018]
 ---------------------
 
-- made website
-- posted videos
-- invited a MacArthur Fellow
+- [x] made website
+- [x] posted videos
+- [x] invited a MacArthur Fellow
+- [x] diverse speakers
 
 Mentoring
 ---------
@@ -115,7 +117,7 @@ Graduate Teaching Assistants [5]
 - Scott Kresie
 - Kenneth Lyons
 
-Post-graduate [3]
+Post graduate [3]
 
 - Scott Kresie (January 2017-October 2017)
 - Aaron Shaw (June 2017-present)
@@ -138,28 +140,29 @@ Undergraduate [11]
 
 Student Teams [2]
 
-- Quadrapeligic Friendly Tricyle Team
-- Solar Boat Team (2nd Place in 2017 and 2018)
+- [x] Quadrapeligic Friendly Tricyle Team
+- [x] Solar Boat Team (2nd Place in 2017 and 2018)
 
 Workshops Taught
 ----------------
 
 [7]
 
-- gave 1 day R workshop to LPSOEs (August 25 2016)
-- gave PyDy tutorial at SciPy 2016
-- helper at SymPy tutorial at SciPy 2016
-- Delta Stewardship Council SWC workshop
-- Co-developed and delivered sympy code gen (July 2017)
-- enabled bicitech blender workshop (Nov 1-2 2017)
-- comp thinking in stem with Downey (January 2018)
+- [x] gave 1 day R workshop to LPSOEs (August 25 2016)
+- [x] gave PyDy tutorial at SciPy 2016
+- [x] helper at SymPy tutorial at SciPy 2016
+- [x] Delta Stewardship Council SWC workshop
+- [x] Co-developed and delivered sympy code gen (July 2017)
+- [x] enabled bicitech blender workshop (Nov 1-2 2017)
+- [x] comp thinking in stem with Downey (January 2018)
 
 Guest Lectures
 --------------
 
-- guest lecture in EME 1 (Kong) Nov 28
-- guest lecture in Kurt's class Winter 2017
-- guest scorer in Jean's ENG 3
+- [x] guest lecture in EME 1 (Kong) Nov 28 Fall 2016
+- [x] guest lecture in Kurt's class Winter 2017
+- [x] guest lecture in MAE 223 (Eke) Spring 2017
+- [x] guest scorer in Jean's ENG 3
 
 Other
 -----
@@ -171,9 +174,9 @@ Other
 - MIV training October 3, 2016
 - MAE retreat Oct 7
 - davis swc group (met once)
-- Abe's trip to kenya
-- Took 3 students to cambodia
-- invited carlos from maya pedal (Nov 1-2)
+- [x] Abe's trip to kenya
+- [x] Took 3 students to cambodia
+- [x] invited carlos from maya pedal (Nov 1-2)
 
 Professional Achievement and Activities
 =======================================
@@ -181,11 +184,6 @@ Professional Achievement and Activities
 a. research and publication on pedagogy
 b. research and publication in subject-matter discpline
 c. activity in professionl organizations
-
-- lead organizer for ICSC 2017 (167 hours this merit period)
-- Lead organizer of ICSC 2017 (c)
-- scientific committee at BMD
-- organizing committee at BMD: publishing lead
 
 Books
 -----
@@ -215,7 +213,7 @@ Conference
 
 Web Articles
 
-- EELC EME 150A Blog post
+- EELC EME 150A Blog post (a)
 - EELC Resonance Blog Post (a)
 
 Talks
@@ -224,7 +222,7 @@ Talks
 - SacPy (a)
 - Education graduate group talk on resonance (a)
 - Meijo bicycle talk (b)
-- SciPy 2018 talk (by Kenny)
+- SciPy 2018 talk (by Kenny) (a)
 - Developed talk to give to prospective students at Decision Day
 
 Collaborators
@@ -232,6 +230,7 @@ Collaborators
 
 - Anthony Scopatz USC, Kyle Neimier Oregon State, Aaron Meuere
 - Delmar Larsen
+- Abraha and Oshima
 - SymPy developers
 
 Proposals
@@ -239,21 +238,21 @@ Proposals
 
 Awarded [10]
 
-- CEE $22k
-- Meijo Global Affairs $24k (a)
-- Abe's Blum Grant (b)
-- Two Undergrad Blum (Purva/Samira) (b)
-- 2017 SymPy GSoC $58.5k
-- 2018 SymPy GSoC $45.5k
-- CITRIS ALS Trike $3250 June 2016
-- CITRIS Cambodia Washing Station $775 April 2017
-- Handy COSMOS (a)
+- [x] CEE $22k
+- [x] Meijo Global Affairs $24k (a)
+- [x] Abe's Blum Grant (b)
+- [x] Two Undergrad Blum (Purva/Samira) (b)
+- [x] 2017 SymPy GSoC $58.5k
+- [x] 2018 SymPy GSoC $45.5k
+- [x] CITRIS ALS Trike $3250 June 2016
+- [x] CITRIS Cambodia Washing Station $775 April 2017
+- [x] Handy COSMOS (a)
 
 Failed [2]
 
-- NSF libretext (a)
+- [x] NSF libretext (a)
   - Also favorable reviews
-- NSF SSI2: Code generation infastructure
+- [x] NSF SSI2: Code generation infastructure
   - Rejected with very favorable reviews, planning to resubmit
 
 Editor
@@ -268,24 +267,26 @@ Reviews
 - reviewed 10 SciPy 2017 tutorials (c)
 - REviewed Scipy 2018 tutorials (c)
 - 1 open engineering review (c)
+- BMD submissions
 
 Conferences
 -----------
 
 [7]
 
-- Attended BMD 2016 Milwaukee
-- Attended SciPy 2016
-- Attended UCD SOTL 2016 Nov 17-18
-- Attended SciPy 2017 (a, b)
-- Attended ICSC 2017 (a)
-- Attended UCD STOL 2017 (b)
-- Attended ucd assessement symposium, lead round table (b)
+- [x]Attended, presented at, was on scientific committee, and organazing
+  committee at BMD 2016 Milwaukee
+- [x]Attended UCD SOTL 2016 Nov 17-18
+- [x]Attended and taught workshop at SciPy 2017
+- [x]Attended, collaborators presented at, and was lead organizer at ICSC 2017 (a)
+- [x]Attended UCD STOL 2017 (b)
+- [x]Attended and lead round table at UCD assessement symposium (b)
+- [x]Kenny presented on my behalf at SciPy 2018 (a, b)
 
 Software
 --------
 
-Development and mainterner work on:
+Development and maintener work on:
 
 - resonance (a)
 - opty (b)
@@ -364,14 +365,14 @@ Internal
 External
 
 - [x] Attended Greg Tanner's memorial (d)
-- Professors domes dinner (d)
 - [x] Sent interview email to Huffington Post (f)
-- Hoof and Foot Art Musuem Movie (e)
 - [x] presented MAE design activities for laguna high school with barbara (e)
 - [x] New York Times Article https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html (f)
 - [x] Presented at SacPy (f)
 - [x] Press about ICSC 2017 (NPR, etc) (f)
-- Visited B. Dillion Engineering
 - [x] Visit to Technip
 - [x] Visit to DMG Mori
 - [x] Public workshops
+- Hoof and Foot Art Musuem Movie (e)
+- Visited B. Dillion Engineering
+- Professors domes dinner (d)
