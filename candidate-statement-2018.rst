@@ -1,6 +1,10 @@
 .. |_| unicode:: 0xA0
    :trim:
 
+=========================================
+DRAFT Candidate Statement: Jason K. Moore
+=========================================
+
 TL;DR
 =====
 
@@ -61,6 +65,18 @@ have contributed to each of the above three topics. I have included many
 hyperlinks to the results of my work. Please follow them if you have further
 interest.
 
+I am requesting a 1.5X merit due to the fact that I have believe I have
+exceeded the minimum standards for both "Teaching and Learning" and
+"Professional Achievements and Activities".
+
+- Teaching and Learning: I have taught 130% more units than has been outlined
+  for the LPSOE track over that past two years and have went above and beyond
+  to innovate the courses I have taught.
+- Professional Achievements and Activities: I have published 2 journal
+  articles, 3 conference papers, hosted a very successful research conference
+  in my field of work, and presented my work extensively along with carrying
+  enough funding to support numerous students.
+
 .. _UCD APM 285: https://aadocs.ucdavis.edu/policies/apm/ucd-285.pdf
 
 Teaching and Learning
@@ -94,13 +110,13 @@ universally across all of my courses:
 
 - utilize learning objective mastery rubric-based assessment,
 - use exam reflection surveys,
-- increase the amount of in-class active learning and decrease in-class lecture,
+- increase the amount of in-class active learning and decrease in-class
+  lecturing,
 - collect weekly feedback from the students and respond to this via extra
   in-class content, extra videos and/or written notes,
-- post all notes, videos, assignments, as open access on a comprehensive
-  website
+- post all notes, videos, assignments, publicly on a comprehensive website, and
 - release the vast majority of my teaching materials as open educational
-  resources under liberal copyright licenses
+  resources under liberal copyright licenses.
 
 EME 150A [Mechanical Design]
 ----------------------------
@@ -228,7 +244,7 @@ lunches and dinners, visited local engineering companies and research labs, and
 the students have competed in the final design competition with our students
 which has been a huge success. This past year I was awarded a $24k `Global
 Affairs Seed Grant`_ and took 12 UCD student to Japan for an unbelievable trip.
-We visited Nobel Prize winning research labs, the Toyota factory and musuem,
+We visited Nobel Prize winning research labs, the Toyota factory and museum,
 and all of the students presented their work to over 80 students and faculty in
 an international setting.
 
@@ -250,7 +266,7 @@ this course) that I co-developed and maintain called PyDy_. This resulted in
 about `20 Jupyter notebooks`_ that I plan to turn into a companion interactive
 text as the years progress. I developed two new lectures to provide students an
 introduction to trajectory optimization of dynamic systems.  Additionally, I
-made all of the `lecture videos`_ available on Youtube for public consumption
+made all of the `lecture videos`_ available on YouTube for public consumption
 and already have several hundred views.
 
 .. _PyDy: http://www.pydy.org
@@ -266,7 +282,7 @@ as many speakers as possible from outside UCD on the limited budget, and 3)
 initiate a method to share the talks with the world. I developed a `course
 website`_ to highlight the speaker schedule and biographies. I obtained
 permission from most of the speakers to post `their talks`_ publicly to
-Youtube.
+YouTube.
 
 .. _course website: https://moorepants.github.io/mae297/
 .. _their talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
@@ -457,4 +473,6 @@ Acknowledgements
 
 I know this document is supposed to be about my accomplishments but I think it
 is important to note the people that contributed to the success of the above
-mentioned activities. Thanks to my amazing 22 mentees.
+mentioned activities. Thanks to my amazing 22 mentees for all of their amazing
+work and support, the MAE staff for handling my deficiencies, to all my
+collaborators, and to my mentors and supporters.
