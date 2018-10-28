@@ -23,8 +23,9 @@ Teaching and Learning
 - Awarded $24k from Global Affairs to launch exchange design competition with
   Meijo University in Nagoya, Japan including a visit of 12 UCD students to
   Japan that complimented 20+ Japanese students visiting the USA.
-- Co-taught a workshop on "Computational Thinking in the Engineering
-  Curriculum" for UCD educators along with 6 other workshops.
+- Co-taught a workshop with international expert, Allen Downey, on
+  "Computational Thinking in the Engineering Curriculum" for UCD educators
+  along with 6 other workshops.
 - Invited to lead round table at UCD assessment symposium.
 - Gave invited talk to UCD Education Department.
 
@@ -33,8 +34,8 @@ Professional Achievements and Activities
 
 - Co-wrote published a `journal article on SymPy`_ which won the most cited
   PeerJ article in 2017 and already has more than 100 citations.
-- Lead organizer of the International Cycling Safety Conference, Davis, CA
-  Sept. 20-23 2017. Attracted 170+ international attendees, attracted local
+- Lead organizer of the `2017 International Cycling Safety Conference`_, Davis,
+  CA Sept. 20-23 2017. Attracted 170+ international attendees, attracted local
   press coverage, and two conference papers from my group were presented.
 - Published a `journal article in JOSS`_ on trajectory optimization and
   parameter identification with direct collocation.
