@@ -16,10 +16,10 @@ Teaching and Learning
   - **2016-2017** ENG |_| 122, EME |_| 150A, two sections of EME |_| 185A/B
   - **2017-2018** ENG |_| 122, MAE |_| 223, two sections of EME |_| 185A/B, MAE |_| 297
 
-- Awarded $22k from the UCD Center of Educational Effectiveness to develop an
-  interactive textbook, computational learning modules, computational homework,
-  and setup cloud based computing infrastructure for ENG 122 and to support
-  other CoE computational courses.
+- Awarded $22k from the UCD Center of Educational Effectiveness (CEE) to
+  develop an interactive textbook, computational learning modules,
+  computational homework, and setup cloud based computing infrastructure for
+  ENG 122 and to support other CoE computational courses.
 - Awarded $24k from Global Affairs to launch exchange design competition with
   Meijo University in Nagoya, Japan including a visit of 12 UCD students to
   Japan that complimented 20+ Japanese students visiting the USA.
@@ -84,7 +84,7 @@ Teaching and Learning
 Professional Achievements and Activities
    I have published 2 journal articles, 3 conference papers, hosted a very
    successful research conference in my field of work, and presented my work
-   extensively along with carrying enough funding to support numerous students.
+   extensively along with carrying enough funding to support 22 students.
 
 .. _UCD APM 285: https://aadocs.ucdavis.edu/policies/apm/ucd-285.pdf
 
@@ -163,9 +163,12 @@ software package`_, the setup of computational cloud infrastructure
 of a training workshop for this pedagogy approach. Graduate student Kenneth
 Lyons and I were funded by the grant to do this work. We successfully
 accomplished these goals and have presented the work locally and nationally as
-invited speakers to SacPy, the UCD College of Education Graduate Group, and at
-JupyterCon 2018. Kenneth also presented `the work`_ for us at SciPy 2018 as an
-accepted presentation.
+invited speakers to SacPy (a local industry oriented users group for the Python
+programming language), the UCD College of Education Graduate Group, and at
+JupyterCon 2018 (a new conference series created due to the exponential demand
+and wide adoption of the tool for research, industry, and education). Kenneth
+also presented `the work`_ for us at SciPy 2018, the popular conference on
+scientific and engineering computing with Python, as an accepted presentation.
 
 As mentioned, this work included the development of a workshop with my Olin
 College colleague, Allen Downey, entitled "`Computational Thinking in the
@@ -178,13 +181,13 @@ Olin Summer Institute.
 
 Since I have begun this work I have received requests from half a dozen
 professors on campus to assist them with similar instructional needs. For
-example, Valeria la Saponara has adopted the Jupyter tool for her composites
-course. I also applied to a $3M NSF IUSE grant with Delmar Larsen of the
-Chemistry department to add Jupyter to the widely LibreTexts_ project. Although
-denied, it received favorable reviews and we have plans to resubmit. Lastly, I
-am now an editor for a new journal entitled "`The Journal of Open Source
-Education`_" which was conceived to allow educators to publish similar teaching
-materials as developed in my work.
+example, Valeria la Saponara (MAE) has adopted the Jupyter tool for her
+composites course. I also applied to a $3M NSF IUSE grant with Delmar Larsen of
+the Chemistry department to add Jupyter to the widely LibreTexts_ project.
+Although denied, it received favorable reviews and we have plans to resubmit.
+Lastly, I am now an editor for a new journal entitled "`The Journal of Open
+Source Education`_" which was conceived to allow educators to publish similar
+teaching materials as developed in my work.
 
 .. _Jupyter: http://www.jupyter.org
 .. _a proposal: https://doi.org/10.6084/m9.figshare.5229886.v1
@@ -389,19 +392,23 @@ ICSC 2017
 ---------
 
 The second highlight of the past two years was being the lead organizer and
-host of the `2017 International Cycling Safety Conference`_. With Deb Niemeier
-(Civil and Environmental Engineering), Mont Hubbard (Mech. and Aero.
-Engineering), and Susan Handy (Environmental Science and Policy) as
-co-organizers we brought over 170 international visitors in for the conference.
-We partnered with the UCD National Center for Sustainable Transportation, the
-City of Davis, multiple bicycle companies, and local advocacy groups. This
-resulted in over 90 peer reviewed short papers, 60 presentations, 30 posters,
-and 2 workshops and the best work of the conference will be published in a
-special issue of the Journal of Safety Research due out in about a month.
-Additionally, the keynotes highlighted a long standing detriment to bicycle
-safety that is socially accepted in policy decisions but has little to no
-scientific backing to support it. This resulted in a number of media pieces on
-the topic (e.g. Capitol Public Radio, Government Technology, etc.).
+host of the `2017 International Cycling Safety Conference`_, an annual
+specialized conference that brings together cross disciplinary researchers from
+engineering, urban planning, policy, and transportation studies to discuss
+bicycling safety. Davis, CA and we were chosen by the steering committee to
+host the first offering outside of Europe. With Deb Niemeier (Civil and
+Environmental Engineering), Mont Hubbard (Mech. and Aero.  Engineering), and
+Susan Handy (Environmental Science and Policy) as co-organizers we brought over
+170 international visitors in for the conference. We partnered with the UCD
+National Center for Sustainable Transportation, the City of Davis, multiple
+bicycle companies, and local advocacy groups. This resulted in over 90 peer
+reviewed short papers, 60 presentations, 30 posters, and 2 workshops and the
+best work of the conference will be published in a special issue of the Journal
+of Safety Research due out in about a month. Additionally, our choice of
+keynotes highlighted a long standing detriment to bicycle safety that is
+socially accepted in policy decisions but has little to no scientific backing.
+This resulted in a number of media pieces on the topic (e.g. Capitol Public
+Radio, Government Technology, etc.).
 
 Grants
 ------
