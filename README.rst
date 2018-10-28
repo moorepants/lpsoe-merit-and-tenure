@@ -6,4 +6,10 @@ I'm releasing this information to be as open and transparent as possible about
 the tenure process so that it can hopefully help others in similar positions.
 I'm also happy to get any feedback.
 
-The materials are released under the CC-By 4.0 license.
+Merit and Tenure Materials (c) by Jason K. Moore
+
+Merit and Tenure Materials is licensed under a Creative Commons Attribution 4.0
+International License.
+
+You should have received a copy of the license along with this work. If not,
+see <http://creativecommons.org/licenses/by/4.0/>.
