@@ -21,22 +21,22 @@ Teaching and Learning
   and setup cloud based computing infrastructure for ENG 122 and to support
   other CoE computational courses.
 - Awarded $24k from Global Affairs to launch exchange design competition with
-  Meijo University in Nagoya including a visit of 12 UCD students to Japan and
-  20+ Japanese students to the USA.
+  Meijo University in Nagoya, Japan including a visit of 12 UCD students to Japan and
+  20+ Japanese students to the USA. [comment: did the fund cover the 20+ students from Japan? it sounds like it from this]
 - Co-taught a workshop on "Computational Thinking in the Engineering
   Curriculum" for UCD educators along with 6 other workshops.
-- Gave invited to UCD Education Department.
+- Gave invited talk to UCD Education Department.
 - Invited to lead round table at UCD assessment symposium.
 
 Professional Achievements and Activities
 ----------------------------------------
 
 - Co-wrote published a journal article on SymPy which won the most cited PeerJ
-  article in 2017 and already has more than 100 citations.
+  article in 2017 and already has more than 100 citations.[should you linke to this article?]
 - Lead organizer of the International Cycling Safety Conference, Davis, CA
   Sept. 20-23 2017. Attracted 170+ international attendees, local press
   coverage, presented two conference papers
-- Published a journal article in JOSS on trajectory optimization eith direct
+- Published a journal article in JOSS on trajectory optimization eith [is this misspelled? don't know what it means] direct
   collocation.
 - Awarded grants totaling $160k+.
 - Served on organizing and scientific committee of the 2016 Bicycle and
@@ -52,6 +52,7 @@ University and Public Service
 - Gave a talk at the Sacramento Python Users Group.
 - Developed and maintained numerous open source software packages for public
   use.
+  [I forget what years these were for...so the Software Carpentry class doesn't need to be in here?]
 
 Introduction
 ============
@@ -59,7 +60,7 @@ Introduction
 My position, Lecturer With Potential Security of Employment, is expected to
 demonstrate effectiveness and impact in three primary aspects which are
 detailed in the `UCD APM 285`_: *Teaching and Learning*, *Professional
-Achievements and Activities*, and *University and Public Service*. For the time
+Achievements and Activities* [why is this not italicized?], and *University and Public Service*. For the time
 period of **July 1, 2016 to June 30, 2018**, I detail below the activities that
 have contributed to each of the above three topics. I have included many
 hyperlinks to the results of my work. Please follow them if you have further
@@ -70,7 +71,7 @@ exceeded the minimum standards for both "Teaching and Learning" and
 "Professional Achievements and Activities".
 
 - Teaching and Learning: I have taught 130% more units than has been outlined
-  for the LPSOE track over that past two years and have went above and beyond
+  for the LPSOE track [should you link to language?] over that past two years and have went above and beyond
   to innovate the courses I have taught.
 - Professional Achievements and Activities: I have published 2 journal
   articles, 3 conference papers, hosted a very successful research conference
@@ -84,7 +85,7 @@ Teaching and Learning
 
 Teaching and learning constitutes approximately 60% to 70% of my job. Over the
 past two years I taught thirteen UCD courses (three of which were new course
-preparations for me and one was a complete course redesign): `ENG 122`_
+preparations for me [while] one was a complete course redesign): `ENG 122`_
 (Introduction to Vibrations) Fall 2016 & 2017, `EME 150A`_ (Mechanical Design)
 Fall 2017, two sections of `EME 185A/B`_ (Mechanical Systems Design Project)
 Winter-Spring 2017 & 2018, `MAE 223`_ (Multibody Dynamics) Fall 2017, and `MAE
@@ -105,10 +106,10 @@ I have put considerable effort into incorporating research backed educational
 practices into my courses as part of my classroom innovations long-term goal.
 
 My goal is to clearly define student learning in each course and focus on
-improve student learning. The following lists practices I employ almost
+improv[ing] student learning. The following lists [the teaching] practices I employ almost
 universally across all of my courses:
 
-- utilize learning objective mastery rubric-based assessment,
+- utilize learning objective mastery rubric-based assessment [something is awkward about this sentence. read it out loud],
 - use exam reflection surveys,
 - increase the amount of in-class active learning and decrease in-class
   lecturing,
@@ -148,10 +149,10 @@ lecture-style to one where students learn through in-class computational
 thinking exercises. This funding included the creation of an interactive
 Jupyter based open access textbook_, a set of computational homework,
 developing projects instead of exams, an `educational oriented software
-package`_, and the setup of computational cloud infrastructure (JupyterHub_)
+package`_, and [delete the and?] the setup of computational cloud infrastructure (JupyterHub_)
 for the course and the College of Engineering, and the creation of a training
 workshop for this pedagogy approach. Graduate student Kenneth Lyons and I were
-funded to do this work. We successfully accomplished these goals and have
+funded to do this work [fromt he grant?]. We successfully accomplished these goals and have
 presented the work locally and nationally as invited speakers to SacPy, the UCD
 College of Education Graduate Group, and at JupyterCon 2018.  Kenneth also
 presented `the work`_ for us at SciPy 2018 as an accepted presentation.
@@ -161,15 +162,15 @@ College colleague, Allen Downey, entitled "`Computational Thinking in the
 Engineering Curriculum`_", which we delivered for the first time this past
 January at UC Davis to about 20 faculty and graduate students at the Data
 Science Initiative classroom. Allen also presented a well attended talk
-entitled "`Programming as a Way of Thinking`_". We plan to continue to develop
+entitled "`Programming as a Way of Thinking`_". [why is Allen's accomplishment in here?]We plan to continue to develop
 and teach this workshop at coming conferences and it has been adapted for the
 Olin Summer Institute.
 
-Since I have begun this work I have been asked by half a dozen professors on
-campus to help them with similar instructional needs. For example, Valeria la
+Since I have begun this work I have [received requests from] half a dozen professors on
+campus to [assist/guide] them with similar instructional needs. For example, Valeria la
 Saponara has adopted the Jupyter tool for her composites course. I also applied
 to a $3M NSF IUSE grant with Delmar Larsen of the Chemistry department to add
-Jupyter to the widely LibreTexts_ project. It was rejected with favorable
+Jupyter to the widely LibreTexts_ project. [Although denied, it received] favorable
 reviews and we have plans to resubmit. Lastly, we started a journal entitled
 "`The Journal of Open Source Education`_" to allow educators to publish similar
 style materials which has recently started accepting publications.
@@ -191,10 +192,10 @@ EME 185A/B [Mechanical Systems Design Project]
 Over the past two years of EME 185 I have significantly increased the amount of
 time each team gets direct mentorship from myself and the teaching assistants.
 I have pushed for more TAs per team (decreased to 7 teams per TA from the
-initial 15 teams per TA) and have introduced an increased percentage lead TA
-position. During the Spring quarter the twenty-two teams each met with the
-instructors for 50 minutes each week (up from 25 minutes in 2016). I believe
-this is directly correlated with the students' learning and the resulting
+initial 15 teams per TA [or how about "increased the TA per student ratio from...to..."]) and have introduced an increased percentage lead TA
+position [? a little confusing. Incrase the % time for a lead TA?]. During the Spring quarter the twenty-two [be consistent with number format. ANything above 10 should be numeric I think. 22] teams each met with the
+instructors for 50 minutes each week ([an increase] from 25 minutes in 2016). I believe
+this [change/adjustment] is directly correlated with the [improved nature of/improvements in] students' learning and the resulting
 quality of the students' work.
 
 The teaching assistants and I have developed numerous improvements to the
@@ -215,11 +216,11 @@ materials to support the active learning shift.  Lastly, I've enhanced the
 student peer evaluation process with a combination of CATME_ and custom
 generated reports. In particular, we provide anonymized views of the teams peer
 scores four times throughout the course to help quickly identify struggling
-teams.
+teams.[How has the combo CATME custom generated reports been successful/or improved things?]
 
 I have also worked to improve the project solicitation to gain new industry
 partners and to strengthen continued relationships with established partners.
-We have relationships with Micro-Vu, Buffalo Bicycles, LightRiver Tech,
+We have relationships with [local, national and international sponsors/organizations including:] Micro-Vu, Buffalo Bicycles, LightRiver Tech,
 Chalmers University of Technology, UCD Facilities, EksoBionics, Hegemony Tech,
 UCD ARC, WasteBusters, Wetlands Work, Western Cooling Efficiency Center, UCD
 Med Center, UCD Vet Med, Seeley International's Integrated Comfort, Felt
@@ -227,22 +228,22 @@ Bicycles, Nike Research Lab, ICUEMOTION, Sandia National Labs, InSciTech, LLNL,
 Dillon Engineering, Hill Engineering, and more. I have improved the
 professional presentation of the solicitation through a custom `proposal
 submission website`_ and a curated mailing list of 400+ potential sponsors. I
-collect midterm and final feedback via surveys from the sponsors. Steve
+collect midterm and final feedback via surveys from the sponsors [have these been helpful? maybe say something brief on that]. Steve
 Velinsky and I have recruited 66 projects over the past two years that provided
 approximately $50k of project funding.
 
 After the 2017 course, I went with two students to deploy their water
 sanitation project on the Tonle Sap Lake in Cambodia, which was funded through
-two student awarded Blum Center Grants and a CITRIS Tech for Social Good grant.
+two student awarded Blum Center Grants and a CITRIS Tech for Social Good grant [can you say this got featured on the front of the engineering mag or department webpage?].
 
 Another very exciting element of this course is an exchange and design
 competition I have developed with my collaborators Profs. Petros Abraha and
-Shigemichi Oshima at Meijo University in Nagoya Japan. Over the past two years
+Shigemichi Oshima at Meijo University in Nagoya[,] Japan. Over the past two years
 some 20 Japanese students have visited Davis over three trips and participated
 in Engineering Week and the design showcase. We have held cultural exchange
 lunches and dinners, visited local engineering companies and research labs, and
 the students have competed in the final design competition with our students
-which has been a huge success. This past year I was awarded a $24k `Global
+which has been a huge success [could separate into two sentences. e.g. "the highlight of the exchange was a final design competition between the Meijo and UCD students, which was a huge success"]. This past year I was awarded a $24k `Global
 Affairs Seed Grant`_ and took 12 UCD student to Japan for an unbelievable trip.
 We visited Nobel Prize winning research labs, the Toyota factory and museum,
 and all of the students presented their work to over 80 students and faculty in
@@ -277,12 +278,12 @@ MAE 297 [Graduate Seminar]
 --------------------------
 
 I had a few goals for my offering of MAE 297: 1) increase the diversity
-(industry/academic, gender, age, etc) of the speakers and the topics, 2) bring
+(industry/academic, gender, age, etc[.]) of the speakers and the topics, 2) bring
 as many speakers as possible from outside UCD on the limited budget, and 3)
 initiate a method to share the talks with the world. I developed a `course
 website`_ to highlight the speaker schedule and biographies. I obtained
 permission from most of the speakers to post `their talks`_ publicly to
-YouTube.
+YouTube. [not sure if worth time and space but would it be benefitial to explain why the external speakers and public sharing of course materials would be beneficial?]
 
 .. _course website: https://moorepants.github.io/mae297/
 .. _their talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
@@ -304,7 +305,7 @@ in Kenya funded through a Blum Center Grant and collaborating with the
 non-profit World Bicycle Relief. I mentored 5 teaching assistants in the above
 described courses. I have also mentored 3 post graduate and 11 undergraduate
 researchers on various projects. One of the post graduates, Scott Kresie, wrote
-a conference paper and presented at ICSC 2017. Lastly, I mentored two students
+a conference paper and presented at ICSC 2017. Lastly, I mentored two [extracurricular?] students
 teams. The Solar Boat Team took 2nd place at both the 2017 and 2018
 competitions, has secured external funding close to $10k, and has grown to a
 20+ member, popular team. The Quadriplegic Friendly Tricycle Team raised over
@@ -365,12 +366,12 @@ host of the `2017 International Cycling Safety Conference`_. With Deb Niemeier,
 Mont Hubbard, and Susan Handy as co-organizers we brought over 170
 international visitors in for the conference. We partnered with the UCD
 National Center for Sustainable Transportation, the City of Davis, multiple
-bicycle companies, and local advocacy groups to pull it off. This resulted in
+bicycle companies, and local advocacy groups. This resulted in
 over 90 peer reviewed short papers, 60 presentations, 30 posters, and 2
 workshops and the best work of the conference will be published in a special
 issue of the Journal of Safety Research due out in about a month. Additionally,
 the keynotes highlighted a long standing detriment to bicycle safety that is
-socially accepted in policy decisions but has not scientific backing to support
+socially accepted in policy decisions but has no scientific backing to support
 it. This resulted in a number of media pieces on the topic (Capitol Public
 Radio, Government Technology, etc.).
 
@@ -380,7 +381,7 @@ Grants
 I or students I mentored were awarded or co-awarded 10 different grants during
 this period totaling just over $160k. I was rejected on two $3M large
 collaborative grants to the NSF (SI2-SSI and IUSE), but received favorable
-reviews and plan to resubmit the proposals. The following lists the awarded
+reviews and plan to resubmit the proposals [you already mentioned this? is it worth saying twice you were rejected?]. The following lists the awarded
 grants:
 
 - [$22k, PI] UCD Center for Educational Effectiveness Undergraduate
@@ -429,7 +430,7 @@ University and Public Service
 University and public service amounts to approximately 10% of my work. This
 work can include committee work, leadership, community service, contributions
 to student welfare, professional outreach, and communications to the public. I
-have played a service roll in several internal initiatives and also extended my
+have played a service rol[e] in several internal initiatives and also extended my
 services to the public through talks, interviews, and workshops.
 
 Internal Service
@@ -442,17 +443,16 @@ review. I created and presented a talk for decision day and was the Master of
 Ceremony for the MAE Master's students at the 2018 commencement. I also sadly
 had to deal with two deaths this past year. The Quadriplegic Friendly Tricycle
 Team's sponsor, Greg Tanner, passed away after a long battle with ALS. I
-accompanied four of the team members to Greg's funeral and spent time. And as
-you all know, undergraduate Joseph Goodwin, passed away just weeks before
-graduation. I worked with a lot of the affected students to put together a
-memorial gathering for them and him. I believe this was helpful for the
+accompanied four of the team members to Greg's funeral and spent time [doing what?]. [As you are all aware], undergraduate Joseph Goodwin, passed away just weeks before
+graduation. I worked with [many] of the students [who were affected by this tragic event] to [organize] a
+memorial gathering for [Joseph]. I believe this [emotional support] was helpful for the
 students' grieving and contributed to their welfare.
 
 External Service
 ----------------
 
 I also engaged with the public in a number of ways this review period. I spoke
-at visit of Laguna High School students organized by Barbara Linke for her NSF
+[to a visiting group of Laguna High School Students] organized by Barbara Linke for her NSF
 funded course and spoke at the Sacramento Python Users Group (SacPy) about my
 educational efforts that utilized the Python programming language. I was
 interviewed several times about the ICSC 2017 conference for NPR and other news
