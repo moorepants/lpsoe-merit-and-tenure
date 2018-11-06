@@ -24,10 +24,10 @@ Teaching and Learning
   Meijo University in Nagoya, Japan including a visit of 12 UCD students to
   Japan that complimented 20+ Japanese students visiting the USA.
 - Co-taught a workshop with international expert, Allen Downey, on
-  "Computational Thinking in the Engineering Curriculum" for UCD educators
-  along with 6 other workshops.
+  "Computational Thinking in the Engineering Curriculum" for UCD educators.
 - Invited to lead round table at UCD assessment symposium.
-- Gave invited talk to UCD Education Department.
+- Gave invited talk to UCD Education Department on "Computational Thinking" as
+  a pedagogical approach.
 
 Professional Achievements and Activities
 ----------------------------------------
@@ -36,16 +36,17 @@ Professional Achievements and Activities
   PeerJ article in 2017 and already has more than 100 citations.
 - Lead organizer of the `2017 International Cycling Safety Conference`_, Davis,
   CA Sept. 20-23 2017. Attracted 170+ international attendees, attracted local
-  press coverage, and two conference papers from my group were presented.
+  and national press coverage, and two conference papers from my group were
+  presented.
 - Published a `journal article in JOSS`_ on trajectory optimization and
   parameter identification with direct collocation.
-- Awarded grants totaling $160k for a variety of research and educational
+- Co-awarded grants totaling $160k for a variety of research and educational
   projects.
 - Served on organizing and scientific committee of the 2016 Bicycle and
   Motorcycle Dynamics conference and presented a `paper on optimal vehicle
   design`_.
-- Gave invited lecture on my research to Meijo University's Engineering
-  Department.
+- Gave invited lecture on bicycle dynamics and control research to Meijo
+  University's Engineering Department.
 
 .. _journal article on SymPy: https://doi.org/10.7717/peerj-cs.103
 .. _journal article in JOSS: https://doi.org/10.21105/joss.00300
@@ -59,7 +60,7 @@ University and Public Service
 - Gave a talk at the Sacramento Python Users Group.
 - Taught or facilitated 7 workshops that benefited the university and the
   public.
-- Developed and maintained numerous open source software packages for public
+- Co-developed and co-maintained 12 open source software packages for public
   use.
 
 Introduction
@@ -72,19 +73,19 @@ Achievements and Activities*, and *University and Public Service*. For the time
 period of **July 1, 2016 to June 30, 2018**, I detail below the activities that
 have contributed to each of the above three topics. I have included many
 hyperlinks to the results of my work in the writing. Please follow them if you
-have further interest.
+have further interest in my work.
 
-I am requesting a 1.5X merit due believing I have exceeded the minimum
-standards for both "Teaching and Learning" and "Professional Achievements and
-Activities".
+I am requesting a 1.5X merit because I believe I have excelled at the standards
+for both "Teaching and Learning" and "Professional Achievements and Activities"
+in these ways:
 
 Teaching and Learning
-   I have taught 130% more units than has been outlined for the LPSOE track
-   over that past two years and have went above and beyond to innovate the
-   courses I have taught.
+   I have taught 130% more units than has been recommended for the LPSOE
+   faculty over that past two years and have went above and beyond to innovate
+   in all of the courses I have taught.
 Professional Achievements and Activities
    I have published 2 journal articles, 3 conference papers, hosted a very
-   successful research conference in my field of work, and presented my work
+   successful research conference in my field, and presented my work
    extensively along with carrying enough funding to support 22 students.
 
 .. _UCD APM 285: https://aadocs.ucdavis.edu/policies/apm/ucd-285.pdf
@@ -93,7 +94,7 @@ Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. Over the
-past two years I taught thirteen UCD courses (three of which were new course
+past two years I taught thirteen UCD courses [#]_ (three of which were new course
 preparations for me while one was a complete course redesign): `ENG 122`_
 (Introduction to Vibrations) Fall 2016 & 2017, `EME 150A`_ (Mechanical Design)
 Fall 2017, two sections of `EME 185A/B`_ (Mechanical Systems Design Project)
@@ -102,6 +103,9 @@ Winter/Spring 2017 & 2018, `MAE 223`_ (Multibody Dynamics) Fall 2017, and `MAE
 assignment is higher than the recommended 4-5 courses (i.e. 1.5X research
 faculty assignment) for L(P)SOE's by the prior vice provost and the Dean of the
 College of Engineering.
+
+.. [#] I taught five additional courses during the appraisal period:
+   EME |_| 150A and two sections each of EME |_| 185 A/B.
 
 .. _ENG 122: http://moorepants.github.io/eng122
 .. _EME 150A: http://moorepants.github.io/eme150a
@@ -113,17 +117,19 @@ Evidence Backed Educational Practices
 -------------------------------------
 
 I have put considerable effort into incorporating research backed educational
-practices into my courses as part of my classroom innovations long-term goal.
-My goal is to clearly define student learning in each course and focus on
-improving student learning with respect to that definition. The following lists
-the teaching practices I employ almost universally across all of my courses:
+practices into my courses as part of my long-term goal to innovate in the
+classroom. I attempt to clearly define student learning in each course and
+focus on improving student learning with respect to that definition. The
+following lists the teaching practices I employ almost universally across all
+of my courses:
 
 - utilize rubrics designed to assess learning objective mastery,
 - use exam reflection surveys,
 - increase the amount of in-class active learning and decrease in-class
   lecturing,
 - collect (at least) weekly feedback from the students and respond to this via
-  extra in-class content, extra videos and/or written notes,
+  extra in-class content, extra videos, and/or written notes,
+- heavy use of Canvas and its various features for improving learning,
 - post all notes, videos, assignments, etc. publicly on a comprehensive
   website, and
 - release the vast majority of my teaching materials as open educational
@@ -139,7 +145,7 @@ blogpost`_, in addition to the Unitrans maintenance facility visit. The
 students gave lightning talks about their group projects and we further
 developed a set of rubrics for grading the project memos, reports, and
 presentations. This project has been adapted by Prof. Jiancheng Liu at the
-University of Pacific Stockton. As a side project, I have mentored two Google
+University of Pacific, Stockton. As a side project, I have mentored two Google
 Summer of Code students in the development of a `2D Beam Bending software
 package`_ for future computational learning modules for the course.
 
@@ -153,23 +159,26 @@ ENG 122 [Introduction to Mechanical Vibrations]
 I taught this course twice during the period. In the first offering, I
 developed a weekly one hour in-class computational learning module providing 40
 hours of active learning through live coding and a series of Jupyter_
-notebooks. After the first offering, I developed `a proposal`_ to the UCD
-Center for Educational Effectiveness for a grant and was awarded $22k to
-transform ENG 122 from lecture-style to one where students learn through
-in-class computational thinking exercises. This funding included the creation
-of an interactive Jupyter based open access textbook_, a set of computational
-homework, developing projects instead of exams, an `educational oriented
-software package`_, the setup of computational cloud infrastructure
+notebooks. Jupyter is a tool for weaving traditional textbook content with code
+and interactive web-based content. After the first offering, I developed `a
+proposal`_ to the UCD Center for Educational Effectiveness for a grant and was
+awarded $22k to transform ENG 122 from lecture-style to one where students
+learn through in-class computational thinking exercises. This funding included
+the creation of an interactive Jupyter based open access textbook_, a set of
+computational homework, developing projects instead of exams, an `educational
+oriented software package`_, the setup of computational cloud infrastructure
 (JupyterHub_) for the course and the College of Engineering, and the creation
-of a training workshop for this pedagogy approach. Graduate student Kenneth
-Lyons and I were funded by the grant to do this work. We successfully
-accomplished these goals and have presented the work locally and nationally as
-invited speakers to SacPy (a local industry oriented users group for the Python
-programming language), the UCD College of Education Graduate Group, and at
-JupyterCon 2018 (a new conference series created due to the exponential demand
-and wide adoption of the tool for research, industry, and education). Kenneth
-also presented `the work`_ for us at SciPy 2018, the popular conference on
-scientific and engineering computing with Python, as an accepted presentation.
+of a training workshop for this pedagogy approach.
+
+Graduate student Kenneth Lyons and I were funded by the grant to do this work.
+We successfully accomplished these goals and have presented the work locally
+and nationally as invited speakers to SacPy (a local industry oriented users
+group for the Python programming language), the UCD College of Education
+Graduate Group, and at JupyterCon 2018 (a new conference series created due to
+the exponential demand and wide adoption of the tool for research, industry,
+and education). Kenneth also presented `the work`_ for us at SciPy 2018, the
+popular conference on scientific and engineering computing with Python, as an
+accepted presentation.
 
 As mentioned, this work included the development of a workshop with my Olin
 College colleague, Allen Downey, entitled "`Computational Thinking in the
@@ -214,12 +223,17 @@ correlated with the improvements in students' learning and the resulting
 quality of the students' work.
 
 The teaching assistants and I have developed numerous improvements to the
-course. Students struggle with a number of practical engineering skills each
-year and we've come up with a series of learning modules that help address
+course [#]_. Students struggle with a number of practical engineering skills
+each year and we've come up with a series of learning modules that help address
 these: technical report writing, CAD based finite element analysis, 3D
 printing, project management with modern cloud services, an introduction to
 micro-controllers. These are in addition to the design process learning modules
 which I have converted mostly to an active learning pedagogy.
+
+.. [#] During the appraisal period I also developed the new MAE Innovative
+   Design Studio for our design classes. The studio has been used for EME 150A,
+   EME 130A/B, and EME 185A/B for the last three years. I also visited Olin
+   College's capstone design day to survey their program methodology.
 
 We have developed a 15 page `instructor guide`_ for the course that provides
 week-by-week tasks for all of the involved instructors. We have improved the
@@ -250,7 +264,11 @@ submission website`_ and a curated mailing list of 400+ potential sponsors. I
 collect midterm and final feedback via surveys from the sponsors and used these
 to improve communication among the sponsors, teams, and instructors. Steve
 Velinsky and I have recruited 66 projects over the past two years that provided
-approximately $50k of project funding.
+approximately $50k of project funding [#]_.
+
+.. [#] During the appraisal period I additionally solicited 45 proposals,
+   advised 33 projects, with $52k worth of funded prototypes for
+   EME |_| 185A/B.
 
 After the 2017 course, I went with two students to deploy their water
 sanitation project on the Tonle Sap Lake in Cambodia, which was funded through
@@ -263,7 +281,7 @@ Shigemichi Oshima at Meijo University in Nagoya, Japan. Over the past two
 years, some 20 Japanese students have visited Davis over three trips and
 participated in Engineering Week and the CoE design showcase. We have held
 cultural exchange lunches and dinners and visited local engineering companies
-and research labs.  the highlight of the exchange have been the two final
+and research labs. The highlight of the exchange have been the two final
 design competitions between the Meijo and UCD students, which was a huge
 success in terms of learning and cultural exchange. Due to these efforts, this
 past year I was awarded a $24k `Global Affairs Seed Grant`_ and took 12 UCD
@@ -293,8 +311,8 @@ this course) that I co-developed and maintain called PyDy_. This resulted in
 about `20 Jupyter notebooks`_ that I plan to turn into a companion interactive
 text as the years progress. I also managed to develop two new lectures to
 provide students an introduction to trajectory optimization of dynamic systems.
-Additionally, I made all of the `lecture videos`_ available on YouTube for
-public consumption and already have several hundred views.
+Lastly, I made all of the `lecture videos`_ available on YouTube for public
+consumption and already have several hundred views.
 
 .. _PyDy: http://www.pydy.org
 .. _20 Jupyter notebooks: https://moorepants.github.io/mae223/pages/schedule.html
@@ -306,20 +324,27 @@ MAE 297 [Graduate Seminar]
 I had a few goals for my offering of MAE 297: 1) increase the diversity
 (industry/academic, gender, age, etc.) of the speakers and the topics, 2) bring
 as many speakers as possible from outside UCD on the limited budget, and 3)
-initiate a method to share the talks with the world. I developed a `course
-website`_ to highlight the speaker schedule, biographies, and videos. I
-obtained permission from most of the speakers to post `their talks`_ publicly
-to YouTube.
+initiate a method to share the talks with the world. I believe I succeeded in
+at all the goals. The speaker schedule, biographies, and videos can be viewed
+on the `course website`_ I developed. Most of the `speakers' talks`_ were
+posted publicly to YouTube.
 
 .. _course website: https://moorepants.github.io/mae297/
-.. _their talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
+.. _speakers' talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
 
 Guest lectures
 --------------
 
-I gave guest lectures in EME 1 (Kong) on Bicycle Dynamics and Control, MAE 223
-(Eke) on Kane's Method with PyDy, TTP 298A (Kornbluth) on Human Powered
-Machines, and scored final poster presentations in ENG 3 (Vander Gheynst).
+I gave guest lectures in EME |_| 1 (Kong) on Bicycle Dynamics and Control,
+MAE |_| 223 (Eke) on Kane's Method with PyDy, TTP |_| 298A (Kornbluth) on Human
+Powered Machines, and scored final poster presentations in ENG 3 (Vander
+Gheynst).
+
+.. [#] Additional guest lectures during the appraisal period:
+
+   - Prof. |_| Eke's 2016 multibody dynamics graduate course (MAE |_| 223)
+   - Prof. Lin's 2016 computer science senior design course (ECS |_| 193)
+   - Dr. |_| Kornbluth's 2016 design for development course (TTP |_| 298A)
 
 Mentoring
 ---------
@@ -329,7 +354,7 @@ as an MSc committee member, 1 as a GSR advisor, and 1 as Google Summer of Code
 mentor). My primary advisee, Abe McKay, completed `his MSc`_, doing field work
 in Kenya funded through a Blum Center Grant and collaborating with the
 non-profit World Bicycle Relief. I mentored 5 teaching assistants in the above
-described courses. I have also mentored 3 post graduate and 11 undergraduate
+described courses. I have also mentored 3 post graduate and 11 undergraduate [#]_
 researchers on various projects. One of the post graduates, Scott Kresie, wrote
 a conference paper and presented at ICSC 2017. Lastly, I mentored two
 extracurricular student teams. The Solar Boat Team took 2nd place at both the
@@ -338,28 +363,33 @@ grown to a 20+ member, popular team. The Quadriplegic Friendly Tricycle Team
 raised over $18k and completed their `tricycle design`_. Both of these teams
 have supported projects for EME 185.
 
+.. [#] I mentored 3 additional undergraduates during the appraisal period: 1
+   UCD and 2 GSoC.
+
 .. _his MSc: https://doi.org/10.6084/m9.figshare.c.4114595.v1
 .. _tricycle design: https://objects-us-east-1.dream.io/mechmotum/quad-friendly-trike.png
 
 Workshops
 ---------
 
-I developed, taught, and/or facilitated 7 workshops during the review period.
-Internally, I co-taught a `workshop introducing the programming language R`_ to
-campus LPSOEs for the purposes of scholarly teaching and learning research,
-developed and taught the computational thinking workshop described above, and
-facilitated a workshop by international visitor Carlos Marroquin (Guatemala) on
-the design of appropriate technology in collaboration with D-Lab. Externally, I
-developed and co-taught two workshops at SciPy: `Simulating Robot, Vehicle,
-Spacecraft, and Animal Motion with Python`_ and `Automatic Code Generation with
-SymPy`_, and co-taught a `Software Carpentry workshop`_ for the California Delta
-Stewardship Council, Department of Water Resources, and the EPA on "An
-Introducing Data Science with R".
+I developed, taught, and/or facilitated 7 workshops during the review period
+[#]_. Internally, I co-taught a `workshop introducing the programming language
+R`_ to campus LPSOEs for the purposes of scholarly teaching and learning
+research, developed and taught the computational thinking workshop described
+above, and facilitated a workshop by international visitor Carlos Marroquin
+(Guatemala) on the design of appropriate technology in collaboration with the
+UC Davis D-Lab.  Externally, I developed and co-taught two workshops at SciPy:
+`Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python`_ and
+`Automatic Code Generation with SymPy`_, and co-taught a `Software Carpentry
+workshop`_ for the California Delta Stewardship Council, Department of Water
+Resources, and the EPA on "An Introducing Data Science with R".
 
 .. _workshop introducing the programming language R: https://moorepants.github.io/2016-08-25-ucdlpsoe/
 .. _Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python: https://youtu.be/r4piIKV4sDw
 .. _Automatic Code Generation with Sympy: https://www.sympy.org/scipy-2017-codegen-tutorial/
 .. _Software Carpentry Workshop: http://www.ashander.info/2017-05-18-sac-water-science-r-workshop/
+
+.. [#] I taught 1 additonal workshop in the appraisal period.
 
 Professional Achievements and Activities
 ========================================
@@ -376,16 +406,17 @@ I am quite happy to have co-authored a paper on version 1.0 of the computer
 aided algebra system SymPy_, which I have been a core developer of for the past
 decade, in PeerJ Computational Sciences. In just over a year we already have
 110+ citations and it was named as the top cited paper in all of PeerJ's
-publications for 2017. I also published a paper in the Journal of Open Source
-Software on a software package I developed that allows a user to solve optimal
-control and parameter identification problems with direct collocation. It
-describes a method to simply specify the high level mathematical form of the
-problem and, once specified, automatic code generation takes care of creating
-efficient algorithms in compiled C code to solve the underlying non-linear
-programming problem. I published three conference proceedings papers and also
-have the rough draft of an interactive textbook for ENG 122, as mentioned
-above. Note that I attempt to strictly publish in Open Access avenues, as an
-ethical imperative.
+publications for 2017. I make use of this software package for teaching in both
+ENG |_| 122 and MAE |_| 223 as well as research. I also published a paper in
+the Journal of Open Source Software on a software package I developed that
+allows a user to solve optimal control and parameter identification problems
+with direct collocation. It describes a method to simply specify the high level
+mathematical form of the problem and, once specified, automatic code generation
+takes care of creating efficient algorithms in compiled C code to solve the
+underlying non-linear programming problem. I published three conference
+proceedings papers and also have the rough draft of an interactive textbook for
+ENG 122, as mentioned above. Note that I attempt to strictly publish in Open
+Access venues, as an ethical imperative.
 
 .. _SymPy: http://sympy.org
 
@@ -396,11 +427,11 @@ The second highlight of the past two years was being the lead organizer and
 host of the `2017 International Cycling Safety Conference`_, an annual
 specialized conference that brings together cross disciplinary researchers from
 engineering, urban planning, policy, and transportation studies to discuss
-bicycling safety. Davis, CA and we were chosen by the steering committee to
-host the first offering outside of Europe. With Deb Niemeier (Civil and
-Environmental Engineering), Mont Hubbard (Mech. and Aero.  Engineering), and
-Susan Handy (Environmental Science and Policy) as co-organizers we brought over
-170 international visitors in for the conference. We partnered with the UCD
+bicycling safety. Davis, CA was chosen by the steering committee to host the
+first offering outside of Europe. With Deb Niemeier (Civil and Environmental
+Engineering), Mont Hubbard (Mech. and Aero.  Engineering), and Susan Handy
+(Environmental Science and Policy) as co-organizers we brought over 170
+international visitors in for the conference. We partnered with the UCD
 National Center for Sustainable Transportation, the City of Davis, multiple
 bicycle companies, and local advocacy groups. This resulted in over 90 peer
 reviewed short papers, 60 presentations, 30 posters, and 2 workshops and the
@@ -414,8 +445,8 @@ Radio, Government Technology, etc.).
 Grants
 ------
 
-I or students I mentored were awarded or co-awarded 10 different grants during
-this period totaling just over $160k. I was rejected on two $3M large
+I or students I mentored was awarded or co-awarded 10 different grants during
+this period totaling just over $160k [#]_. I was rejected on two $3M large
 collaborative grants to the NSF (SI2-SSI and IUSE), but received favorable
 reviews and plan to resubmit the proposals. The following lists the awarded
 grants:
@@ -427,8 +458,6 @@ grants:
 - [$24k, PI] UCD Global Affairs Seed Grant: "Influence of Culture on Mechanical
   Design: A Proposal For an Undergraduate Exchange and Design Competition
   Between Japanese and American Students"
-- [$3.3k, PI] CITRIS Tech for Social Good: "Quadriplegic Friendly Tricycle",
-  submitted by the undergraduate team
 - [$775, PI] CITRIS Tech for Social Good: Cambodia Washing Station, submitted
   by Purva Juvekar and Samira Iqbal
 - [$58.5k, CO-PI] 2017 Google Summer of Code: Mentoring Organization SymPy
@@ -450,25 +479,42 @@ and the denied proposals:
   through Expansion and Training in Digital Interfaces to Enhance Science
   Education across the Nation [Delmar Larsen (UCD Chemistry), et. al]
 
+.. [#] Additional grants totalling $73k for the appraisal period:
+
+   - [$3.3k, PI] CITRIS Tech for Social Good: "Quadriplegic Friendly Tricycle",
+     submitted by undergraduates Aaron Shaw and Andy Wu.
+   - [$6k]  Blum Center Poverty Alleviation through Action: "Septic System
+     System in the Floating Villages of Cambodia", submitted by undergraudates
+     Joanne Wu, Rachel Muradian, and Yao Guan.
+   - [$64k, CO-PI] 2016 Google Summer of Code: Mentoring Organization SymPy
+
 Conferences
 -----------
 
-I participated in 7 conferences with various levels of involvement:
+I participated in 7 conferences with various levels of involvement [#]_:
 
+- `2016 SciPy`_ [attended, taught workshop, reviewed tutorial submissions]
 - `2016 Bicycle and Motorcycle Dynamics Conference`_ [attended, presented,
-  co-wrote a conference paper, served on organizing and scientific committee,
+  co-wrote a conference paper, served on organizing and scientific committees,
   reviewed abstracts]
 - 2016 & 2017 UCD Scholarship of Teaching and Learning [attended]
 - `2017 SciPy`_ [attended, taught workshop, reviewed tutorial submissions]
 - `2017 International Cycling Safety Conference`_ [lead organizer, attended,
   co-authored two conference papers, student and collaborator presented]
 - 2018 UCD Assessment Symposium [attended, lead round table]
-- `2018 SciPy`_ [student presented on my behalf]
 
+.. _2016 SciPy: https://scipy2016.scipy.org
 .. _2016 Bicycle and Motorcycle Dynamics Conference: http://www.bmd2016mke.org/
 .. _2017 SciPy: https://scipy2017.scipy.org
 .. _2017 International Cycling Safety Conference: https://icsc2017.ucdavis.edu
-.. _2018 SciPy: https://scipy2018.scipy.org
+
+.. [#] Additional conference activity for the appraisal period:
+
+   - SciPy 2015 [attended, presented research talk, taught workshop, reviewed
+     submissions]
+   - First Year Engineering Education 2015 [attended]
+   - International Society of Biomechancis Technical Group on Computer
+     Simulation 2015 [developed talk and demo, wrote abstract]
 
 University and Public Service
 =============================
@@ -497,12 +543,17 @@ organize a memorial gathering for Joseph. I believe this emotional support was
 helpful for the students' grieving and contributed to their welfare. Many of
 the students have thanked me for leading this.
 
+.. [#] Additional internal service items for the appraisal period:
+
+   - Met with MAE and ECE faculty candidates and provided feedback to the
+     search committees.
+
 External Service
 ----------------
 
-I also engaged with the public in a number of ways this review period. I spoke
-to a visiting group of Laguna High School Students organized by Barbara Linke
-for her NSF funded course and spoke at the Sacramento Python Users Group
+I also engaged with the public in a number of ways this review period [#]_. I
+spoke to a visiting group of Laguna High School Students organized by Barbara
+Linke for her NSF funded course and spoke at the Sacramento Python Users Group
 (SacPy) about my educational efforts that utilized the Python programming
 language. I was interviewed several times about the ICSC 2017 conference for
 NPR and other news outlets, as mentioned above. `The Huffington Post`_ and `The
@@ -512,10 +563,18 @@ TechnipFMC and DMG Mori last spring to further build our relationships with
 them. Lastly, the workshops at SciPy 2017, SciPy 2017, and the workshop for the
 Delta Stewardship Council, Department of Water Resources, and the California
 EPA provided non-academics with modern computational skills. My extensive
-contributions to open source software also provide substantial public benefit.
+contributions to open source software, particularly with the SymPy and PyDy
+projects, also provide substantial public benefit.
 
 .. _The Huffington Post: http://www.moorepants.info/blog/nsf-congress.html
 .. _The New York Times: https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html
+
+.. [#] Additional external service items for the appraisal period:
+
+   - Inteviewed by Nature for an article on bicycle dynamics.
+   - Led workshop on computer skills in a remote village in Kenya.
+   - Taught Software Carpentry workshop at iHub Nairobi, Kenya.
+   - Maintain a professional blog and submit blogposts to the EELC.
 
 Acknowledgements
 ================
