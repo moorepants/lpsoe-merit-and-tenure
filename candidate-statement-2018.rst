@@ -327,7 +327,9 @@ as many speakers as possible from outside UCD on the limited budget, and 3)
 initiate a method to share the talks with the world. I believe I succeeded in
 at all the goals. The speaker schedule, biographies, and videos can be viewed
 on the `course website`_ I developed. Most of the `speakers' talks`_ were
-posted publicly to YouTube.
+posted publicly to YouTube. One of the speakers, Prof. Devin Berg, adopted the
+format with the website and videos for their new seminar series at the
+University of Wisconsin-Stout.
 
 .. _course website: https://moorepants.github.io/mae297/
 .. _speakers' talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi

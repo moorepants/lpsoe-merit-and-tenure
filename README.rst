@@ -6,6 +6,13 @@ I'm releasing this information to be as open and transparent as possible about
 the tenure process so that it can hopefully help others in similar positions.
 I'm also happy to get any feedback.
 
+Results
+
+July 1, 2015 to July 2, 2016
+   1X merit received.
+July 1, 2016 to July 2, 2018
+   In progress.
+
 Merit and Tenure Materials (c) by Jason K. Moore
 
 Merit and Tenure Materials is licensed under a Creative Commons Attribution 4.0
