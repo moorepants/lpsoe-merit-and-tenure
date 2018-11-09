@@ -240,21 +240,36 @@ Proposals
 
 Awarded [10]
 
-- [x] CEE $22k
-- [x] Meijo Global Affairs $24k (a)
-- [x] Abe's Blum Grant (b)
-- [x] Two Undergrad Blum (Purva/Samira) (b)
-- [x] 2017 SymPy GSoC $58.5k
-- [x] 2018 SymPy GSoC $45.5k
-- [x] CITRIS ALS Trike $3250 June 2016
-- [x] CITRIS Cambodia Washing Station $775 April 2017
-- [x] Handy COSMOS (a)
+- [x] $22,188, July 2017-April 2018, Sole PI, "Development of an interactive
+  Textbook Backed by Cloud Infrastructure to Pilot Active Computational
+  Learning in an Upper Level Mechanical Engineering Course", UCD Center for
+  Educational Effectiveness (a)
+- [x] $24,000, February 2018-January 2020, Sole PI, "Influence of Culture on
+  Mechanical Design: A Proposal For an Undergraduate Exchange and Design
+  Competition Between Japanese and American Students", UCD Global Affairs (a)
+- [x] $3,250, June 2016-May 2017, Sole PI, Student submitted, "The
+  Quadriplegia-Friendly Bike", CITRIS Tech for Social Good
+- [x] $775, April 2017-September 2017, Sole PI, Student submitted, "Cambodia
+  Hand Washing Station", CITRIS Tech for Social Good
+- [x] $58.5k May 2017-August 2017, Co-PI with SymPy Mentors, "Google Summer of
+  Code Mentoring Organization" (a,b)
+- [x] $45.5k May 2018-August 2018, Co-PI with SymPy Mentors, "Google Summer of
+  Code Mentoring Organization" (a,b)
+- [x] $3,430, June 2017-September 2017, Sole PI of student submitter Abraham
+  McKay, "Bicycle Powered Irrigation Pump", UCD Blum Center Application for
+  Poverty Alleviation through Sustainable Solutions (b)
+- [x] $??, June 2017-September 2017, Sole PI of student submitter Purva Juvekar,
+  "Floating School Hand Washing Station", UCD Blum Center (b)
+- [x] $??, June 2017-September 2017, Sole PI of student submitter Samira Iqbal,
+  "Floating School Hand Washing Station", UCD Blum Center (b)
+- [x] $??, July 2018-August 2018, Co-PI with Susan Handy and others,
+  "Transportation Cluster", UCD COSMOS (a)
 
 Failed [2]
 
-- [x] NSF libretext (a)
+- [x] $3M, NSF libretext (a)
   - Also favorable reviews
-- [x] NSF SSI2: Code generation infastructure
+- [x] $3M, NSF SSI2: Code generation infrastructure
   - Rejected with very favorable reviews, planning to resubmit
 
 Editor
