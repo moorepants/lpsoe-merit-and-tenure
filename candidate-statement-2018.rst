@@ -559,13 +559,3 @@ provide substantial public benefit.
    skills in a remote village in Kenya., Taught Software Carpentry workshop at
    iHub Nairobi, Kenya., Maintain a professional blog and submit blogposts to
    the EELC.
-
-Acknowledgements
-================
-
-I know this document is supposed to be about my accomplishments but I think it
-is important to note the people that contributed to the success of the above
-mentioned activities. Thanks to my amazing 22 mentees for all of their hard
-work and support, the MAE staff for handling my idiosyncrasies and being very
-helpful on getting things done, to all my collaborators, and to my mentors and
-supporters.
