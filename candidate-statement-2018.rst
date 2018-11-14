@@ -324,7 +324,7 @@ as many speakers as possible from outside UCD on the limited budget, and 3)
 initiate a method to share the talks with the world. The speaker schedule,
 biographies, and videos can be viewed on the `course website`_. Most of the
 `speakers' talks`_ were posted publicly to YouTube and one of the speakers,
-Prof.  Devin Berg, adopted the format with the website and videos for his new
+Prof. Devin Berg, adopted the format with the website and videos for his new
 seminar series at the University of Wisconsin-Stout.
 
 .. _course website: https://moorepants.github.io/mae297/
@@ -347,9 +347,9 @@ as an MSc committee member, 1 as a GSR advisor, and 1 as Google Summer of Code
 mentor). My primary advisee, Abe McKay, completed `his MSc`_, doing field work
 in Kenya funded through a Blum Center Grant and collaborating with the
 non-profit World Bicycle Relief. I mentored 5 teaching assistants in the above
-described courses. I have also mentored 3 post graduate and 11 undergraduate [#]_
-researchers on various projects. One of the post graduates, Scott Kresie, wrote
-a conference paper and presented at ICSC 2017. Lastly, I mentored two
+described courses. I have also mentored 3 post graduate and 11 undergraduate
+[#]_ researchers on various projects. One of the post graduates, Scott Kresie,
+wrote a conference paper and presented at ICSC 2017. Lastly, I mentored two
 extracurricular student teams. The Solar Boat Team took 2nd place at both the
 2017 and 2018 competitions, has secured external funding close to $10k, and has
 grown to a 20+ member, popular team. The Quadriplegic Friendly Tricycle Team
@@ -420,10 +420,12 @@ Engineering), Mont Hubbard (Mech. and Aero. Engineering), and Susan Handy
 (Environmental Science and Policy) as co-organizers we brought over 170
 national and international visitors in for the conference. We partnered with
 the UCD National Center for Sustainable Transportation, the City of Davis,
-multiple bicycle companies, and local advocacy groups. This resulted in over 90
-peer reviewed short papers, 60 presentations, 30 posters, and 2 workshops and
-the best work of the conference will be published in a special issue of the
+multiple bicycle companies, and local advocacy groups. This resulted in over
+`90 peer reviewed short papers`_, 60 presentations, 30 posters, and 2 workshops
+and the best work of the conference will be published in a special issue of the
 Journal of Safety Research.
+
+.. _90 peer reviewed short papers`_: https://icsc2017.figshare.com/
 
 Grants
 ------
