@@ -63,6 +63,10 @@ University and Public Service
 - Co-developed and co-maintained 12 open source software packages for public
   use.
 
+.. raw:: latex
+
+   \newpage
+
 Introduction
 ============
 
@@ -81,12 +85,13 @@ in these ways:
 
 Teaching and Learning
    I have taught 130% more units than has been recommended for the LPSOE
-   faculty over that past two years and have went above and beyond to innovate
+   faculty over the past two years and have went above and beyond to innovate
    in all of the courses I have taught.
 Professional Achievements and Activities
    I have published 2 journal articles, 3 conference papers, hosted a very
    successful research conference in my field, and presented my work
-   extensively along with carrying enough funding to support 22 students.
+   extensively along with carrying enough funding to support 22 students in a
+   variety of projects.
 
 .. _UCD APM 285: https://aadocs.ucdavis.edu/policies/apm/ucd-285.pdf
 
@@ -94,7 +99,7 @@ Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. Over the
-past two years I taught thirteen UCD courses [#]_ (three of which were new course
+past two years, I taught thirteen UCD courses [#]_ (three of which were new course
 preparations for me while one was a complete course redesign): `ENG 122`_
 (Introduction to Vibrations) Fall 2016 & 2017, `EME 150A`_ (Mechanical Design)
 Fall 2017, two sections of `EME 185A/B`_ (Mechanical Systems Design Project)
@@ -124,6 +129,11 @@ following lists the teaching practices I employ almost universally across all
 of my courses:
 
 - utilize rubrics designed to assess learning objective mastery,
+
+  .. raw:: latex
+
+     \itemsep0em
+
 - use exam reflection surveys,
 - increase the amount of in-class active learning and decrease in-class
   lecturing,
@@ -161,11 +171,11 @@ developed a weekly one hour in-class computational learning module providing 40
 hours of active learning through live coding and a series of Jupyter_
 notebooks. Jupyter is a tool for weaving traditional textbook content with code
 and interactive web-based content. After the first offering, I developed `a
-proposal`_ to the UCD Center for Educational Effectiveness for a grant and was
+proposal`_ to the UCD Center for Educational Effectiveness and was
 awarded $22k to transform ENG 122 from lecture-style to one where students
 learn through in-class computational thinking exercises. This funding included
-the creation of an interactive Jupyter based open access textbook_, a set of
-computational homework, developing projects instead of exams, an `educational
+the creation of an interactive open access textbook_, a set of
+computational homeworks, development of a project, an `educational
 oriented software package`_, the setup of computational cloud infrastructure
 (JupyterHub_) for the course and the College of Engineering, and the creation
 of a training workshop for this pedagogy approach.
@@ -213,11 +223,11 @@ teaching materials as developed in my work.
 EME 185A/B [Mechanical Systems Design Project]
 ----------------------------------------------
 
-Over the past two years of EME 185 I have significantly increased the amount of
-time each team gets direct mentorship from myself and the teaching assistants.
-I have pushed for more TAs per team (decreased the ratio of teams to TA from 15
-to 7) and have introduced a lead TA position with an 35% appointment. During
-the Spring quarter, 22 teams each met with the instructors for 50 minutes each
+Over the past two years, I have significantly increased the amount of time each
+team gets direct mentorship from myself and the teaching assistants.  I have
+pushed for more TAs per team (decreased the ratio of teams to TA from 15 to 7)
+and have introduced a lead TA position with an 35% appointment. During the
+Spring quarter, 22 teams each met with the instructors for 50 minutes each
 week, an increase from 25 minutes in 2016. I believe this change is directly
 correlated with the improvements in students' learning and the resulting
 quality of the students' work.
@@ -237,10 +247,10 @@ which I have converted mostly to an active learning pedagogy.
 
 We have developed a 15 page `instructor guide`_ for the course that provides
 week-by-week tasks for all of the involved instructors. We have improved the
-assessment drastically with a comprehensive set of learning objective mastery
+assessments with a comprehensive set of learning objective mastery
 based rubrics for all of the written and oral assignments. These have been
 utilized for Canvas based ABET assessments with support from the CoE (Jennifer
-Quynn) and the CEE (Kara Moloney). This past year we introduced Canvas quizzes
+Quynn) and the CEE (Kara Moloney). This past year, we introduced Canvas quizzes
 for the reading materials to support the active learning shift. Lastly, I've
 enhanced the student peer evaluation process with a combination of CATME_ and
 custom generated reports. In particular, we provide anonymized views of the
@@ -334,22 +344,17 @@ University of Wisconsin-Stout.
 .. _course website: https://moorepants.github.io/mae297/
 .. _speakers' talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
 
-Guest lectures
---------------
+Guest lectures, mentoring, and workshops
+----------------------------------------
 
-I gave guest lectures in EME |_| 1 (Kong) on Bicycle Dynamics and Control,
-MAE |_| 223 (Eke) on Kane's Method with PyDy, TTP |_| 298A (Kornbluth) on Human
-Powered Machines, and scored final poster presentations in ENG 3 (Vander
-Gheynst).
+I gave guest lectures in EME |_| 1 (Kong) on Bicycle Dynamics, MAE |_| 223
+(Eke) on Kane's Method with PyDy, TTP |_| 298A (Kornbluth) on Human Powered
+Machines, and scored poster presentations in ENG 3 (Vander Gheynst).
 
-.. [#] Additional guest lectures during the appraisal period:
-
-   - Prof. |_| Eke's 2016 multibody dynamics graduate course (MAE |_| 223)
-   - Prof. Lin's 2016 computer science senior design course (ECS |_| 193)
-   - Dr. |_| Kornbluth's 2016 design for development course (TTP |_| 298A)
-
-Mentoring
----------
+.. [#] Additional guest lectures during the appraisal period: Prof. |_| Eke's
+   2016 multibody dynamics graduate course (MAE |_| 223), Prof. Lin's 2016
+   computer science senior design course (ECS |_| 193), Dr. |_| Kornbluth's
+   2016 design for development course (TTP |_| 298A)
 
 During this period I mentored 5 graduate students (1 as primary MSc advisor, 2
 as an MSc committee member, 1 as a GSR advisor, and 1 as Google Summer of Code
@@ -370,9 +375,6 @@ have supported projects for EME 185.
 
 .. _his MSc: https://doi.org/10.6084/m9.figshare.c.4114595.v1
 .. _tricycle design: https://objects-us-east-1.dream.io/mechmotum/quad-friendly-trike.png
-
-Workshops
----------
 
 I developed, taught, and/or facilitated 7 workshops during the review period
 [#]_. Internally, I co-taught a `workshop introducing the programming language
@@ -457,6 +459,11 @@ grants:
   Instructional Innovation Program: "Development of an Interactive Textbook
   Backed by Cloud Infrastructure to Pilot Active Computational Learning in an
   Upper Level Mechanical Vibrations Engineering Course"
+
+  .. raw:: latex
+
+     \itemsep0em
+
 - [$24k, PI] UCD Global Affairs Seed Grant: "Influence of Culture on Mechanical
   Design: A Proposal For an Undergraduate Exchange and Design Competition
   Between Japanese and American Students"
@@ -477,18 +484,22 @@ and the denied proposals:
   Scientific Computation Through Optimized Symbolic Code Generation with SymPy
   [Anthony Scopatz (University of South Carolina), Jason K. Moore (UC Davis),
   Zi-Kui Liu (Penn State), and Kyle E. Niemeyer (Oregon State University)]
+
+  .. raw:: latex
+
+     \itemsep0em
+
 - [$3M] Collaborative Research: IUSE: Dissemination of the LibreTexts Libraries
   through Expansion and Training in Digital Interfaces to Enhance Science
   Education across the Nation [Delmar Larsen (UCD Chemistry), et. al]
 
-.. [#] Additional grants totalling $73k for the appraisal period:
-
-   - [$3.3k, PI] CITRIS Tech for Social Good: "Quadriplegic Friendly Tricycle",
-     submitted by undergraduates Aaron Shaw and Andy Wu.
-   - [$6k]  Blum Center Poverty Alleviation through Action: "Septic System
-     System in the Floating Villages of Cambodia", submitted by undergraudates
-     Joanne Wu, Rachel Muradian, and Yao Guan.
-   - [$64k, CO-PI] 2016 Google Summer of Code: Mentoring Organization SymPy
+.. [#] Additional grants totalling $73k for the appraisal period: [$3.3k, PI]
+   CITRIS Tech for Social Good: "Quadriplegic Friendly Tricycle", submitted by
+   undergraduates Aaron Shaw and Andy Wu,  [$6k]  Blum Center Poverty
+   Alleviation through Action: "Septic System System in the Floating Villages
+   of Cambodia", submitted by undergraudates Joanne Wu, Rachel Muradian, and
+   Yao Guan, [$64k, CO-PI] 2016 Google Summer of Code: Mentoring Organization
+   SymPy
 
 Conferences
 -----------
@@ -496,6 +507,11 @@ Conferences
 I participated in 7 conferences with various levels of involvement [#]_:
 
 - `2016 SciPy`_ [attended, taught workshop, reviewed tutorial submissions]
+
+  .. raw:: latex
+
+     \itemsep0em
+
 - `2016 Bicycle and Motorcycle Dynamics Conference`_ [attended, presented,
   co-wrote a conference paper, served on organizing and scientific committees,
   reviewed abstracts]
@@ -510,13 +526,11 @@ I participated in 7 conferences with various levels of involvement [#]_:
 .. _2017 SciPy: https://scipy2017.scipy.org
 .. _2017 International Cycling Safety Conference: https://icsc2017.ucdavis.edu
 
-.. [#] Additional conference activity for the appraisal period:
-
-   - SciPy 2015 [attended, presented research talk, taught workshop, reviewed
-     submissions]
-   - First Year Engineering Education 2015 [attended]
-   - International Society of Biomechancis Technical Group on Computer
-     Simulation 2015 [developed talk and demo, wrote abstract]
+.. [#] Additional conference activity for the appraisal period: SciPy 2015
+   [attended, presented research talk, taught workshop, reviewed submissions],
+   First Year Engineering Education 2015 [attended], International Society of
+   Biomechancis Technical Group on Computer Simulation 2015 [developed talk and
+   demo, wrote abstract]
 
 University and Public Service
 =============================
@@ -571,12 +585,11 @@ projects, also provide substantial public benefit.
 .. _The Huffington Post: http://www.moorepants.info/blog/nsf-congress.html
 .. _The New York Times: https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html
 
-.. [#] Additional external service items for the appraisal period:
-
-   - Inteviewed by Nature for an article on bicycle dynamics.
-   - Led workshop on computer skills in a remote village in Kenya.
-   - Taught Software Carpentry workshop at iHub Nairobi, Kenya.
-   - Maintain a professional blog and submit blogposts to the EELC.
+.. [#] Additional external service items for the appraisal period: Inteviewed
+   by Nature for an article on bicycle dynamics.,  Led workshop on computer
+   skills in a remote village in Kenya., Taught Software Carpentry workshop at
+   iHub Nairobi, Kenya., Maintain a professional blog and submit blogposts to
+   the EELC.
 
 Acknowledgements
 ================
