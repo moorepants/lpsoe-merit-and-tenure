@@ -71,13 +71,12 @@ Introduction
 ============
 
 My position, Lecturer With Potential Security of Employment, is expected to
-demonstrate effectiveness and impact in three primary aspects which are
-detailed in the `UCD APM 285`_: *Teaching and Learning*, *Professional
-Achievements and Activities*, and *University and Public Service*. For the time
-period of **July 1, 2016 to June 30, 2018**, I detail below the activities that
-have contributed to each of the above three topics. I am requesting a 1.5X
-merit because I believe I have excelled at the standards for both "Teaching and
-Learning" and "Professional Achievements and Activities" in these ways:
+demonstrate excellence and impact in three primary aspects which are detailed
+in the `UCD APM 285`_: *Teaching and Learning*, *Professional Achievements and
+Activities*, and *University and Public Service*. For the time period of **July
+1, 2016 to June 30, 2018**, I detail below the activities that have contributed
+to each of the above three topics. I am requesting a **1.5X** merit because I
+believe I have excelled at two of the three aspects in these ways:
 
 Teaching and Learning
    I have taught 130% more units than has been recommended for the LPSOE
@@ -122,24 +121,15 @@ practices into my courses as part of my long-term goal to innovate in the
 classroom. I attempt to clearly define student learning in each course and
 focus on improving student learning with respect to that definition. The
 following lists the teaching practices I employ almost universally across all
-of my courses:
-
-- utilize rubrics designed to assess learning objective mastery,
-
-  .. raw:: latex
-
-     \itemsep0em
-
-- use exam reflection surveys,
-- increase the amount of in-class active learning and decrease in-class
-  lecturing,
-- collect (at least) weekly feedback from the students and respond to this via
-  extra in-class content, extra videos, and/or written notes,
-- heavy use of Canvas and its various features for improving learning,
-- post all notes, videos, assignments, etc. publicly on a comprehensive
-  website, and
-- release the vast majority of my teaching materials as open educational
-  resources under liberal copyright licenses.
+of my courses: 1) utilize rubrics designed to assess learning objective
+mastery, 2) use exam reflection surveys, 3) increase the amount of in-class
+active learning and decrease in-class lecturing, 4) collect (at least) weekly
+feedback from the students and respond to this via extra in-class content,
+extra videos, and/or written notes, 5) heavy use of Canvas and its various
+features for improving learning, 6) post all notes, videos, assignments, etc.
+publicly on a comprehensive website, and 7) release the vast majority of my
+teaching materials as open educational resources under liberal copyright
+licenses.
 
 EME 150A [Mechanical Design]
 ----------------------------
@@ -328,14 +318,14 @@ consumption and already have over a hundred views.
 MAE 297 [Graduate Seminar]
 --------------------------
 
-I had a few goals for my offering of MAE 297: 1) increase the diversity
+The goals for my offering of MAE 297 were: 1) increase the diversity
 (industry/academic, gender, age, etc.) of the speakers and the topics, 2) bring
 as many speakers as possible from outside UCD on the limited budget, and 3)
 initiate a method to share the talks with the world. The speaker schedule,
-biographies, and videos can be viewed on the `course website`_ I developed.
-Most of the `speakers' talks`_ were posted publicly to YouTube. One of the
-speakers, Prof. Devin Berg, adopted the format with the website and videos for
-their new seminar series at the University of Wisconsin-Stout.
+biographies, and videos can be viewed on the `course website`_. Most of the
+`speakers' talks`_ were posted publicly to YouTube and one of the speakers,
+Prof.  Devin Berg, adopted the format with the website and videos for his new
+seminar series at the University of Wisconsin-Stout.
 
 .. _course website: https://moorepants.github.io/mae297/
 .. _speakers' talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
@@ -433,7 +423,7 @@ the UCD National Center for Sustainable Transportation, the City of Davis,
 multiple bicycle companies, and local advocacy groups. This resulted in over 90
 peer reviewed short papers, 60 presentations, 30 posters, and 2 workshops and
 the best work of the conference will be published in a special issue of the
-Journal of Safety Research due out in about a month.
+Journal of Safety Research.
 
 Grants
 ------
@@ -457,14 +447,14 @@ grants:
   Design: A Proposal For an Undergraduate Exchange and Design Competition
   Between Japanese and American Students"
 - [$775, PI] CITRIS Tech for Social Good: Cambodia Washing Station, submitted
-  by Purva Juvekar and Samira Iqbal
+  by P. Juvekar and S. Iqbal
 - [$58.5k, CO-PI] 2017 Google Summer of Code: Mentoring Organization SymPy
 - [$45.5k, CO-PI] 2018 Google Summer of Code: Mentoring Organization SymPy
 - [$3.4k] Blum Center Poverty Alleviation through Sustainable Solutions:
   "Bicycle Powered Irrigation Pump Design", submitted by Abraham McKay
 - [$4k] Blum Center Poverty Alleviation through Action: "Water Filtration
-  System in the Floating Villages of Cambodia", submitted by Purva Juvekar and
-  Samira Iqbal
+  System in the Floating Villages of Cambodia", submitted by P. Juvekar and S.
+  Iqbal
 - [CO-PI] COSMOS: Transportation Cluster, submitted by Susan Handy
 
 and the denied proposals:
@@ -480,35 +470,28 @@ and the denied proposals:
 
 - [$3M] Collaborative Research: IUSE: Dissemination of the LibreTexts Libraries
   through Expansion and Training in Digital Interfaces to Enhance Science
-  Education across the Nation [Delmar Larsen (UCD Chemistry), et. al]
+  Education across the Nation [Delmar Larsen (UCD Chemistry)]
 
 .. [#] Additional grants totalling $73k for the appraisal period: [$3.3k, PI]
    CITRIS Tech for Social Good: "Quadriplegic Friendly Tricycle", submitted by
-   undergraduates Aaron Shaw and Andy Wu,  [$6k]  Blum Center Poverty
-   Alleviation through Action: "Septic System System in the Floating Villages
-   of Cambodia", submitted by undergraudates Joanne Wu, Rachel Muradian, and
-   Yao Guan, [$64k, CO-PI] 2016 Google Summer of Code: Mentoring Organization
-   SymPy
+   undergraduates A. Shaw and A. Wu, [$6k]  Blum Center Poverty Alleviation
+   through Action: "Septic System System in the Floating Villages of Cambodia",
+   submitted by undergraudates J. Wu, R. Muradian, and Y. Guan, [$64k, CO-PI]
+   2016 Google Summer of Code: Mentoring Organization SymPy
 
 Conferences
 -----------
 
-I participated in 7 conferences with various levels of involvement [#]_:
-
-- `2016 SciPy`_ [attended, taught workshop, reviewed tutorial submissions]
-
-  .. raw:: latex
-
-     \itemsep0em
-
-- `2016 Bicycle and Motorcycle Dynamics Conference`_ [attended, presented,
-  co-wrote a conference paper, served on organizing and scientific committees,
-  reviewed abstracts]
-- 2016 & 2017 UCD Scholarship of Teaching and Learning [attended]
-- `2017 SciPy`_ [attended, taught workshop, reviewed tutorial submissions]
-- `2017 International Cycling Safety Conference`_ [lead organizer, attended,
-  co-authored two conference papers, student and collaborator presented]
-- 2018 UCD Assessment Symposium [attended, lead round table]
+I participated in 7 conferences with various levels of involvement [#]_: 1)
+`2016 SciPy`_ [attended, taught workshop, reviewed tutorial submissions], 2)
+`2016 Bicycle and Motorcycle Dynamics Conference`_ [attended, presented,
+co-wrote a conference paper, served on organizing and scientific committees,
+reviewed abstracts], 3,4) 2016 & 2017 UCD Scholarship of Teaching and Learning
+[attended], 5) `2017 SciPy`_ [attended, taught workshop, reviewed tutorial
+submissions], 6) `2017 International Cycling Safety Conference`_ [lead
+organizer, attended, co-authored two conference papers, student and
+collaborator presented], 7) 2018 UCD Assessment Symposium [attended, lead round
+table].
 
 .. _2016 SciPy: https://scipy2016.scipy.org
 .. _2016 Bicycle and Motorcycle Dynamics Conference: http://www.bmd2016mke.org/
@@ -547,11 +530,6 @@ worked with many of the students who were affected by this tragic event to
 organize a memorial gathering for Joseph. I believe this emotional support was
 helpful for the students' grieving and contributed to their welfare. Many of
 the students have thanked me for leading this.
-
-.. [#] Additional internal service items for the appraisal period:
-
-   - Met with MAE and ECE faculty candidates and provided feedback to the
-     search committees.
 
 External Service
 ----------------
