@@ -75,13 +75,9 @@ demonstrate effectiveness and impact in three primary aspects which are
 detailed in the `UCD APM 285`_: *Teaching and Learning*, *Professional
 Achievements and Activities*, and *University and Public Service*. For the time
 period of **July 1, 2016 to June 30, 2018**, I detail below the activities that
-have contributed to each of the above three topics. I have included many
-hyperlinks to the results of my work in the writing. Please follow them if you
-have further interest in my work.
-
-I am requesting a 1.5X merit because I believe I have excelled at the standards
-for both "Teaching and Learning" and "Professional Achievements and Activities"
-in these ways:
+have contributed to each of the above three topics. I am requesting a 1.5X
+merit because I believe I have excelled at the standards for both "Teaching and
+Learning" and "Professional Achievements and Activities" in these ways:
 
 Teaching and Learning
    I have taught 130% more units than has been recommended for the LPSOE
@@ -99,8 +95,8 @@ Teaching and Learning
 =====================
 
 Teaching and learning constitutes approximately 60% to 70% of my job. Over the
-past two years, I taught thirteen UCD courses [#]_ (three of which were new course
-preparations for me while one was a complete course redesign): `ENG 122`_
+past two years, I taught thirteen UCD courses [#]_ (three of which were new
+course preparations while one was a complete course redesign): `ENG 122`_
 (Introduction to Vibrations) Fall 2016 & 2017, `EME 150A`_ (Mechanical Design)
 Fall 2017, two sections of `EME 185A/B`_ (Mechanical Systems Design Project)
 Winter/Spring 2017 & 2018, `MAE 223`_ (Multibody Dynamics) Fall 2017, and `MAE
@@ -168,27 +164,30 @@ ENG 122 [Introduction to Mechanical Vibrations]
 
 I taught this course twice during the period. In the first offering, I
 developed a weekly one hour in-class computational learning module providing 40
-hours of active learning through live coding and a series of Jupyter_
-notebooks. Jupyter is a tool for weaving traditional textbook content with code
-and interactive web-based content. After the first offering, I developed `a
-proposal`_ to the UCD Center for Educational Effectiveness and was
-awarded $22k to transform ENG 122 from lecture-style to one where students
-learn through in-class computational thinking exercises. This funding included
-the creation of an interactive open access textbook_, a set of
-computational homeworks, development of a project, an `educational
+hours of active learning through live coding and a series of Jupyter_ notebooks
+[#]_. After the first offering, I developed `a proposal`_ to the UCD Center for
+Educational Effectiveness and was awarded $22k to transform ENG 122 from
+lecture-style to learning through in-class "computational thinking" exercises.
+This funding included the creation of an interactive open access textbook_, a
+set of computational homeworks, development of a project, an `educational
 oriented software package`_, the setup of computational cloud infrastructure
 (JupyterHub_) for the course and the College of Engineering, and the creation
 of a training workshop for this pedagogy approach.
 
+.. [#] Jupyter is a tool for weaving traditional textbook content with code and
+   interactive web-based content.
+
 Graduate student Kenneth Lyons and I were funded by the grant to do this work.
 We successfully accomplished these goals and have presented the work locally
-and nationally as invited speakers to SacPy (a local industry oriented users
-group for the Python programming language), the UCD College of Education
-Graduate Group, and at JupyterCon 2018 (a new conference series created due to
-the exponential demand and wide adoption of the tool for research, industry,
-and education). Kenneth also presented `the work`_ for us at SciPy 2018, the
-popular conference on scientific and engineering computing with Python, as an
-accepted presentation.
+and nationally as invited speakers to SacPy [#]_, the UCD College of Education
+Graduate Group, and at JupyterCon 2018 [#]_. Kenneth also presented `the work`_
+for us at SciPy 2018, the popular conference on scientific and engineering
+computing with Python, as an accepted presentation.
+
+.. [#] SacPy is a local industry oriented users group for the Python
+   programming language.
+.. [#] A new conference series created due to the exponential demand and wide
+   adoption of the tool for research, industry, and education.
 
 As mentioned, this work included the development of a workshop with my Olin
 College colleague, Allen Downey, entitled "`Computational Thinking in the
@@ -203,9 +202,9 @@ Since I have begun this work I have received requests from half a dozen
 professors on campus to assist them with similar instructional needs. For
 example, Valeria la Saponara (MAE) has adopted the Jupyter tool for her
 composites course. I also applied to a $3M NSF IUSE grant with Delmar Larsen of
-the Chemistry department to add Jupyter to the widely LibreTexts_ project.
+the Chemistry department to add Jupyter to the widely used LibreTexts_ project.
 Although denied, it received favorable reviews and we have plans to resubmit.
-Lastly, I am now an editor for a new journal entitled "`The Journal of Open
+Lastly, I am now a co-editor for a new journal entitled "`The Journal of Open
 Source Education`_" which was conceived to allow educators to publish similar
 teaching materials as developed in my work.
 
@@ -224,7 +223,7 @@ EME 185A/B [Mechanical Systems Design Project]
 ----------------------------------------------
 
 Over the past two years, I have significantly increased the amount of time each
-team gets direct mentorship from myself and the teaching assistants.  I have
+team gets direct mentorship from myself and the teaching assistants. I have
 pushed for more TAs per team (decreased the ratio of teams to TA from 15 to 7)
 and have introduced a lead TA position with an 35% appointment. During the
 Spring quarter, 22 teams each met with the instructors for 50 minutes each
@@ -236,7 +235,7 @@ The teaching assistants and I have developed numerous improvements to the
 course [#]_. Students struggle with a number of practical engineering skills
 each year and we've come up with a series of learning modules that help address
 these: technical report writing, CAD based finite element analysis, 3D
-printing, project management with modern cloud services, an introduction to
+printing, project management with modern cloud services, and an introduction to
 micro-controllers. These are in addition to the design process learning modules
 which I have converted mostly to an active learning pedagogy.
 
@@ -247,22 +246,21 @@ which I have converted mostly to an active learning pedagogy.
 
 We have developed a 15 page `instructor guide`_ for the course that provides
 week-by-week tasks for all of the involved instructors. We have improved the
-assessments with a comprehensive set of learning objective mastery
-based rubrics for all of the written and oral assignments. These have been
-utilized for Canvas based ABET assessments with support from the CoE (Jennifer
-Quynn) and the CEE (Kara Moloney). This past year, we introduced Canvas quizzes
-for the reading materials to support the active learning shift. Lastly, I've
-enhanced the student peer evaluation process with a combination of CATME_ and
-custom generated reports. In particular, we provide anonymized views of the
-teams peer scores four times throughout the course to help quickly identify
-struggling teams. The teams use this information to work on group problems
-internally and the instructors use it to deliver target interventions and
-mediation This required us to convince the CoE to buy a site wide software
-license for CATME.
+assessments with a comprehensive set of learning objective mastery rubrics for
+all of the written and oral assignments. These have been utilized for Canvas
+based ABET assessments with support from the CoE (Jennifer Quynn) and the CEE
+(Kara Moloney). This past year, we introduced Canvas quizzes for the reading
+materials to support the active learning shift. Lastly, I've enhanced the
+student peer evaluation process with a combination of CATME_ and custom
+generated reports. In particular, we provide anonymized views of the teams peer
+scores four times throughout the course to help quickly identify struggling
+teams. The teams use this information to work on group problems internally and
+the instructors use it to deliver target interventions and mediation This
+required us to convince the CoE to buy a site wide software license for CATME.
 
 I have also worked to improve the project solicitation to gain new industry
 partners and to strengthen continued relationships with established partners.
-We have relationships with local, national and international
+We have relationships with local, national, and international
 sponsors/organizations including: Micro-Vu, Buffalo Bicycles, LightRiver Tech,
 Chalmers University of Technology, UCD Facilities, EksoBionics, Hegemony Tech,
 UCD ARC, WasteBusters, Wetlands Work, Western Cooling Efficiency Center, UCD
@@ -270,7 +268,7 @@ Med Center, UCD Vet Medicine, Seeley International's Integrated Comfort, Felt
 Bicycles, Nike Research Lab, ICUEMOTION, Sandia National Labs, InSciTech, LLNL,
 Dillon Engineering, Hill Engineering, and more. I have improved the
 professional presentation of the solicitation through a custom `proposal
-submission website`_ and a curated mailing list of 400+ potential sponsors. I
+submission website`_ and a curated mailing list of 200+ potential sponsors. I
 collect midterm and final feedback via surveys from the sponsors and used these
 to improve communication among the sponsors, teams, and instructors. Steve
 Velinsky and I have recruited 66 projects over the past two years that provided
@@ -293,15 +291,14 @@ participated in Engineering Week and the CoE design showcase. We have held
 cultural exchange lunches and dinners and visited local engineering companies
 and research labs. The highlight of the exchange have been the two final
 design competitions between the Meijo and UCD students, which was a huge
-success in terms of learning and cultural exchange. Due to these efforts, this
-past year I was awarded a $24k `Global Affairs Seed Grant`_ and took 12 UCD
-student to Japan for an unbelievable educational trip. We visited Nobel Prize
-winning research labs, the Toyota factory and museum, and all of the students
-presented their work to over 80 students and faculty in an international
-setting, something that is very unique for undergraduates. The Meijo
-Engineering Department was an incredible host. About a dozen of the faculty
-provided their personal time to us either through a lab tour or by attending
-the students' presentations.
+success. Due to these efforts, this past year I was awarded a $24k `Global
+Affairs Seed Grant`_ and took 12 UCD student to Japan for an unbelievable
+educational trip. We visited Nobel Prize winning research labs, the Toyota
+factory and museum, and all of the students presented their work to over 80
+students and faculty in an international setting, something that is very unique
+for undergraduates. The Meijo Engineering Department was an incredible host.
+About a dozen of the faculty provided their personal time to us either through
+a lab tour or by attending the students' presentations.
 
 .. _instructor guide: https://moorepants.github.io/eme185/pages/instructor-guide.html
 .. _CATME: http://catme.org
@@ -322,7 +319,7 @@ about `20 Jupyter notebooks`_ that I plan to turn into a companion interactive
 text as the years progress. I also managed to develop two new lectures to
 provide students an introduction to trajectory optimization of dynamic systems.
 Lastly, I made all of the `lecture videos`_ available on YouTube for public
-consumption and already have several hundred views.
+consumption and already have over a hundred views.
 
 .. _PyDy: http://www.pydy.org
 .. _20 Jupyter notebooks: https://moorepants.github.io/mae223/pages/schedule.html
@@ -334,12 +331,11 @@ MAE 297 [Graduate Seminar]
 I had a few goals for my offering of MAE 297: 1) increase the diversity
 (industry/academic, gender, age, etc.) of the speakers and the topics, 2) bring
 as many speakers as possible from outside UCD on the limited budget, and 3)
-initiate a method to share the talks with the world. I believe I succeeded in
-at all the goals. The speaker schedule, biographies, and videos can be viewed
-on the `course website`_ I developed. Most of the `speakers' talks`_ were
-posted publicly to YouTube. One of the speakers, Prof. Devin Berg, adopted the
-format with the website and videos for their new seminar series at the
-University of Wisconsin-Stout.
+initiate a method to share the talks with the world. The speaker schedule,
+biographies, and videos can be viewed on the `course website`_ I developed.
+Most of the `speakers' talks`_ were posted publicly to YouTube. One of the
+speakers, Prof. Devin Berg, adopted the format with the website and videos for
+their new seminar series at the University of Wisconsin-Stout.
 
 .. _course website: https://moorepants.github.io/mae297/
 .. _speakers' talks: https://www.youtube.com/playlist?list=PLzAwokZEM7asyvMmXP2pOU0s0V6OyRumi
@@ -382,7 +378,7 @@ R`_ to campus LPSOEs for the purposes of scholarly teaching and learning
 research, developed and taught the computational thinking workshop described
 above, and facilitated a workshop by international visitor Carlos Marroquin
 (Guatemala) on the design of appropriate technology in collaboration with the
-UC Davis D-Lab.  Externally, I developed and co-taught two workshops at SciPy:
+UC Davis D-Lab. Externally, I developed and co-taught two workshops at SciPy:
 `Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python`_ and
 `Automatic Code Generation with SymPy`_, and co-taught a `Software Carpentry
 workshop`_ for the California Delta Stewardship Council, Department of Water
@@ -414,13 +410,10 @@ publications for 2017. I make use of this software package for teaching in both
 ENG |_| 122 and MAE |_| 223 as well as research. I also published a paper in
 the Journal of Open Source Software on a software package I developed that
 allows a user to solve optimal control and parameter identification problems
-with direct collocation. It describes a method to simply specify the high level
-mathematical form of the problem and, once specified, automatic code generation
-takes care of creating efficient algorithms in compiled C code to solve the
-underlying non-linear programming problem. I published three conference
-proceedings papers and also have the rough draft of an interactive textbook for
-ENG 122, as mentioned above. Note that I attempt to strictly publish in Open
-Access venues, as an ethical imperative.
+with direct collocation. I published three conference proceedings papers and
+also have the rough draft of an interactive textbook for ENG 122, as mentioned
+above. Note that I attempt to strictly publish in Open Access venues, as an
+ethical imperative.
 
 .. _SymPy: http://sympy.org
 
@@ -433,18 +426,14 @@ specialized conference that brings together cross disciplinary researchers from
 engineering, urban planning, policy, and transportation studies to discuss
 bicycling safety. Davis, CA was chosen by the steering committee to host the
 first offering outside of Europe. With Deb Niemeier (Civil and Environmental
-Engineering), Mont Hubbard (Mech. and Aero.  Engineering), and Susan Handy
+Engineering), Mont Hubbard (Mech. and Aero. Engineering), and Susan Handy
 (Environmental Science and Policy) as co-organizers we brought over 170
-international visitors in for the conference. We partnered with the UCD
-National Center for Sustainable Transportation, the City of Davis, multiple
-bicycle companies, and local advocacy groups. This resulted in over 90 peer
-reviewed short papers, 60 presentations, 30 posters, and 2 workshops and the
-best work of the conference will be published in a special issue of the Journal
-of Safety Research due out in about a month. Additionally, our choice of
-keynotes highlighted a long standing detriment to bicycle safety that is
-socially accepted in policy decisions but has little to no scientific backing.
-This resulted in a number of media pieces on the topic (e.g. Capitol Public
-Radio, Government Technology, etc.).
+national and international visitors in for the conference. We partnered with
+the UCD National Center for Sustainable Transportation, the City of Davis,
+multiple bicycle companies, and local advocacy groups. This resulted in over 90
+peer reviewed short papers, 60 presentations, 30 posters, and 2 workshops and
+the best work of the conference will be published in a special issue of the
+Journal of Safety Research due out in about a month.
 
 Grants
 ------
@@ -572,15 +561,15 @@ spoke to a visiting group of Laguna High School Students organized by Barbara
 Linke for her NSF funded course and spoke at the Sacramento Python Users Group
 (SacPy) about my educational efforts that utilized the Python programming
 language. I was interviewed several times about the ICSC 2017 conference for
-NPR and other news outlets, as mentioned above. `The Huffington Post`_ and `The
-New York Times`_ interviewed my collaborators and me about our work on bicycle
-dynamics and control. I also arranged tours for around 30 students to
-TechnipFMC and DMG Mori last spring to further build our relationships with
-them. Lastly, the workshops at SciPy 2017, SciPy 2017, and the workshop for the
-Delta Stewardship Council, Department of Water Resources, and the California
-EPA provided non-academics with modern computational skills. My extensive
-contributions to open source software, particularly with the SymPy and PyDy
-projects, also provide substantial public benefit.
+NPR and other news outlets. `The Huffington Post`_ and `The New York Times`_
+interviewed my collaborators and me about our work on bicycle dynamics and
+control. I also arranged tours for around 30 students to TechnipFMC and DMG
+Mori last spring to further build our relationships with them. Lastly, the
+workshops at SciPy 2017, SciPy 2017, and the workshop for the Delta Stewardship
+Council, Department of Water Resources, and the California EPA provided
+non-academics with modern computational skills. My extensive contributions to
+open source software, particularly with the SymPy and PyDy projects, also
+provide substantial public benefit.
 
 .. _The Huffington Post: http://www.moorepants.info/blog/nsf-congress.html
 .. _The New York Times: https://www.nytimes.com/2018/07/23/well/as-easy-as-riding-a-bike.html
