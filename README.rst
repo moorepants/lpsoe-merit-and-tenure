@@ -7,11 +7,15 @@ the tenure process so that it can hopefully help others in similar positions.
 I'm also happy to get any feedback.
 
 Results
+=======
 
 July 1, 2015 to July 2, 2016
    1X merit received.
 July 1, 2016 to July 2, 2018
    In progress.
+
+License
+=======
 
 Merit and Tenure Materials (c) by Jason K. Moore
 
@@ -19,4 +23,4 @@ Merit and Tenure Materials is licensed under a Creative Commons Attribution 4.0
 International License.
 
 You should have received a copy of the license along with this work. If not,
-see <http://creativecommons.org/licenses/by/4.0/>.
+see http://creativecommons.org/licenses/by/4.0/.
