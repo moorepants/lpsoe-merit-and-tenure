@@ -425,7 +425,7 @@ multiple bicycle companies, and local advocacy groups. This resulted in over
 and the best work of the conference will be published in a special issue of the
 Journal of Safety Research.
 
-.. _90 peer reviewed short papers`_: https://icsc2017.figshare.com/
+.. _90 peer reviewed short papers: https://icsc2017.figshare.com/
 
 Grants
 ------
