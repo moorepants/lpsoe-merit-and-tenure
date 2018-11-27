@@ -267,9 +267,18 @@ Awarded [10]
 
 Failed [2]
 
-- [x] $3M, NSF libretext (a)
+- [x] $3M total, ~$200k to Jason, "Collaborative Research: Dissemination of the
+  LibreTexts Libraries through Expansion and Training in Digital Interfaces to
+  Enhance Science Education across the Nation" (a)
+  - Submitted December 12, 2017
+  - Exact amount: $2999921 ($1986470)
+  - Duration: 2018-06-01 to 2023-05-31
   - Also favorable reviews
-- [x] $3M, NSF SSI2: Code generation infrastructure
+- [x] $3M total, $567k to Jason, "Collaborative Research: SI2-SSI:
+  Infrastructure for Cross-Disciplinary Scientific Computation Through
+  Optimized Symbolic Code Generation with SymPy"
+  - Submitted September 20, 2016
+  - Duration: 2017-07-01 to 2020-06-30
   - Rejected with very favorable reviews, planning to resubmit
 
 Editor
@@ -370,9 +379,10 @@ f. Communication to the public based on professional expertise.
 
 Internal
 
-- Served on UGEP one week
-- [x] Served on the MAE undergraduate committee (a)
-- [x] Alternate on CoE IT Committee
+- Served on UGEP one week [2016-10 to 2016-11]
+- [x] Served on the MAE undergraduate committee [2016-11 to present] (a)
+- [x] Served on the MAE website committee [2017-06 to present]
+- [x] Alternate on CoE IT Committee [2017-04-21 to present]
 - [x] ABET assessments in EME 185, worked with Jenny Quynn and steven
 - [x] Developed talk to give to prospective students at Decision Day
 - [x] Master of Ceremony for MAE MS graduates
