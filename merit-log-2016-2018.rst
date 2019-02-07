@@ -291,7 +291,7 @@ Reviews
 -------
 
 - reviewed 10 SciPy 2017 tutorials (c)
-- REviewed Scipy 2018 tutorials (c)
+- reviewed Scipy 2018 tutorials (c)
 - 1 open engineering review (c)
 - BMD submissions
 
