@@ -9,9 +9,9 @@ I'm also happy to get any feedback.
 Results
 =======
 
-July 1, 2015 to July 2, 2016
+July 1, 2015 to June 30, 2016
    1X merit received.
-July 1, 2016 to July 2, 2018
+July 1, 2016 to June 30, 2018
    In progress.
 
 License
