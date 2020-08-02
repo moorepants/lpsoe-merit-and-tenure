@@ -9,10 +9,12 @@ I'm also happy to get any feedback.
 Results
 =======
 
-July 1, 2015 to July 2, 2016
+Appraisal: July 1, 2015 to July 2, 2018
+   Positive/guarded determination.
+Merit: July 1, 2016 to July 2, 2018
+   1.5X merit received.
+Merit: July 1, 2015 to July 2, 2016
    1X merit received.
-July 1, 2016 to July 2, 2018
-   In progress.
 
 License
 =======
