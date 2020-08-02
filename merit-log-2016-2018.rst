@@ -226,6 +226,7 @@ Talks
 - Meijo bicycle talk (b)
 - SciPy 2018 talk (by Kenny) (a)
 - Developed talk to give to prospective students at Decision Day
+- Gave talk to Physics code review group for Azalee
 
 Collaborators
 -------------
